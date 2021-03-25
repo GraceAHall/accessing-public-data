@@ -1,16 +1,6 @@
 
 
 
-<style>
-
-table {
-    width:100%;
-}
-
-</style>
-
-
-
 # Accessing public data
 TL;DR here are the links:
 
@@ -185,15 +175,32 @@ Jump to
 
 **Who uses the data?**
 
-**How to access**
-* SRA
-* ENA
-**Format**
+Everyone
 
 <br>
 
+**How to access**
+* SRA
+* ENA
+
+<br>
+
+**Format**
+
+FASTA
+
+<br><br>
+
 ### RNA
-**Who uses the data?**
+**Summary**
+
+One of the most commonly used forms of bioinformatics data. Often is represented as DNA sequence (using ATGC) rather than RNA form (using uracil). 
+
+Commonly used for: 
+* Differential gene expression (DE) analysis
+* Transcript isoform detection
+* RNA base modification
+* Transcript Regulation (miRNAs etc ) 
 
 **How to access**
 

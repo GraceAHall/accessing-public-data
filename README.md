@@ -1,3 +1,14 @@
+
+
+
+<style>
+table {
+    width:100%;
+}
+</style>
+
+
+
 # Accessing public data
 TL;DR here are the links:
 
@@ -25,42 +36,44 @@ In each section, the following is covered:
 <br>
 
 ## Contents
-* Summary of common data repositories
-    * NCBI
-    * ENA
-    * DDBJ
+* [Summary of common data repositories](#Common-data-Repositories)
+    * [NCBI](#NCBI)
+    * [ENA](#ENA)
+    * [DDBJ](#DDBJ)
 
-* Reads
-    * DNA
-    * RNA
-    * Epigenetics
+* [Reads](#Reads)
+    * [DNA](#DNA)
+    * [RNA](#RNA)
+    * [Epigenetics](#Epigenetics)
 
-* Genomes
-    * Assemblies
-    * Annotations
-    * Genes
-    * Taxonomy
+* [Genomes](#Genomes)
+    * [Assemblies](#Assemblies)
+    * [Annotations](#Annotations)
+    * [Genes](#Genes)
+    * [Taxonomy](#Taxonomy)
 
-* Transcriptomics
-    * Expression data
-    * Transcript isoforms
+* [Transcriptomics](#Transcriptomics)
+    * [Expression data](#Expression-data)
+    * [Transcript isoforms](#Transcript-isoforms)
+    * [Networks & pathways](#Networks-&-pathways)
 
-* Variation
-    * Sequence variation (SNVs/SNPs, Indels)
-    * Structural variation
+* [Variation](#Variation)
+    * [Sequence variation (SNVs/SNPs, Indels)](#Sequence-variation-(SNVs/SNPs,-Indels))
+    * [Structural variation](#Structural-variation)
 
-* Proteomics
-    * Protein structures
-    * Protein interactions
-    * Protein expression
+* [Proteomics](#Proteomics)
+    * [Protein structures](#Protein-structures)
+    * [Protein interactions](#Protein-interactions)
+    * [Protein expression](#Protein-expression)
+    * [Protein domains and functions](#Protein-domains-and-functions)
 
 <br><br>
 
 ## Common data Repositories
 Jump to
-* NCBI
-* ENA
-* DDBJ
+* [NCBI](#NCBI)
+* [ENA](#ENA)
+* [DDBJ](#DDBJ)
 
 <br>
 
@@ -160,9 +173,9 @@ These resources are all described in sections below.
 
 ## Reads
 Jump to
-* DNA
-* RNA
-* Epigenetics
+* [DNA](#DNA)
+* [RNA](#RNA)
+* [Epigenetics](#Epigenetics)
 
 <br>
 
@@ -204,10 +217,10 @@ Jump to
 
 ## Genomes
 Jump to
-* Assemblies
-* Annotations
-* Genes
-* Taxonomy
+* [Assemblies](#Assemblies)
+* [Annotations](#Annotations)
+* [Genes](#Genes)
+* [Taxonomy](#Taxonomy)
 
 
 
@@ -240,9 +253,9 @@ Jump to
 
 ## Transcriptomics
 Jump to
-* Expression data
-* Transcript isoforms
-* Networks & pathways
+* [Expression data](#Expression-data)
+* [Transcript isoforms](#Transcript-isoforms)
+* [Networks & pathways](#Networks-&-pathways)
 
 ### Expression data
 * GEO
@@ -268,8 +281,8 @@ Jump to
 
 ## Variation
 Jump to
-* Sequence variation (SNVs/SNPs, Indels)
-* Structural variation
+* [Sequence variation (SNVs/SNPs, Indels)](#Sequence-variation-(SNVs/SNPs,-Indels))
+* [Structural variation](#Structural-variation)
 
 ### Sequence variation (SNVs/SNPs, Indels)
 * ClinVar
@@ -289,10 +302,10 @@ Jump to
 
 ## Proteomics
 jump to
-* Protein structures
-* Protein interactions
-* Protein expression
-* Domains and function
+* [Protein structures](#Protein-structures)
+* [Protein interactions](#Protein-interactions)
+* [Protein expression](#Protein-expression)
+* [Protein domains and functions](#Protein-domains-and-functions)
 
 
 
@@ -312,7 +325,7 @@ jump to
 * Human Protein Atlas
 <br>
 
-### Domains and function
+### Protein domains and functions
 * InterPro
 
 <br><br>

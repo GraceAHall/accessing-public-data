@@ -78,19 +78,37 @@ There are 3 major organisations which house publically available data. While oth
 * The European Nucleotide Archive (EMBL-EBI)
 * The DNA Data Bank of Japan (DDBJ)
 
-<br>NCBI, EMBL-EBI, and DDBJ are all part of the International Nucleotide Sequence Database Collaboration (INSDC). The INSDC is an initiative which encourages the sharing of sequence data between organisations. As a result, data submitted to any of the three organizations are shared among them.  Everything from raw read data, to alignments, assemblies, and even functional annotations are shared. 
+<br>NCBI, EMBL-EBI, and DDBJ are all part of the International Nucleotide Sequence Database Collaboration (INSDC). The INSDC is an initiative which encourages the sharing of sequence data between organisations. As a result, data submitted to particular archives at any of the three organizations will be shared among them.  A large amount of information - from raw read data, to alignments, assemblies, functional annotations, and sample information - are shared. 
+
+The following is a table of the ***archives which share information***:
+
+<br>
 
 | Data | NCBI | EMBL-EBI | DDBJ |
 | ------ | ------ | ------ | ------ |
 | NGS reads | [Sequence Read Archive (SRA)](https://www.ncbi.nlm.nih.gov/sra/?term=all%5Bfilter%5D) | [ENA](https://www.ebi.ac.uk/ena/browser/home) | [DDBJ Sequence Read Archive (DRA)](https://ddbj.nig.ac.jp/DRASearch/) |
 | Capillary electrophoresis reads | [Trace Archive](https://trace.ncbi.nlm.nih.gov/Traces/trace.cgi?view=search) | [ENA](https://www.ebi.ac.uk/ena/browser/home) | [DDBJ Trace Archive (DTA)](https://www.ddbj.nig.ac.jp/dta/index-e.html) |
-| Annotated sequences (incl. assemblies) | [GenBank / RefSeq](https://www.ncbi.nlm.nih.gov/nuccore/?term=all%5Bfilter%5D) | [ENA](https://www.ebi.ac.uk/ena/browser/home) | [DDBJ](http://ddbj.nig.ac.jp/arsa/?lang=en) |
+| Annotated sequences (genes, assemblies etc) | [GenBank / RefSeq](https://www.ncbi.nlm.nih.gov/nuccore/?term=all%5Bfilter%5D) | [ENA](https://www.ebi.ac.uk/ena/browser/home) | [DDBJ](http://ddbj.nig.ac.jp/arsa/?lang=en) |
 | Samples | [BioSample](https://www.ncbi.nlm.nih.gov/biosample/?term=all%5Bfilter%5D) | [ENA](https://www.ebi.ac.uk/ena/browser/home) | [BioSample](https://ddbj.nig.ac.jp/BSSearch/) |
 | Studies | [BioProject](https://www.ncbi.nlm.nih.gov/bioproject/?term=all%5Bfilter%5D) | [ENA](https://www.ebi.ac.uk/ena/browser/home) | [BioProject](https://ddbj.nig.ac.jp/BPSearch/) |
 
 <br>
 
-As is visible above, similar databases are available at each of these providers, and they will mirror (hold a copy of) each others data which would be appropriate for the given database. This is helpful as it reduces data redundancy (NCBI, EMBL-EBI, and DDBJ accessions for a single piece of data are linked), improves download/upload speeds due to geographic closeness, and encourages international sharing of data. 
+As you can see, similar databases are available at each of these organisations, and they mirror (hold a copy of) each others data. This is helpful as it reduces data redundancy (NCBI, EMBL-EBI, and DDBJ accessions for a single piece of data are linked), improves download/upload speeds due to geographic closeness, and encourages international sharing of data. 
+
+While they share a large amount of data, there are some databases which are unique to each organisation. 
+
+The following is a table of archives ***which are not shared:***
+
+| NCBI | EMBL-EBI | DDBJ |
+| ------ | ------ | ------ |
+| `Variants` |
+| ClinVar | ------ | ------ |
+| ------ | ------ | ------ |
+| ------ | ------ | ------ |
+| ------ | ------ | ------ |
+| ------ | ------ | ------ |
+
 
 Many academic journals now insist on data being publically accessible. They may even specifically ask for your data to be housed in the above, and will request accession numbers to confirm this before publishing. #TODO confim this
 

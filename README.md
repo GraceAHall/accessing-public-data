@@ -16,11 +16,13 @@ TL;DR here are the links:
 
 
 ## Introduction
-Thanks to research becoming more open in the last decade, there is now a ***huge amount*** of freely available data online.  The push towards repeatable analysis and open access to data has had enormous impact on medical science, and will continue to do so in the future.
+Thanks to research becoming more open in the last decade, there is now a ***huge amount*** of freely available data online.  The push towards repeatable analysis and open access to data has had enormous impact on medical science, and will continue to do so in the future. Clearly, there is too much data to properly cite in a single document, but hopefully the main sections have been covered here. 
 
-This document is a ***beginners guide*** for how to access all this data. 
+This document is a ***beginners guide*** for how to access this data. 
 
-In each section, the following is covered:
+
+
+Data has been divided into sections as best as possible. <br>In each section, the following is covered:
 * Who uses the data? (what type of analysis / field)
 * How to access (download or use)
 * Format of the data 
@@ -30,7 +32,7 @@ In each section, the following is covered:
 ## Contents
 * [Summary of common data repositories](#Common-data-Repositories)
     * [NCBI](#NCBI)
-    * [ENA](#ENA)
+    * [EMBL-EBI](#EMBL-EBI)
     * [DDBJ](#DDBJ)
 
 * [Reads](#Reads)
@@ -61,15 +63,43 @@ In each section, the following is covered:
 
 <br><br>
 
-## Common data Repositories
+## Common data Repositories 
 Jump to
 * [NCBI](#NCBI)
-* [ENA](#ENA)
+* [EMBL-EBI](#EMBL-EBI)
 * [DDBJ](#DDBJ)
 
 <br>
 
+### Overview
+There are 3 major organisations which house publically available data. While other independent resources exist, the bulk of open-access data is stored within these 3 groups:
+
+* The National Center for Biotechnology Information (NCBI)
+* The European Nucleotide Archive (EMBL-EBI)
+* The DNA Data Bank of Japan (DDBJ)
+
+<br>NCBI, EMBL-EBI, and DDBJ are all part of the International Nucleotide Sequence Database Collaboration (INSDC). The INSDC is an initiative which encourages the sharing of sequence data between organisations. As a result, data submitted to any of the three organizations are shared among them.  Everything from raw read data, to alignments, assemblies, and even functional annotations are shared. 
+
+| Data | NCBI | EMBL-EBI | DDBJ |
+| ------ | ------ | ------ | ------ |
+| NGS, TGS reads | Sequence Read Archive (SRA) | ENA | DDBJ Sequence Read Archive (DRA) |
+| Capillary electrophoresis reads | [Trace Archive](https://trace.ncbi.nlm.nih.gov/Traces/trace.cgi?view=search) | ENA | DDBJ Trace Archive (DTA) |
+| Annotated sequences (incl assemblies) | GenBank / RefSeq | ENA | DDBJ |
+| Samples | BioSample | ENA | BioSample |
+| Studies | BioProject | ENA | BioProject |
+
+<br>
+
+Similar databases are available at each of these providers, and they will mirror (hold a copy of) each others data which would be appropriate for the given database. This is helpful as it reduces data redundancy (NCBI, EMBL-EBI, and DDBJ accessions for a single piece of data are linked), improves download/upload speeds due to geographic closeness, and encourages international sharing of data. 
+
+Many academic journals now insist on data being publically accessible. They may even specifically ask for your data to be housed in the above, and will request accession numbers to confirm this before publishing. #TODO confim this
+
+<br>
+
 ### NCBI
+American 
+
+Read more here:<br>
 https://www.ncbi.nlm.nih.gov/home/documentation/
 
 Here are the commonly used databases within NCBI:
@@ -77,7 +107,7 @@ Here are the commonly used databases within NCBI:
 Genome assemblies (contig, scaffold, draft and complete)
 
 * **BioProject**<br>
-
+Organisation of research projects & associated data (NCBI, ENA, DDBJ share this resource)
 
 * **BioSample**<br>
 
@@ -118,6 +148,10 @@ These resources are all described in sections below.
 
 ### ENA
 https://www.ebi.ac.uk/ena/browser/about/content
+
+* **BioProject**<br>
+Organisation of research projects & associated data (NCBI, ENA, DDBJ share this resource)
+
 * **BRENDA**<br>
 Enzymes & enzyme-ligand interactions
 
@@ -155,7 +189,28 @@ These resources are all described in sections below.
 <br>
 
 ### DDBJ
+* **AGD**<br>
+Controlled-access database of genotype-phenotype information
 
+* **BioProject**<br>
+Organisation of research projects & associated data (NCBI, ENA, DDBJ share this resource)
+
+* ****<br>
+
+
+* ****<br>
+
+
+* ****<br>
+
+
+* ****<br>
+
+
+* ****<br>
+
+
+* ****<br>
 
 
 <br><br>

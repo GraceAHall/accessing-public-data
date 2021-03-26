@@ -65,9 +65,10 @@ Data has been divided into sections as best as possible. <br>In each section, th
 
 ## Common data Repositories 
 Jump to
-* [NCBI](#NCBI)
-* [EMBL-EBI](#EMBL-EBI)
-* [DDBJ](#DDBJ)
+* [Overview](#Overview)
+* [Data sharing between organisations](#Shared-Data)
+* [Unique archives per organisation](#Unique-Archives-per-Organisation)
+* [Non open-access archives](#Non-open-access-archives)
 
 <br>
 
@@ -75,12 +76,16 @@ Jump to
 There are 3 major organisations which house publically available data. While other independent resources exist, the bulk of open-access data is stored within these 3 groups:
 
 * The National Center for Biotechnology Information (NCBI)
-* The European Nucleotide Archive (EMBL-EBI)
+* The European Bioinformatics Institute (EMBL-EBI)
 * The DNA Data Bank of Japan (DDBJ)
 
-<br>NCBI, EMBL-EBI, and DDBJ are all part of the International Nucleotide Sequence Database Collaboration (INSDC). The INSDC is an initiative which encourages the sharing of sequence data between organisations. As a result, data submitted to particular archives at any of the three organizations will be shared among them.  A large amount of information - from raw read data, to alignments, assemblies, functional annotations, and sample information - are shared. 
+<br>
 
-The following is a table of the ***archives which share information***:
+### Shared Data
+
+<br>NCBI, EMBL-EBI, and DDBJ are all part of the International Nucleotide Sequence Database Collaboration (INSDC). The INSDC is an initiative which *encourages the sharing of nucleotide sequence data between organisations*. As a result, data submitted to the archives below will be shared across relevant NCBI, EMBL-EBI, and DDBJ databases.  A large amount of information - from raw read data, to alignments, assemblies, functional annotations, and sample information - are shared. 
+
+The following is a table of  ***archives which share data***
 
 <br>
 
@@ -89,28 +94,54 @@ The following is a table of the ***archives which share information***:
 | NGS reads | [Sequence Read Archive (SRA)](https://www.ncbi.nlm.nih.gov/sra/?term=all%5Bfilter%5D) | [ENA](https://www.ebi.ac.uk/ena/browser/home) | [DDBJ Sequence Read Archive (DRA)](https://ddbj.nig.ac.jp/DRASearch/) |
 | Capillary electrophoresis reads | [Trace Archive](https://trace.ncbi.nlm.nih.gov/Traces/trace.cgi?view=search) | [ENA](https://www.ebi.ac.uk/ena/browser/home) | [DDBJ Trace Archive (DTA)](https://www.ddbj.nig.ac.jp/dta/index-e.html) |
 | Annotated sequences (genes, assemblies etc) | [GenBank / RefSeq](https://www.ncbi.nlm.nih.gov/nuccore/?term=all%5Bfilter%5D) | [ENA](https://www.ebi.ac.uk/ena/browser/home) | [DDBJ](http://ddbj.nig.ac.jp/arsa/?lang=en) |
-| Samples | [BioSample](https://www.ncbi.nlm.nih.gov/biosample/?term=all%5Bfilter%5D) | [ENA](https://www.ebi.ac.uk/ena/browser/home) | [BioSample](https://ddbj.nig.ac.jp/BSSearch/) |
+| Samples | [BioSample](https://www.ncbi.nlm.nih.gov/biosample/?term=all%5Bfilter%5D) | [BioSamples](https://www.ebi.ac.uk/biosamples/) | [BioSample](https://ddbj.nig.ac.jp/BSSearch/) |
 | Studies | [BioProject](https://www.ncbi.nlm.nih.gov/bioproject/?term=all%5Bfilter%5D) | [ENA](https://www.ebi.ac.uk/ena/browser/home) | [BioProject](https://ddbj.nig.ac.jp/BPSearch/) |
 
 <br>
 
-As you can see, similar databases are available at each of these organisations, and they mirror (hold a copy of) each others data. This is helpful as it reduces data redundancy (NCBI, EMBL-EBI, and DDBJ accessions for a single piece of data are linked), improves download/upload speeds due to geographic closeness, and encourages international sharing of data. 
+Similar databases are available at each of these organisations, and they mirror (hold a copy of) each others relevant data. This is helpful as it reduces data redundancy (NCBI, EMBL-EBI, and DDBJ accessions for a single piece of data are linked), improves download/upload speeds due to geographic closeness, and encourages international sharing of data. 
 
-While they share a large amount of data, there are some databases which are unique to each organisation. 
+<br>
 
-The following is a table of archives ***which are not shared:***
+Data is stored in the following hierarchy:
+
+<br>
+
+<img src='media/data_hierarchy.png' style="">
+
+<br>
+
+<br>
+
+### Unique archives per organisation
+
+<br>While they share a large amount of data, there are some databases which are unique to each organisation. In general contain more specific data?
+
+The following is a table of ***archives which do not automatically share data***
+
+<br>
 
 | NCBI | EMBL-EBI | DDBJ |
 | ------ | ------ | ------ |
-| `Variants` |
+| <br>**Genetic Variation** |
 | ClinVar | ------ | ------ |
+| <br>**Transcriptomics** |
 | ------ | ------ | ------ |
+| <br>**Proteomics** |
 | ------ | ------ | ------ |
-| ------ | ------ | ------ |
+| Transcriptomics |
 | ------ | ------ | ------ |
 
+<br>
 
-Many academic journals now insist on data being publically accessible. They may even specifically ask for your data to be housed in the above, and will request accession numbers to confirm this before publishing. #TODO confim this
+text
+
+<br>
+
+
+### Non open-access archives
+
+
 
 <br>
 
@@ -164,8 +195,12 @@ These resources are all described in sections below.
 
 <br>
 
-### ENA
+### EMBL-EBI
+ELIXIR data archives:<br>
+https://elixir-europe.org/services/list?field_scientific_domain_tid=All&field_elixir_badge_tid=All&field_type_of_service_tid=1134&field_elixir_node_target_id=All&combine=
+
 https://www.ebi.ac.uk/ena/browser/about/content
+
 
 * **BioProject**<br>
 Organisation of research projects & associated data (NCBI, ENA, DDBJ share this resource)
@@ -229,6 +264,13 @@ Organisation of research projects & associated data (NCBI, ENA, DDBJ share this 
 
 
 * ****<br>
+
+
+<br>
+
+### Conclusion
+
+Many academic journals now insist on data being publically accessible. They may even specifically ask for your data to be housed in the above, and will request accession numbers to confirm this before publishing. #TODO confim this
 
 
 <br><br>
@@ -313,7 +355,8 @@ Jump to
 <br>
 
 ### Annotations
-* ENCODE 
+* ENCODE
+* GENCODE 
 <br>
 
 ### Genes
@@ -342,6 +385,8 @@ Jump to
 ### Expression data
 * GEO
 * GTEx
+* Tabula Muris
+* 
 
 <br>
 

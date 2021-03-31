@@ -72,16 +72,12 @@ Jump to
 
 <br>
 
-<span style="display:block; color:red" class="note">
-
 ### Overview
 There are 3 major organisations which house publically available data. While other independent resources exist, the bulk of open-access data is stored within these 3 groups:
 
 * The National Center for Biotechnology Information (NCBI)
 * The European Bioinformatics Institute (EMBL-EBI)
 * The DNA Data Bank of Japan (DDBJ)
-
-</span>
 
 <br>
 
@@ -277,6 +273,11 @@ Many academic journals now insist on data being publically accessible. They may 
 
 <br><br>
 
+| Hello |
+| ----- |
+| Thing 1 |
+| Thing 2 |
+| Thing 3 |
 
 
 

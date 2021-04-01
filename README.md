@@ -222,6 +222,10 @@ For extra information about the read set, expand the 'Show Column Selection' dro
 
 NCBI SRA
 
+The process for NCBI SRA is similar to ENA, but is a little more involved. It often returns more results than ENA, and there are ***more filtering options*** available in the left-hand panel, and in the 'Results by taxon' section on the right.
+
+Clicking one of the results takes you to a SRA experiment page, which contains metadata and a link to the actual sequencing run. At the bottom is the 'Runs' section, which contains the run accession we want (in this case SRR14102829).  
+
 <br>
 
 <p align="center">
@@ -236,14 +240,33 @@ NCBI SRA
     <img src="media/SRA3.PNG" width="90%">
 </p>
 
+<br>
 
+After clicking on the run accession (SRR14102829), you are transferred to the SRA archive which contains the run information and download links. 
 
+Go to the 'Data access' tab to find the data. 
 
- 
+Once here, the read set can be downloaded via the links in the 'Original format' section on the bottom. 
+
+<br><br>
 
 **Data format**
 
+Read data is almost always in FASTQ format. This format contains 4 lines per sequence:
+* Read identifier
+* Sequence
+* Spacer (the '+' character)
+* Quality string
+
 <br>
+<p align="left">
+    <img src="media/read1.PNG" width="90%">
+</p>
+
+
+The actual sequence of the read is line 2, and the base-accuracy quality score associated with each base is line 4. Base qualities are seen as characters, but actually represent numbers (convert from ASCII character to decimal then deduct 33 usually to get the Phred quality score)
+
+<br><br>
 
 ### Capillary Electrophoresis 
 

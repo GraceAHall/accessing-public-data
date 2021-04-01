@@ -276,7 +276,7 @@ Many academic journals now insist on data being publically accessible. They may 
 | Hello |
 | ----- |
 | Thing 1 |
-| 🔴 |
+| 🔴     |
 | Thing 2 |
 | Thing 3 |
 

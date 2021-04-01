@@ -276,8 +276,24 @@ Many academic journals now insist on data being publically accessible. They may 
 | Hello |
 | ----- |
 | Thing 1 |
+| 🔴 |
 | Thing 2 |
 | Thing 3 |
+
+
+---
+
+<h2>Thing 1</h2>
+
+asdas
+
+---
+
+<h2>Thing 2</h2>
+
+asdas
+
+---
 
 
 

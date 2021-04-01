@@ -260,11 +260,7 @@ Jump to
 
 <br>
 
-🔴 - Low
-
-🟡 - Med
-
-🟢 - High
+🔴 Low 🟡 Med 🟢 High
 
 <br>
 
@@ -302,11 +298,7 @@ Jump to
 
 <br>
 
-🔴 - Low
-
-🟡 - Med
-
-🟢 - High
+🔴 Low 🟡 Med 🟢 High
 
 <br>
 
@@ -340,11 +332,7 @@ jump to
 
 <br>
 
-🔴 - Low
-
-🟡 - Med
-
-🟢 - High
+🔴 Low 🟡 Med 🟢 High
 
 <br>
 
@@ -397,11 +385,7 @@ jump to
 
 <br>
 
-🔴 - Low
-
-🟡 - Med
-
-🟢 - High
+🔴 Low 🟡 Med 🟢 High
 
 <br>
 
@@ -419,11 +403,7 @@ jump to
 
 <br>
 
-🔴 - Low
-
-🟡 - Med
-
-🟢 - High
+🔴 Low 🟡 Med 🟢 High
 
 <br>
 
@@ -442,11 +422,7 @@ jump to
 
 <br>
 
-🔴 - Low
-
-🟡 - Med
-
-🟢 - High
+🔴 Low 🟡 Med 🟢 High
 
 <br>
 

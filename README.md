@@ -118,11 +118,11 @@ https://www.ncbi.nlm.nih.gov/home/documentation/
 
 
 <br>
-<img src='media/nucleotide_databases.png'>
+<img src='media/nucleotide_databases.png' style='align:center; width=80%'>
 <br>
 
 <br>
-<img src='media/variants.png'>
+<img src='media/variants.png' style='align:center; width=80%'>
 <br>
 
 <br>

@@ -178,7 +178,7 @@ Jump to:
 
 <br>
 
-**Who uses the data**
+**Who uses these archives**
 
 Sequence reads are one of the most commonly used forms of bioinformatics data. They often are represented as DNA sequence (using ATGC) in FASTQ format regardless of whether they are DNA or RNA sequence. 
 
@@ -272,7 +272,7 @@ The actual sequence of the read is line 2, and the base-accuracy quality score a
 
 <br>
 
-**Who uses the data**
+**Who uses these archives**
 
 Capillary Electrophoresis (Sanger) sequencing is no longer commonly used, but is still viable data. 
 
@@ -321,18 +321,31 @@ Jump to
 | [NCBI Nucleotide](https://www.ncbi.nlm.nih.gov/nuccore/) | All nucleotide information | All | 🟡 | 🟢 | 🔴 |
 | [DDBJ](https://www.ddbj.nig.ac.jp/index-e.html) | All nucleotide information | All | 🔴 | 🟢 | 🔴 |
 
+<br><br>
 
 ### All nucleotide sequences
 
 <br>
 
-**Who uses the data**
+**Who uses these archives**
 
-**How to access**
+NCBI Nucleotide, ENA and DDBJ contain 
+
+People doing a wide search:
+* If your biological question is narrow, you may just want to know if any sequence data exists
+* Searching these large central archives will inform you on the entirety of the data you may find in any location
+
+<br>
 
 <p align="center">
     <img src="media/nucleotide_databases.png" width="90%">
 </p>
+
+<br>
+
+**How to access**
+
+
 
 **Data format**
 

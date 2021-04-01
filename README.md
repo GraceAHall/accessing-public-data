@@ -329,7 +329,7 @@ Jump to
 
 **Who uses these archives**
 
-NCBI Nucleotide, ENA and DDBJ contain 
+NCBI Nucleotide, ENA and DDBJ are locations where you can search for nucleotide data of any kind. These act as central repositories, and are linked to from other more specific archives.  
 
 People doing a wide search:
 * If your biological question is narrow, you may just want to know if any sequence data exists

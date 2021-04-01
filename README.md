@@ -156,11 +156,7 @@ Jump to:
 <br>[Next Gen Sequencing](#Next-Gen-Sequencing)
 <br>[Capillary Electrophoresis](#Capillary-Electrophoresis)
 
-<br>
-
-### Databases
-
-<br>
+<br><br>
 
 🔴 Low 🟡 Med 🟢 High
 
@@ -169,9 +165,11 @@ Jump to:
 
 | Name | Data stored | Organisms | Ease<br>of<br>Access | Amount<br>of<br>data | Data<br>curation<br>/quality | 
 | --- | :-: | :-: | :-: | :-: | :-: |
+| <br><br>**Next Gen Sequencing** |
 | [ENA](https://www.ebi.ac.uk/ena/browser/home) | All nucleotide data | All | 🟢 | 🟢 | 🔴 |
 | [SRA](https://www.ncbi.nlm.nih.gov/sra) | High-throughput sequence data - capillary, short & long NGS reads | All | 🟡 | 🟢 | 🔴 |
 | [DRA](https://www.ddbj.nig.ac.jp/dra/index-e.html) | High-throughput sequence data - capillary, short & long NGS reads | All | 🔴 | 🟢 | 🔴 |
+| <br><br>**Capillary Electrophoresis** |
 | [NCBI Trace Archive](https://trace.ncbi.nlm.nih.gov/Traces/trace.cgi) | Capillary sequencing only (replaced by SRA)  | All | 🔴 | 🟢 | 🔴 |
 | [DDBJ Trace Archive (DTA)](https://www.ddbj.nig.ac.jp/dta/index-e.html) | Capillary sequencing only (replaced by DRA)  | All | 🔴 | 🟢 | 🔴 |
 

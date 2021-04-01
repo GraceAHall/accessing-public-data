@@ -157,14 +157,6 @@ Many academic journals now insist on data being publically accessible. They may 
 
 
 ## Reads
-Jump to
-* [DNA](#DNA)
-* [RNA](#RNA)
-* [Epigenetics](#Epigenetics)
-
-<br>
-
-Reads 
 
 <br>
 
@@ -176,43 +168,13 @@ Reads
 | [NCBI Trace Archive](https://trace.ncbi.nlm.nih.gov/Traces/trace.cgi) | Capillary sequencing only (replaced by SRA)  | All | 🔴 | 🟢 | 🔴 |
 | [DDBJ Trace Archive (DTA)](https://www.ddbj.nig.ac.jp/dta/index-e.html) | Capillary sequencing only (replaced by DRA)  | All | 🔴 | 🟢 | 🔴 |
 
-<br>
-
-Genomics
-
-<br>
-
-| Name | Data stored | Organisms | Ease<br>of<br>Access | Amount<br>of<br>data | Data<br>curation<br>/quality | 
-| --- | :-: | :-: | :-: | :-: | :-: |
 
 <br>
 
 
+### Who uses the data
 
-### DNA
-
-**Who uses the data?**
-
-Everyone
-
-<br>
-
-**How to access**
-* SRA
-* ENA
-
-<br>
-
-**Format**
-
-FASTA
-
-<br><br>
-
-### RNA
-**Summary**
-
-One of the most commonly used forms of bioinformatics data. Often is represented as DNA sequence (using ATGC) rather than RNA form (using uracil). 
+Reads are one of the most commonly used forms of bioinformatics data. They often are represented as DNA sequence (using ATGC) regardless of whether they are DNA or RNA sequence. 
 
 Commonly used for: 
 * Differential gene expression (DE) analysis
@@ -220,24 +182,9 @@ Commonly used for:
 * RNA base modification
 * Transcript Regulation (miRNAs etc ) 
 
-**How to access**
+### How to access
 
-**Format**
-
-<br>
-
-### Epigenetics
-
-**Who uses the data?**
-
-**How to access**
-
-**Format**
-
-<br>
-
-
-
+### Data format
 
 
 <br><br>

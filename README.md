@@ -329,25 +329,41 @@ Jump to
 
 **Who uses these archives**
 
-NCBI Nucleotide, ENA and DDBJ are locations where you can search for nucleotide data of any kind. These act as central repositories, and are linked to from other more specific archives.  
+NCBI Nucleotide, ENA and DDBJ are locations where you can search for nucleotide data of any kind. These act as central repositories for data search and storage. Many other databases link to these repositories. 
 
-People doing a wide search:
-* If your biological question is narrow, you may just want to know if any sequence data exists
-* Searching these large central archives will inform you on the entirety of the data you may find in any location
+NCBI nucleotide is a search which pulls data from sources which actually store the data, such as GenBank, RefSeq, and the TPA (see below).  
+
+ENA and DDBJ are more straightforward, and appear as a single entity to the user.  
+
+The data in these repositories appear in more specific archives.  For example, [NCBI gene]() contains gene sequences deposited in GenBank and RefSeq, and contains additional information for each listed gene. 
+
+
 
 <br>
 
 <p align="center">
-    <img src="media/nucleotide_databases.png" width="90%">
+    <img src="media/nucleotide_databases.png" width="70%">
 </p>
+
+<br>
+
+People doing a wide search may find these archives helpful:
+* If your biological question is narrow, you may just want to know what sequence data exists (if any)
+* Searching these large central archives will inform you on the entirety of the data you may find in any location
+
 
 <br>
 
 **How to access**
 
-
+* Advanced searches
+* Filtering
 
 **Data format**
+
+* Depends on the data - keep in mind, these are collections of any nucleotide sequence, so the actual format may differ. Nucleotide sequences are generally stored in FASTA format. 
+
+* FASTA files 
 
 <br>
 

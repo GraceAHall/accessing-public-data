@@ -150,22 +150,13 @@ Many academic journals now insist on data being publically accessible. They may 
 
 <br><br>
 
-| Hello |
-| ----- |
-| Thing 1 |
-| 🔴 🟡 🟢 |
-| Thing 2 |
-| Thing 3 |
-
-
-
 ## Reads
 
 <br>
 
 | Name | Data stored | Organisms | Ease<br>of<br>Access | Amount<br>of<br>data | Data<br>curation<br>/quality | 
 | --- | :-: | :-: | :-: | :-: | :-: |
-| [European nucleotide archive (ENA)](https://www.ebi.ac.uk/ena/browser/home) | All nucleotide information | All | 🟢 | 🟢 | 🔴 |
+| [European nucleotide archive (ENA)](https://www.ebi.ac.uk/ena/browser/home) | All nucleotide data | All | 🟢 | 🟢 | 🔴 |
 | [Sequence read archive (SRA)](https://www.ncbi.nlm.nih.gov/sra) | High-throughput sequence data - capillary, short & long NGS reads | All | 🟡 | 🟢 | 🔴 |
 | [DDBJ Sequence Read Archive (DRA)](https://www.ddbj.nig.ac.jp/dra/index-e.html) | High-throughput sequence data - capillary, short & long NGS reads | All | 🔴 | 🟢 | 🔴 |
 | [NCBI Trace Archive](https://trace.ncbi.nlm.nih.gov/Traces/trace.cgi) | Capillary sequencing only (replaced by SRA)  | All | 🔴 | 🟢 | 🔴 |
@@ -192,14 +183,30 @@ Commonly used for:
 
 <br><br>
 
-## Genomes
+## Genomics
 Jump to
 * [Assemblies](#Assemblies)
 * [Annotations](#Annotations)
 * [Genes](#Genes)
 * [Taxonomy](#Taxonomy)
 
+🟡🟢🔴
+<br>
 
+| Category | Name | Data stored | Organisms | Ease<br>of<br>Access | Amount<br>of<br>data | Data<br>curation<br>/quality | 
+| --- | --- | :-: | :-: | :-: | :-: | :-: |
+| Nucleotide sequences | [European nucleotide archive (ENA)](https://www.ebi.ac.uk/ena/browser/home) | All nucleotide sequences | All | 🟢 | 🟢 | 🔴 |
+| Nucleotide sequences | [NCBI Nucleotide](https://www.ncbi.nlm.nih.gov/nuccore/) | All nucleotide sequences | All | 🟡 | 🟢 | 🔴 |
+| Nucleotide sequences | [DNA Data Bank of Japan (DDBJ)](https://www.ddbj.nig.ac.jp/index-e.html) | All nucleotide sequences | All | 🔴 | 🟢 | 🔴 |
+| Assemblies | NCBI Assembly | :-: | :-: | :-: | :-: | :-: |
+| Assemblies | European nucleotide archive | :-: | :-: | :-: | :-: | :-: |
+| Assemblies | --- | :-: | :-: | :-: | :-: | :-: |
+| Assemblies | --- | :-: | :-: | :-: | :-: | :-: |
+| Assemblies | --- | :-: | :-: | :-: | :-: | :-: |
+| Assemblies | --- | :-: | :-: | :-: | :-: | :-: |
+
+
+<br>
 
 ### Assemblies
 * NCBI Assembly
@@ -234,6 +241,13 @@ Jump to
 * [Expression data](#Expression-data)
 * [Transcript isoforms](#Transcript-isoforms)
 * [Networks & pathways](#Networks-&-pathways)
+
+<br>
+
+| Name | Data stored | Organisms | Ease<br>of<br>Access | Amount<br>of<br>data | Data<br>curation<br>/quality | 
+| --- | :-: | :-: | :-: | :-: | :-: |
+
+<br>
 
 ### Expression data
 * GEO

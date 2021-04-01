@@ -117,9 +117,6 @@ Read more here:<br>
 https://www.ncbi.nlm.nih.gov/home/documentation/
 
 
-
-
-
 <br>
 
 ### EMBL-EBI
@@ -128,13 +125,11 @@ https://elixir-europe.org/services/list?field_scientific_domain_tid=All&field_el
 
 https://www.ebi.ac.uk/ena/browser/about/content
 
-
-
-
 <br>
 
 ### DDBJ
 
+Is bad
 
 <br>
 
@@ -177,19 +172,33 @@ Jump to:
 
 **Who uses the data**
 
-Reads are one of the most commonly used forms of bioinformatics data. They often are represented as DNA sequence (using ATGC) regardless of whether they are DNA or RNA sequence. 
+Sequence reads are one of the most commonly used forms of bioinformatics data. They often are represented as DNA sequence (using ATGC) in FASTQ format regardless of whether they are DNA or RNA sequence. 
 
-Commonly used for: 
+Reads form the basis of modern-day bioinformatics, and are used in nearly every field. Common uses of reads include: 
 * Differential gene expression (DE) analysis
+* Variant calling & GWAS
+* Genome assembly
+* Microbiome characterisation
+* Epigenetic analysis
 * Transcript isoform detection
-* RNA base modification
-* Transcript Regulation (miRNAs etc ) 
+
+<br>
 
 **How to access**
 
 <p align="center">
-    <img src="media/nucleotide_databases.png" width="90%">
+    <img src="media/SRA1.png" width="90%">
 </p>
+
+<p align="center">
+    <img src="media/SRA2.png" width="90%">
+</p>
+
+<p align="center">
+    <img src="media/SRA3.png" width="90%">
+</p>
+
+
 
 **Data format**
 
@@ -250,6 +259,10 @@ Jump to
 **Who uses the data**
 
 **How to access**
+
+<p align="center">
+    <img src="media/nucleotide_databases.png" width="90%">
+</p>
 
 **Data format**
 

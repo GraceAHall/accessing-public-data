@@ -190,22 +190,26 @@ Jump to
 * [Genes](#Genes)
 * [Taxonomy](#Taxonomy)
 
-🟡🟢🔴
+🔴 - Low
+
+🟡 - Med
+
+🟢 - High
 <br>
 
 | Name | Data stored | Organisms | Ease<br>of<br>Access | Amount<br>of<br>data | Data<br>curation<br>/quality | 
 | --- | :-: | :-: | :-: | :-: | :-: |
-| <br>All nucleotide sequences |
+|  <br><br>**All nucleotide sequences** |
 | [European nucleotide archive (ENA)](https://www.ebi.ac.uk/ena/browser/home) | All nucleotide sequences | All | 🟢 | 🟢 | 🔴 |
 | [NCBI Nucleotide](https://www.ncbi.nlm.nih.gov/nuccore/) | All nucleotide sequences | All | 🟡 | 🟢 | 🔴 |
 | [DNA Data Bank of Japan (DDBJ)](https://www.ddbj.nig.ac.jp/index-e.html) | All nucleotide sequences | All | 🔴 | 🟢 | 🔴 |
-| <br>Assemblies | 
+|  <br><br>**Assemblies** | 
 | [European nucleotide archive (ENA)](https://www.ebi.ac.uk/ena/browser/home) | All nucleotide sequences | All | 🟢 | 🟢 | 🔴 |
 | [NCBI Assembly](https://www.ncbi.nlm.nih.gov/assembly/) | Genome Assemblies | All | 🟡 | 🟢 | 🔴 |
 | [DNA Data Bank of Japan (DDBJ)](https://www.ddbj.nig.ac.jp/index-e.html) | All nucleotide sequences | All | 🔴 | 🟢 | 🔴 |
-| <br><br>Taxonomy | 
+| <br><br>**Taxonomy** | 
 | [NCBI Taxonomy](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1423) | The standard taxonomy system | All | 🟡 | 🟢 | 🔴 |
-| <br><br>Functional Elements | 
+| <br><br>**Functional Elements** | 
 | [Encyclopedia of DNA Elements (ENCODE)](https://www.encodeproject.org/) | Annotations for human functional DNA elements | Human + select model organisms | 🟢 | 🟢 | 🟢 |
 | [Encyclopedia of genes and gene variants (GENCODE)](https://www.gencodegenes.org/) | Annotations for human (and mouse) genes | Human, Mouse | 🟢 | 🟢 | 🟢 |
 | [---]() | :-: | :-: | :-: | :-: | :-: |

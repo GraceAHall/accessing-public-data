@@ -198,7 +198,7 @@ Reads form the basis of modern-day bioinformatics, and are used in nearly every 
     <img src="media/SRA3.png" width="90%">
 </p>
 
-
+ 
 
 **Data format**
 

@@ -195,6 +195,7 @@ Jump to
 🟡 - Med
 
 🟢 - High
+
 <br>
 
 | Name | Data stored | Organisms | Ease<br>of<br>Access | Amount<br>of<br>data | Data<br>curation<br>/quality | 
@@ -212,11 +213,11 @@ Jump to
 | <br><br>**Functional Elements** | 
 | [Encyclopedia of DNA Elements (ENCODE)](https://www.encodeproject.org/) | Annotations for human functional DNA elements | Human + select model organisms | 🟢 | 🟢 | 🟢 |
 | [Encyclopedia of genes and gene variants (GENCODE)](https://www.gencodegenes.org/) | Annotations for human (and mouse) genes | Human, Mouse | 🟢 | 🟢 | 🟢 |
-| [---]() | :-: | :-: | :-: | :-: | :-: |
-| [---]() | :-: | :-: | :-: | :-: | :-: |
-| [---]() | :-: | :-: | :-: | :-: | :-: |
-| [---]() | :-: | :-: | :-: | :-: | :-: |
-| [---]() | :-: | :-: | :-: | :-: | :-: |
+| [GeneCards](https://www.genecards.org/) | Aggregator for all gene-centric data. Each gene listed once. | Human | 🟢 | 🟢 | 🟡 |
+| [NCBI Gene](https://www.ncbi.nlm.nih.gov/gene/) | Genes and links to data/metadata | All | 🟡 | 🟢 | 🔴 |
+| [European nucleotide archive (ENA)]() | All nucleotide information | All | 🟢 | 🟢 | 🔴 |
+| [NCBI Nucleotide](https://www.ncbi.nlm.nih.gov/nuccore/) | All nucleotide information | All | 🟡 | 🟢 | 🔴 |
+| [DNA Data Bank of Japan (DDBJ)](https://www.ddbj.nig.ac.jp/index-e.html) | All nucleotide information | All | 🔴 | 🟢 | 🔴 |
 
 
 

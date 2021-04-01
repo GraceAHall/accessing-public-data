@@ -463,7 +463,7 @@ jump to
 
 <br>
 
-🔴 - Low 🟡 - Med 🟢 - High
+🔴 Low 🟡 Med 🟢 High
 
 <br>
 

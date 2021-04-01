@@ -366,8 +366,8 @@ jump to
 | [PRIDE](https://www.ebi.ac.uk/pride/) | Mass spectrometry data | All | 🟡 | 🟢 | 🟢 |
 | <br><br>**EM, XRay, NMR Data** | 
 | [EMDB](https://wwwdev.ebi.ac.uk/emdb/) | 3D EM density maps | All | 🟡 | 🟢 | 🟡 |
-| [EMPIRE](https://www.ebi.ac.uk/pdbe/emdb/empiar/) | Raw electron microscopy images | All | 🟡 | 🟡 | 🟡 |
 | [EMDataResource](https://www.emdataresource.org/index.html) | 3D EM density maps, models & metadata | All | 🔴 | 🟢 | 🟡 |
+| [EMPIRE](https://www.ebi.ac.uk/pdbe/emdb/empiar/) | Raw electron microscopy images | All | 🟡 | 🟡 | 🟡 |
 | [BMRB](https://bmrb.io/) | NMR data | All | 🔴 | 🟢 | 🟡 |
 
 <br>
@@ -407,9 +407,9 @@ jump to
 
 | Name | Data stored | Organisms | Ease<br>of<br>Access | Amount<br>of<br>data | Data<br>curation<br>/quality | 
 | --- | :-: | :-: | :-: | :-: | :-: |
-| Reactome  | :-: | :-: | :-: | :-: | :-: |
-| Rhea  | :-: | :-: | :-: | :-: | :-: |
-| KEGG | :-: | :-: | :-: | :-: | :-: |
+| [Reactome](https://reactome.org/) | Biological pathways | All | 🟢 | 🟢 | 🟢 |
+| [Rhea](https://www.rhea-db.org/) | Reactions of biological interest | All | 🟡 | 🟢 | 🟢 |
+| [KEGG](https://www.genome.jp/kegg/kegg2.html) | Biological systems | All | 🔴 | 🟢 | 🟢 |
 
 <br>
 
@@ -429,10 +429,10 @@ jump to
 
 | Name | Data stored | Organisms | Ease<br>of<br>Access | Amount<br>of<br>data | Data<br>curation<br>/quality | 
 | --- | :-: | :-: | :-: | :-: | :-: |
-| SILVA | :-: | :-: | :-: | :-: | :-: |
-| Ribosomal database project (RDP) | :-: | :-: | :-: | :-: | :-: |
-| MGnify | :-: | :-: | :-: | :-: | :-: |
-| BacDrive | :-: | :-: | :-: | :-: | :-: |
+| [SILVA](https://www.arb-silva.de/) | ribosomal RNA sequences | All | 🟡 | 🟢 | 🟢 |
+| [Ribosomal database project (RDP)](https://rdp.cme.msu.edu/index.jsp) | ribosomal RNA sequences | Bacteria, Archaea, Fungi | 🟡 | 🟢 | 🟡 |
+| [MGnify](https://www.ebi.ac.uk/metagenomics/) | Microbiome experiments & data | All | 🟢 | 🟢 | 🔴 |
+| [BacDrive](https://bacdive.dsmz.de/) | Bacterial information (Geographical, biochemical) | Bacteria | 🟢 | 🟢 | 🟢 |
 
 <br>
 
@@ -452,8 +452,8 @@ jump to
 
 | Name | Data stored | Organisms | Ease<br>of<br>Access | Amount<br>of<br>data | Data<br>curation<br>/quality | 
 | --- | :-: | :-: | :-: | :-: | :-: |
-| ChEMBL  | :-: | :-: | :-: | :-: | :-: |
-| MetaboLights  | :-: | :-: | :-: | :-: | :-: |
+| [ChEMBL](https://www.ebi.ac.uk/chembl/)  | Bioactive molecules | All | 🟢 | 🟢 | 🟢 |
+| [MetaboLights](https://www.ebi.ac.uk/metabolights)  | Studies of Metabolites | All | 🟡 | 🟢 | 🟡 |
 
 <br>
 
@@ -474,23 +474,23 @@ jump to
 | Name | Data stored | Organisms | Ease<br>of<br>Access | Amount<br>of<br>data | Data<br>curation<br>/quality | 
 | --- | :-: | :-: | :-: | :-: | :-: |
 | <br><br>**Cancer** |   
-| --- | :-: | :-: | :-: | :-: | :-: |  
+| [COSMIC](https://cancer.sanger.ac.uk/cosmic) | Somatic mutations in human cancer | Human | 🟢 | 🟢 | 🟢 |  
 | <br><br>**Biological Images** | 
-| --- | :-: | :-: | :-: | :-: | :-: |
-| --- | :-: | :-: | :-: | :-: | :-: |
-| --- | :-: | :-: | :-: | :-: | :-: |   
-| <br><br>**Disease Biomarkers** |   
-| --- | :-: | :-: | :-: | :-: | :-: |   
+| [BioImage archive](https://www.ebi.ac.uk/biostudies/BioImages/studies) | All biological image data  | All | 🟢 | 🟢 | 🟢 |
+| [Image Data Resource (IDR)](https://idr.openmicroscopy.org/about/) | Image datasets from published studies | All | 🟢 | 🟡 | 🟢 |   
+| [Cell Image Library ](http://www.cellimagelibrary.org/home) | Images, videos, and animations of cells | All | 🟢 | 🟢 | 🟡 |
 | <br><br>**Neuroscience** |   
-| --- | :-: | :-: | :-: | :-: | :-: |  
+| [Allen Brain Map](https://portal.brain-map.org/) | Data and analysis related to the brain | Human, Mouse | 🟢 | 🟢 | 🟢 |  
 | <br><br>**Immunology** |   
-| --- | :-: | :-: | :-: | :-: | :-: |  
-| <br><br>**Fruit flies** |   
-| --- | :-: | :-: | :-: | :-: | :-: |  
+| [ImmGen](https://www.immgen.org/) | Microarray gene expression & regulation | Mouse | 🟢 | 🟢 | 🟢 |  
 | <br><br>**Biodiversity** |   
-| --- | :-: | :-: | :-: | :-: | :-: | 
+| [GBIF](https://www.gbif.org/) | Biodiversity data | All | 🟡 | 🟢 | 🟢 | 
+| <br><br>**Disease Biomarkers** |   
+| [BIONDA](http://bionda.mpc.ruhr-uni-bochum.de/start.php) | Biomarker candidates published in PubMed articles | Human | 🔴 | 🟢 | 🟡 |   
+| <br><br>**Fruit flies** |   
+| [FlyBase](https://flybase.org/) | All data types | Fruit flies | 🔴 | 🟢 | 🔴 |  
 | <br><br>**Epigenomics** |   
-| --- | :-: | :-: | :-: | :-: | :-: | 
+| [MethBase](http://smithlabresearch.org/software/methbase/) | Reference methylomes (bisulfide-seq) | Selected model organisms | 🔴 | 🟡 | 🟡 | 
 
 <br>
 

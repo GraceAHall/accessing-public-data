@@ -163,11 +163,28 @@ Jump to
 * [Epigenetics](#Epigenetics)
 
 <br>
-Next Gen Sequencing (NGS) 
+
+Reads 
+
+<br>
 
 | Name | Data stored | Organisms | Ease<br>of<br>Access | Amount<br>of<br>data | Data<br>curation<br>/quality | 
 | --- | :-: | :-: | :-: | :-: | :-: |
+| [European nucleotide archive (ENA)](https://www.ebi.ac.uk/ena/browser/home) | All nucleotide information | All | 🟢 | 🟢 | 🔴 |
 | [Sequence read archive (SRA)](https://www.ncbi.nlm.nih.gov/sra) | High-throughput sequence data - capillary, short & long NGS reads | All | 🟡 | 🟢 | 🔴 |
+| [DDBJ Sequence Read Archive (DRA)](https://www.ddbj.nig.ac.jp/dra/index-e.html) | High-throughput sequence data - capillary, short & long NGS reads | All | 🔴 | 🟢 | 🔴 |
+| --- | :-: | :-: | :-: | :-: | :-: |
+| --- | :-: | :-: | :-: | :-: | :-: |
+| --- | :-: | :-: | :-: | :-: | :-: |
+
+<br>
+
+Genomics
+
+<br>
+
+| Name | Data stored | Organisms | Ease<br>of<br>Access | Amount<br>of<br>data | Data<br>curation<br>/quality | 
+| --- | :-: | :-: | :-: | :-: | :-: |
 
 <br>
 

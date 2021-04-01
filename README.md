@@ -158,9 +158,14 @@ Jump to:
 
 <br>
 
+### Databases
+
+<br>
+
 🔴 Low 🟡 Med 🟢 High
 
 <br>
+
 
 | Name | Data stored | Organisms | Ease<br>of<br>Access | Amount<br>of<br>data | Data<br>curation<br>/quality | 
 | --- | :-: | :-: | :-: | :-: | :-: |

@@ -118,7 +118,7 @@ https://www.ncbi.nlm.nih.gov/home/documentation/
 
 
 <br>
-<img src='media/nucleotide_databases.png' style='align:center; width=80%'>
+<img src="media/nucleotide_databases.png" align="center" width="70%">
 <br>
 
 <br>

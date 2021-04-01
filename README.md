@@ -152,6 +152,14 @@ Many academic journals now insist on data being publically accessible. They may 
 
 ## Reads
 
+Jump to:
+<br>[Next Gen Sequencing](#Next-Gen-Sequencing)
+<br>[Capillary Electrophoresis](#Capillary-Electrophoresis)
+
+<br>
+
+🔴 Low 🟡 Med 🟢 High
+
 <br>
 
 | Name | Data stored | Organisms | Ease<br>of<br>Access | Amount<br>of<br>data | Data<br>curation<br>/quality | 
@@ -165,6 +173,13 @@ Many academic journals now insist on data being publically accessible. They may 
 
 <br>
 
+### Next Gen Sequencing
+
+<br>
+
+### Capillary Electrophoresis 
+
+<br>
 
 ### Who uses the data
 
@@ -190,11 +205,7 @@ Jump to
 * [Genes](#Genes)
 * [Taxonomy](#Taxonomy)
 
-🔴 - Low
-
-🟡 - Med
-
-🟢 - High
+🔴 Low 🟡 Med 🟢 High
 
 <br>
 

@@ -312,7 +312,15 @@ Jump to
 
 | Name | Data stored | Organisms | Ease<br>of<br>Access | Amount<br>of<br>data | Data<br>curation<br>/quality | 
 | --- | :-: | :-: | :-: | :-: | :-: |
-| <br><br>**** | 
+| <br><br>**Sequence Variation (SNPs, Indels etc)** | 
+| [Short Genetic Variation database (dbSNP)](https://www.ncbi.nlm.nih.gov/snp/) | All sequence variant data | Human | 🔴 | 🟢 | 🔴 |
+| [European Variation Archive (EVA)](https://www.ebi.ac.uk/eva/) | All sequence variant data | All | 🟡 | 🟢 | 🔴 |
+| [ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/) | Variant-phenotype relationship (health) | Human | 🔴 | 🟢 | 🟡 |
+| [Online Mendelian Inheritance in Man (OMIM)](https://www.omim.org/) | Gene-phenotype relationship | Human | 🔴 | 🟡 | 🟢 |
+| <br><br>**Structural Variation (SVs)** | 
+| [---]() | :-: | :-: | :-: | :-: | :-: |
+| [---]() | :-: | :-: | :-: | :-: | :-: |
+| [---]() | :-: | :-: | :-: | :-: | :-: |
 
 <br>
 

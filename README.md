@@ -313,14 +313,14 @@ Jump to
 | Name | Data stored | Organisms | Ease<br>of<br>Access | Amount<br>of<br>data | Data<br>curation<br>/quality | 
 | --- | :-: | :-: | :-: | :-: | :-: |
 | <br><br>**Sequence Variation (SNPs, Indels etc)** | 
-| [Short Genetic Variation database (dbSNP)](https://www.ncbi.nlm.nih.gov/snp/) | All sequence variant data | Human | 🔴 | 🟢 | 🔴 |
-| [European Variation Archive (EVA)](https://www.ebi.ac.uk/eva/) | All sequence variant data | All | 🟡 | 🟢 | 🔴 |
+| [European Variation Archive (EVA)](https://www.ebi.ac.uk/eva/) | All variant data | All | 🟡 | 🟢 | 🔴 |
+| [NCBI dbSNP](https://www.ncbi.nlm.nih.gov/snp/) | All sequence variant data | Human | 🔴 | 🟢 | 🔴 |
 | [ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/) | Variant-phenotype relationship (health) | Human | 🔴 | 🟢 | 🟡 |
 | [Online Mendelian Inheritance in Man (OMIM)](https://www.omim.org/) | Gene-phenotype relationship | Human | 🔴 | 🟡 | 🟢 |
 | <br><br>**Structural Variation (SVs)** | 
-| [---]() | :-: | :-: | :-: | :-: | :-: |
-| [---]() | :-: | :-: | :-: | :-: | :-: |
-| [---]() | :-: | :-: | :-: | :-: | :-: |
+| [European Variation Archive (EVA)](https://www.ebi.ac.uk/eva/) | All variant data | All | 🟡 | 🟢 | 🔴 |
+| [NCBI dbVar](https://www.ncbi.nlm.nih.gov/dbvar/) | All structural variant data | Human | 🔴 | 🟢 | 🔴 |
+| [Database of Genomic Variants (DGV)](http://dgv.tcag.ca/dgv/app/home) | Structural variation in healthy control samples (archived) | Human | 🔴 | 🟡 | 🟡 |
 
 <br>
 

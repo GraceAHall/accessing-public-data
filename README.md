@@ -211,10 +211,12 @@ Commonly used for:
 
 ## Genomics
 Jump to
-* [Assemblies](#Assemblies)
-* [Annotations](#Annotations)
-* [Genes](#Genes)
-* [Taxonomy](#Taxonomy)
+<br>[Assemblies](#Assemblies)
+<br>[Annotations](#Annotations)
+<br>[Genes](#Genes)
+<br>[Taxonomy](#Taxonomy)
+
+<br><br>
 
 🔴 Low 🟡 Med 🟢 High
 

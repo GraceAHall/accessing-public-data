@@ -356,8 +356,38 @@ People doing a wide search may find these archives helpful:
 
 **How to access**
 
-* Advanced searches
-* Filtering
+As these repositories are for *all nucleotide data*, they aren't always great at retreiving the data you want. The only archive I would suggest for beginners is ENA, as the filters are very straightforward and helpful. NCBI can be quite powerful, but requires some experience. 
+
+[NCBI Nucleotide advanced search](https://www.ncbi.nlm.nih.gov/nuccore/advanced) and [ENA advanced search](https://www.ebi.ac.uk/ena/browser/advanced-search) allow more specific queries and are the best option for finding data. 
+
+If advanced searches are hard to understand at first, simple filtering is a good alternative. Filtering will also teach you the fields which can be used to narrow your results. 
+
+In the example below, I am using NCBI Nucleotide to search for the AIRE gene. 2,228 results are given of varying types, including gene sequences, predicted gene sequences, genome assemblies, and read sets.  
+
+<p align="center">
+    <img src="media/nucleotide1.PNG" width="80%">
+</p>
+
+On the right we can select a specific taxonomic group to narrow our search, and below we can view the search details which NCBI nucleotide used. You can enter an advanced search here for more specific results (see this list of valid fields)
+
+Filters can be seen on the left side of the screen, and can be useful if you know how to use them. By setting the 'Sequence length' filter to 1700 - 2000 bp, we can narrow our search to only sequences which are orthologues of the AIRE gene. This narrows our results to 146 items. 
+
+<br>
+
+<p align="center">
+    <img src="media/nucleotide2.PNG" width="80%">
+</p>
+
+<br>
+
+These sequences can then be downloaded by clicking 'Send to' in the top part of the results page. A number of options are available, and in this case I have selected FASTA to download the actual nucleotide sequences in FASTA format. 
+
+The same search can be performed with the following query on NCBI Nucleotide:
+
+<p align="center">
+    <img src="media/nucleotide3.PNG" width="80%">
+</p>
+
 
 **Data format**
 

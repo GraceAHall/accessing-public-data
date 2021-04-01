@@ -180,11 +180,7 @@ Jump to:
 
 <br>
 
-### Capillary Electrophoresis 
-
-<br>
-
-### Who uses the data
+**Who uses the data**
 
 Reads are one of the most commonly used forms of bioinformatics data. They often are represented as DNA sequence (using ATGC) regardless of whether they are DNA or RNA sequence. 
 
@@ -194,9 +190,21 @@ Commonly used for:
 * RNA base modification
 * Transcript Regulation (miRNAs etc ) 
 
-### How to access
+**How to access**
 
-### Data format
+**Data format**
+
+<br>
+
+### Capillary Electrophoresis 
+
+<br>
+
+**Who uses the data**
+
+**How to access**
+
+**Data format**
 
 
 <br><br>
@@ -234,25 +242,27 @@ Jump to
 | [DDBJ](https://www.ddbj.nig.ac.jp/index-e.html) | All nucleotide information | All | 🔴 | 🟢 | 🔴 |
 
 
-
+### All nucleotide sequences
 
 <br>
 
-### Assemblies
-* NCBI Assembly
-    * GenBank vs RefSeq 
-* ENA
+**Who uses the data**
+
+**How to access**
+
+**Data format**
+
 <br>
 
-### Annotations
-* ENCODE
-* GENCODE 
+### Genome Assemblies
+
 <br>
 
-### Genes
-* ENA
-* SILVA
+**Who uses the data**
 
+**How to access**
+
+**Data format**
 
 <br>
 
@@ -260,8 +270,23 @@ Jump to
 
 <br>
 
+**Who uses the data**
 
+**How to access**
 
+**Data format**
+
+<br>
+
+### Functional Elements
+
+<br>
+
+**Who uses the data**
+
+**How to access**
+
+**Data format**
 
 
 <br><br>

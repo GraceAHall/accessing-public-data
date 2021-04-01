@@ -350,7 +350,25 @@ jump to
 
 | Name | Data stored | Organisms | Ease<br>of<br>Access | Amount<br>of<br>data | Data<br>curation<br>/quality | 
 | --- | :-: | :-: | :-: | :-: | :-: |
-| <br><br>**** | 
+| <br><br>**Protein Sequences** | 
+| [The Universal Protein Resource (UniProt)](https://www.uniprot.org/help/about) | :-: | :-: | :-: | :-: | :-: |
+| [InterPro](https://www.ebi.ac.uk/interpro/about/interpro/) | :-: | :-: | :-: | :-: | :-: |
+| [NCBI Protein](https://www.ncbi.nlm.nih.gov/protein/) | :-: | :-: | :-: | :-: | :-: |
+| [Enzyme portal](https://www.ebi.ac.uk/enzymeportal/) | :-: | :-: | :-: | :-: | :-: |
+| <br><br>**Protein Domains** | 
+| [Pfam](http://pfam.xfam.org/) | :-: | :-: | :-: | :-: | :-: |
+| <br><br>**Protein Structures** | 
+| [The Protein Data Bank (PDB)](https://www.rcsb.org/) | :-: | :-: | :-: | :-: | :-: |
+| [PDBe](https://www.ebi.ac.uk/pdbe/node/1) | :-: | :-: | :-: | :-: | :-: |
+| [PDBJ](https://pdbj.org/) | :-: | :-: | :-: | :-: | :-: |
+| <br><br>**Protein Expression** | 
+| [Proteomics Identifications Database (PRIDE)](https://www.ebi.ac.uk/pride/) | :-: | :-: | :-: | :-: | :-: |
+| [The Human Protein Atlas](https://www.proteinatlas.org/) | :-: | :-: | :-: | :-: | :-: |
+| <br><br>**EM, XRay, NMR Data** | 
+| [BMRB]() | :-: | :-: | :-: | :-: | :-: |
+| [EMDataResource ]() | :-: | :-: | :-: | :-: | :-: |
+| [EMDB]() | :-: | :-: | :-: | :-: | :-: |
+| [EMPIRE]() | :-: | :-: | :-: | :-: | :-: |
 
 <br>
 
@@ -389,7 +407,9 @@ jump to
 
 | Name | Data stored | Organisms | Ease<br>of<br>Access | Amount<br>of<br>data | Data<br>curation<br>/quality | 
 | --- | :-: | :-: | :-: | :-: | :-: |
-| <br><br>**** | 
+| Reactome  | :-: | :-: | :-: | :-: | :-: |
+| Rhea  | :-: | :-: | :-: | :-: | :-: |
+| KEGG | :-: | :-: | :-: | :-: | :-: |
 
 <br>
 
@@ -409,7 +429,10 @@ jump to
 
 | Name | Data stored | Organisms | Ease<br>of<br>Access | Amount<br>of<br>data | Data<br>curation<br>/quality | 
 | --- | :-: | :-: | :-: | :-: | :-: |
-| <br><br>**** | 
+| SILVA | :-: | :-: | :-: | :-: | :-: |
+| Ribosomal database project (RDP) | :-: | :-: | :-: | :-: | :-: |
+| MGnify | :-: | :-: | :-: | :-: | :-: |
+| BacDrive | :-: | :-: | :-: | :-: | :-: |
 
 <br>
 
@@ -429,7 +452,8 @@ jump to
 
 | Name | Data stored | Organisms | Ease<br>of<br>Access | Amount<br>of<br>data | Data<br>curation<br>/quality | 
 | --- | :-: | :-: | :-: | :-: | :-: |
-| <br><br>**** | 
+| ChEMBL  | :-: | :-: | :-: | :-: | :-: |
+| MetaboLights  | :-: | :-: | :-: | :-: | :-: |
 
 <br>
 
@@ -449,7 +473,24 @@ jump to
 
 | Name | Data stored | Organisms | Ease<br>of<br>Access | Amount<br>of<br>data | Data<br>curation<br>/quality | 
 | --- | :-: | :-: | :-: | :-: | :-: |
-| <br><br>**** | 
+| <br><br>**Cancer** |   
+| --- | :-: | :-: | :-: | :-: | :-: |  
+| <br><br>**Biological Images** | 
+| --- | :-: | :-: | :-: | :-: | :-: |
+| --- | :-: | :-: | :-: | :-: | :-: |
+| --- | :-: | :-: | :-: | :-: | :-: |   
+| <br><br>**Disease Biomarkers** |   
+| --- | :-: | :-: | :-: | :-: | :-: |   
+| <br><br>**Neuroscience** |   
+| --- | :-: | :-: | :-: | :-: | :-: |  
+| <br><br>**Immunology** |   
+| --- | :-: | :-: | :-: | :-: | :-: |  
+| <br><br>**Fruit flies** |   
+| --- | :-: | :-: | :-: | :-: | :-: |  
+| <br><br>**Biodiversity** |   
+| --- | :-: | :-: | :-: | :-: | :-: | 
+| <br><br>**Epigenomics** |   
+| --- | :-: | :-: | :-: | :-: | :-: | 
 
 <br>
 

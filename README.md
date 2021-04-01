@@ -288,30 +288,9 @@ Jump to
 | <br><br>**Transcript Isoforms** |
 | [Genotype-Tissue Expression (GTEx)](https://gtexportal.org/home/) | Tissue-specific gene expression and regulation | Human | 🟢 | 🟢 | 🟢 |
 | <br><br>**Noncoding RNA** |
-| [RNAcentral ](https://rnacentral.org/) | All RNA information | :-: | :-: | :-: | :-: |
+| [RNAcentral ](https://rnacentral.org/) | All RNA information | All | 🟢 | 🟢 | 🟡 |
 
 <br>
-
-### Expression data
-* GEO
-* GTEx
-* Tabula Muris
-* 
-
-<br>
-
-### Transcript isoforms
-
-<br>
-
-
-### Networks & pathways
-* REACTOME
-* KEGG
-
-
-
-
 
 
 <br><br>
@@ -321,18 +300,25 @@ Jump to
 * [Sequence variation (SNVs/SNPs, Indels)](#Sequence-variation-(SNVs/SNPs,-Indels))
 * [Structural variation](#Structural-variation)
 
-### Sequence variation (SNVs/SNPs, Indels)
-* ClinVar
-* OMIM
-* GeneCards
+<br>
+
+🔴 - Low
+
+🟡 - Med
+
+🟢 - High
 
 <br>
 
+| Name | Data stored | Organisms | Ease<br>of<br>Access | Amount<br>of<br>data | Data<br>curation<br>/quality | 
+| --- | :-: | :-: | :-: | :-: | :-: |
+| <br><br>**** | 
+
+<br>
+
+### Sequence variation (SNP/SNV, Indel etc)
+
 ### Structural variation
-
-
-
-
 
 
 <br><br>
@@ -344,7 +330,21 @@ jump to
 * [Protein expression](#Protein-expression)
 * [Protein domains and functions](#Protein-domains-and-functions)
 
+<br>
 
+🔴 - Low
+
+🟡 - Med
+
+🟢 - High
+
+<br>
+
+| Name | Data stored | Organisms | Ease<br>of<br>Access | Amount<br>of<br>data | Data<br>curation<br>/quality | 
+| --- | :-: | :-: | :-: | :-: | :-: |
+| <br><br>**** | 
+
+<br>
 
 ### Protein structures
 * PDB 
@@ -367,3 +367,82 @@ jump to
 
 <br><br>
 
+## Pathways & Reactions
+
+<br>
+
+🔴 - Low
+
+🟡 - Med
+
+🟢 - High
+
+<br>
+
+| Name | Data stored | Organisms | Ease<br>of<br>Access | Amount<br>of<br>data | Data<br>curation<br>/quality | 
+| --- | :-: | :-: | :-: | :-: | :-: |
+| <br><br>**** | 
+
+<br>
+
+<br><br>
+
+## Metagenomics / Microbiome
+
+<br>
+
+🔴 - Low
+
+🟡 - Med
+
+🟢 - High
+
+<br>
+
+| Name | Data stored | Organisms | Ease<br>of<br>Access | Amount<br>of<br>data | Data<br>curation<br>/quality | 
+| --- | :-: | :-: | :-: | :-: | :-: |
+| <br><br>**** | 
+
+<br>
+
+<br><br>
+
+## Metabolomics
+
+<br>
+
+🔴 - Low
+
+🟡 - Med
+
+🟢 - High
+
+<br>
+
+| Name | Data stored | Organisms | Ease<br>of<br>Access | Amount<br>of<br>data | Data<br>curation<br>/quality | 
+| --- | :-: | :-: | :-: | :-: | :-: |
+| <br><br>**** | 
+
+<br>
+
+<br><br>
+
+## Domain Specific
+
+<br>
+
+🔴 - Low
+
+🟡 - Med
+
+🟢 - High
+
+<br>
+
+| Name | Data stored | Organisms | Ease<br>of<br>Access | Amount<br>of<br>data | Data<br>curation<br>/quality | 
+| --- | :-: | :-: | :-: | :-: | :-: |
+| <br><br>**** | 
+
+<br>
+
+<br><br>

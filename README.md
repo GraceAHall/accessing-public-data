@@ -105,7 +105,7 @@ Side note: EMBL-EBI call these ‘BioStudies’ instead of **BioProjects** for s
 **BioSamples** are actually just descriptions of biological material. They do not relate to the data which was generated, but they can link to data which was derived from the particular biological sample / material.  For example, if you isolated a colony of bacteria for whole genome sequencing (WGS), a BioSample entry would be created to describe the bacterial isolate. The BioSample would then have a link to the WGS data, specifying “the WGS dataset was generated from this biological material!”.
 
 <p align="center">
-    <img src="media/project_organisation.png" width="70%">
+    <img src="media/project_organisation.png" width="90%">
 </p>
 
 <br>
@@ -118,11 +118,11 @@ https://www.ncbi.nlm.nih.gov/home/documentation/
 
 
 <p align="center">
-    <img src="media/nucleotide_databases.png" width="70%">
+    <img src="media/nucleotide_databases.png" width="90%">
 </p>
 
 <p align="center">
-    <img src="media/variants.png" width="70%">
+    <img src="media/variants.png" width="90%">
 </p>
 
 <br>

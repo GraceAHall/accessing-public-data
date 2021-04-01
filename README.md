@@ -218,7 +218,7 @@ At the bottom there is a section called 'Read Files'. Highlighted in pink we see
 
 For extra information about the read set, expand the 'Show Column Selection' dropdown.
 
-<br><br>
+<br>
 
 NCBI SRA
 
@@ -274,9 +274,15 @@ The actual sequence of the read is line 2, and the base-accuracy quality score a
 
 **Who uses the data**
 
+Capillary Electrophoresis (Sanger) sequencing is no longer commonly used, but is still viable data. 
+
 **How to access**
 
+Capillary Electrophoresis data has been migrated to NCBI SRA, ENA, and DRA, so can be searched as above. It included or excluded by advanced searches and filters. 
+
 **Data format**
+
+FASTQ format as above. 
 
 
 <br><br>

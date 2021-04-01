@@ -26,12 +26,12 @@ Data has been divided into sections as best as possible. <br>In each section, th
     * [EMBL-EBI](#EMBL-EBI)
     * [DDBJ](#DDBJ)
 
-* [Reads](#Reads)
+* [Sequence Reads](#Reads)
     * [DNA](#DNA)
     * [RNA](#RNA)
     * [Epigenetics](#Epigenetics)
 
-* [Genomes](#Genomes)
+* [Genomics](#Genomics)
     * [Assemblies](#Assemblies)
     * [Annotations](#Annotations)
     * [Genes](#Genes)
@@ -117,13 +117,8 @@ Read more here:<br>
 https://www.ncbi.nlm.nih.gov/home/documentation/
 
 
-<p align="center">
-    <img src="media/nucleotide_databases.png" width="90%">
-</p>
 
-<p align="center">
-    <img src="media/variants.png" width="90%">
-</p>
+
 
 <br>
 
@@ -191,6 +186,10 @@ Commonly used for:
 * Transcript Regulation (miRNAs etc ) 
 
 **How to access**
+
+<p align="center">
+    <img src="media/nucleotide_databases.png" width="90%">
+</p>
 
 **Data format**
 
@@ -358,6 +357,10 @@ Jump to
 <br>
 
 ### Sequence variation (SNP/SNV, Indel etc)
+
+<p align="center">
+    <img src="media/variants.png" width="90%">
+</p>
 
 ### Structural variation
 

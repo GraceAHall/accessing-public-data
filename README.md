@@ -111,37 +111,6 @@ Data is stored in the following hierarchy:
 
 <br>
 
-<br>
-
-### Unique archives per organisation
-
-<br>While they share a large amount of data, there are some databases which are unique to each organisation. In general contain more specific data?
-
-The following is a table of ***archives which do not automatically share data***
-
-<br>
-
-| NCBI | EMBL-EBI | DDBJ |
-| ------ | ------ | ------ |
-| <br>**Genetic Variation** |
-| ClinVar | ------ | ------ |
-| <br>**Transcriptomics** |
-| ------ | ------ | ------ |
-| <br>**Proteomics** |
-| ------ | ------ | ------ |
-| Transcriptomics |
-| ------ | ------ | ------ |
-
-<br>
-
-text
-
-<br>
-
-
-### Non open-access archives
-
-
 
 <br>
 
@@ -151,45 +120,7 @@ American
 Read more here:<br>
 https://www.ncbi.nlm.nih.gov/home/documentation/
 
-Here are the commonly used databases within NCBI:
-* **[Assembly](https://www.ncbi.nlm.nih.gov/assembly/?term=all%5Bfilter%5D)**<br>
-Genome assemblies (contig, scaffold, draft and complete)
 
-* **BioProject**<br>
-Organisation of research projects & associated data (NCBI, ENA, DDBJ share this resource)
-
-* **BioSample**<br>
-
-
-* **ClinVar**<br>
-Genomic variation (all types - SNV/SNP, Indel, structural variants
-etc)
-
-* **dbVar**<br>
-Structural variation (including clinical verdicts)
-
-* **Gene**<br>
-Links gene IDs with other data (name, symbol, publication, GO terms, medical variants etc)
-
-* **GEO datasets**<br>
-Gene expression - both from arrays, and sequence data
-
-
-* **Nucleotide**<br>
-Large collection of nucleic acid sequences (incl. genes, proteins, genomes)
-
-* **Protein**<br>
-Protein sequences
-
-* **SRA**<br>
-Sequence read sets
-
-* **Taxonomy**<br>
-Taxonomic heirarchy of all known organisms
-
-<br>
-
-These resources are all described in sections below.
 
 <br>
 
@@ -200,68 +131,11 @@ https://elixir-europe.org/services/list?field_scientific_domain_tid=All&field_el
 https://www.ebi.ac.uk/ena/browser/about/content
 
 
-* **BioProject**<br>
-Organisation of research projects & associated data (NCBI, ENA, DDBJ share this resource)
 
-* **BRENDA**<br>
-Enzymes & enzyme-ligand interactions
-
-* **ENA** <br>
-Nucleotide sequence information - reads, assemblies, annotations
-
-* **UniProt**<br>
-Protein sequences and annotations
-
-* **Human Protein Atlas**<br>
-Expression & localisation of proteins
-
-* **PDBe**<br>
-Macromolecular structures (mainly proteins)
-
-* **PRIDE**<br>
-Mass-spectroscopy data
-
-* **Reactome**<br>
-Chemical pathways
-
-* **SILVA**<br>
-Ribosomal RNA sequences (16S, 23S etc)
-
-* **STRING**<br>
-Protein-protein interactions
-
-* **UniProt**<br>
-Protein sequences & annotations (comprehensive)
-
-<br>
-
-These resources are all described in sections below.
 
 <br>
 
 ### DDBJ
-* **AGD**<br>
-Controlled-access database of genotype-phenotype information
-
-* **BioProject**<br>
-Organisation of research projects & associated data (NCBI, ENA, DDBJ share this resource)
-
-* ****<br>
-
-
-* ****<br>
-
-
-* ****<br>
-
-
-* ****<br>
-
-
-* ****<br>
-
-
-* ****<br>
 
 
 <br>
@@ -276,24 +150,9 @@ Many academic journals now insist on data being publically accessible. They may 
 | Hello |
 | ----- |
 | Thing 1 |
-| 🔴     |
+| 🔴 🟡 🟢 |
 | Thing 2 |
 | Thing 3 |
-
-
----
-
-<h2>Thing 1</h2>
-
-asdas
-
----
-
-<h2>Thing 2</h2>
-
-asdas
-
----
 
 
 
@@ -304,6 +163,15 @@ Jump to
 * [Epigenetics](#Epigenetics)
 
 <br>
+Next Gen Sequencing (NGS) 
+
+| Name | Data stored | Organisms | Ease<br>of<br>Access | Amount<br>of<br>data | Data<br>curation<br>/quality | 
+| Sequence read archive (SRA) | High-throughput sequence data - capillary, short & long NGS reads | All | 🟡 | 🟢 | 🔴 |
+| --- | --- | --- | --- | --- | --- |
+
+<br>
+
+
 
 ### DNA
 

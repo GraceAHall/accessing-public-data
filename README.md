@@ -2,15 +2,6 @@
 
 
 # Accessing public data
-TL;DR here are the links:
-
-| Data | Links |
-| ------ | ------------------ | 
-| Reads (DNA/RNA) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Reads <br>https://www.ncbi.nlm.nih.gov/sra/?term=all%5Bfilter%5D<br>link2 |
-| Genome | Assemblies & annotations <br>https://www.ncbi.nlm.nih.gov/assembly/?term=all%5Bfilter%5D<br><br> Genes <br>https://www.ncbi.nlm.nih.gov/gene/?term=all%5Bfilter%5D<br><br>Taxonomy<br>https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi |
-| Transcriptomics | Gene expression<br>https://www.ncbi.nlm.nih.gov/gds/?term=all%5Bfilter%5D<br>link2 |
-| Variation | Sequence variants (SNVs/SNPs, Indels) <br>https://www.ncbi.nlm.nih.gov/clinvar/?term=all%5Bfilter%5D<br>link1<br><br>Structural variants<br>link1 |
-| Proteomics | Protein sequences<br>link1<br><br>Conserved domains<br>link1<br><br>Protein structures<br>link1 |
 
 <br><br>
 
@@ -81,7 +72,7 @@ There are 3 major organisations which house publically available data. While oth
 
 <br>
 
-### Shared Data
+### Data Sharing
 
 <br>NCBI, EMBL-EBI, and DDBJ are all part of the International Nucleotide Sequence Database Collaboration (INSDC). The INSDC is an initiative which *encourages the sharing of nucleotide sequence data between organisations*. As a result, data submitted to the archives below will be shared across relevant NCBI, EMBL-EBI, and DDBJ databases.  A large amount of information - from raw read data, to alignments, assemblies, functional annotations, and sample information - are shared. 
 
@@ -103,14 +94,19 @@ Similar databases are available at each of these organisations, and they mirror 
 
 <br>
 
-Data is stored in the following hierarchy:
+### Projects, Samples, and data
+
+Understanding the hierarchy between archives is one of the most tricky aspects when navigating public data. Anyone who has worked with databases will know that the relationships between data are often hard to express in a standard way.   The 3 main organisations (NCBI, EMBL-EBI and DDBJ) arrange information into **BioProjects**, **BioSamples**, and Data, which is a good solution given the challenge. 
+
+**BioProjects** are containers which store links.  They are like folders which hold links to all the data and metadata associated with some project. The links can be directly to data, or can be to descriptions of the data (metadata). 
+
+Side note: EMBL-EBI call these ‘BioStudies’ instead of **BioProjects** for some unknown reason. We will use the term BioProject from here.  
+
+**BioSamples** are actually just descriptions of biological material. They do not relate to the data which was generated, but they can link to data which was derived from the particular biological sample / material.  For example, if you isolated a colony of bacteria for whole genome sequencing (WGS), a BioSample entry would be created to describe the bacterial isolate. The BioSample would then have a link to the WGS data, specifying “the WGS dataset was generated from this biological material!”.
 
 <br>
-
-<img src='media/data_hierarchy.png' style="">
-
+<img src='media/project_organisation.png'>
 <br>
-
 
 <br>
 
@@ -121,6 +117,13 @@ Read more here:<br>
 https://www.ncbi.nlm.nih.gov/home/documentation/
 
 
+<br>
+<img src='media/nucleotide_databases.png'>
+<br>
+
+<br>
+<img src='media/variants.png'>
+<br>
 
 <br>
 

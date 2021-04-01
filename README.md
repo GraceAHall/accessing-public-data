@@ -117,12 +117,12 @@ Read more here:<br>
 https://www.ncbi.nlm.nih.gov/home/documentation/
 
 
-<br>
-<img src="media/nucleotide_databases.png" align="center" width="70%">
-<br>
+<p align="center">
+    <img src="media/nucleotide_databases.png" width="70%">
+</p>
 
 <br>
-<img src='media/variants.png' style='align:center; width=80%'>
+<img align="center" src="media/variants.png" width="70%">
 <br>
 
 <br>

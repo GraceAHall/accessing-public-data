@@ -113,6 +113,14 @@ Side note: EMBL-EBI call these ‘BioStudies’ instead of **BioProjects** for s
 ### NCBI
 American 
 
+You can also build complex queries using fields and logial operators. For example to search for horse dopamine receptor D2:
+
+("Equus caballus"[Organism] OR horse[All Fields]) AND (dopamine 
+receptor D2[Protein Name] OR (dopamine[All Fields] AND receptor[All Fields] AND D2[All Fields]))
+
+Here is a list of all the fields which you can search:
+https://www.ncbi.nlm.nih.gov/books/NBK49540/
+
 Read more here:<br>
 https://www.ncbi.nlm.nih.gov/home/documentation/
 
@@ -164,7 +172,7 @@ Jump to:
 | [DDBJ Trace Archive (DTA)](https://www.ddbj.nig.ac.jp/dta/index-e.html) | Capillary sequencing only (replaced by DRA)  | All | 🔴 | 🟢 | 🔴 |
 
 
-<br>
+<br><br>
 
 ### Next Gen Sequencing
 
@@ -186,6 +194,36 @@ Reads form the basis of modern-day bioinformatics, and are used in nearly every 
 
 **How to access**
 
+ENA
+
+The [European Nucleotide Archive (ENA)](https://www.ebi.ac.uk/ena/browser/search) is perhaps the easiest platform to find and download read data sets. This said, it sometimes yields less results than NCBI SRA. 
+
+Search using the bar in the top right hand corner of the page. Anything relevant should appear in the results. There are filters on the left side of the page which you can use to restrict the results to only sequence reads (click 'Run' under 'Reads' for raw reads). 
+
+After the read sets have appeared, click on the accession (SRR10390707 in this case)
+
+<br>
+
+<p align="center">
+    <img src="media/ENA1.PNG" width="90%">
+</p>
+
+<p align="center">
+    <img src="media/ENA2.PNG" width="90%">
+</p>
+
+This will take you to a page of metadata and download links for the sequencing run. We can see the organism, accession, instrument, and other information. 
+
+At the bottom there is a section called 'Read Files'. Highlighted in pink we see a .fastq.gz file which can be clicked on to download the read set. For sequencing runs with multiple read sets, they will all appear in this section. 
+
+For extra information about the read set, expand the 'Show Column Selection' dropdown.
+
+<br><br>
+
+NCBI SRA
+
+<br>
+
 <p align="center">
     <img src="media/SRA1.PNG" width="90%">
 </p>
@@ -197,6 +235,9 @@ Reads form the basis of modern-day bioinformatics, and are used in nearly every 
 <p align="center">
     <img src="media/SRA3.PNG" width="90%">
 </p>
+
+
+
 
  
 

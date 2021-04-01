@@ -187,15 +187,15 @@ Reads form the basis of modern-day bioinformatics, and are used in nearly every 
 **How to access**
 
 <p align="center">
-    <img src="media/SRA1.png" width="90%">
+    <img src="media/SRA1.PNG" width="90%">
 </p>
 
 <p align="center">
-    <img src="media/SRA2.png" width="90%">
+    <img src="media/SRA2.PNG" width="90%">
 </p>
 
 <p align="center">
-    <img src="media/SRA3.png" width="90%">
+    <img src="media/SRA3.PNG" width="90%">
 </p>
 
  

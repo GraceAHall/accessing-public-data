@@ -272,17 +272,17 @@ Jump to
 | --- | :-: | :-: | :-: | :-: | :-: |
 | <br><br>Bulk RNA | 
 | [Genotype-Tissue Expression (GTEx)](https://gtexportal.org/home/) | Tissue-specific gene expression and regulation | Human | 🟢 | 🟢 | 🟢 |
+| [All of expression (AOE)](https://aoe.dbcls.jp/en) | All | Aggregates publicly available gene expression data | 🟢 | 🟢 | 🟡 |
+| [Expression Atlas](https://www.ebi.ac.uk/gxa/home) | Abundance and localisation of RNA | All | 🟢 | 🟡 | 🟢 |
 | [Gene Expression Omnibus (GEO) datasets](https://www.ncbi.nlm.nih.gov/gds/?term=all%5Bfilter%5D) | Functional Genomics Data (from NGS, Arrays etc) | All | 🟡 | 🟢 | 🟡 |
-| [Gene Expression Omnibus (GEO) profiles](https://www.ncbi.nlm.nih.gov/geoprofiles/?term=all%5Bfilter%5D) | Functional Genomics Data (from NGS, Arrays etc)  | All | 🟡 | 🟢 | 🟡 |
-| [---]() | :-: | :-: | :-: | :-: | :-: |
-| [---]() | :-: | :-: | :-: | :-: | :-: |
-| [---]() | :-: | :-: | :-: | :-: | :-: |
-| [---]() | :-: | :-: | :-: | :-: | :-: |
+| [Gene Expression Omnibus (GEO) profiles](https://www.ncbi.nlm.nih.gov/geoprofiles/?term=all%5Bfilter%5D) | Expression profiles for a specific condition | All | 🟡 | 🟢 | 🟡 |
+| [ArrayExpress](https://www.ebi.ac.uk/arrayexpress/) | Functional Genomics Data (NGS, Arrays etc) | All | 🟡 | 🟢 | 🟡 |
 | <br><br>Single-cell |
 | [---]() | :-: | :-: | :-: | :-: | :-: |
 | [---]() | :-: | :-: | :-: | :-: | :-: |
 | [---]() | :-: | :-: | :-: | :-: | :-: |
 | [---]() | :-: | :-: | :-: | :-: | :-: |
+| [Tabula Muris](https://tabula-muris.ds.czbiohub.org/) | Single-cell transcriptome data | Mouse | 🟡 | 🔴 | 🟢 |
 | <br><br>Networks |
 | [---]() | :-: | :-: | :-: | :-: | :-: |
 | <br><br>Transcript Isoforms |

@@ -260,7 +260,25 @@ Jump to
 
 <br>
 
+🔴 - Low
+
+🟡 - Med
+
+🟢 - High
+
+<br>
+
 | Name | Data stored | Organisms | Ease<br>of<br>Access | Amount<br>of<br>data | Data<br>curation<br>/quality | 
+| --- | :-: | :-: | :-: | :-: | :-: |
+| <br><br>Bulk RNA | 
+| --- | :-: | :-: | :-: | :-: | :-: |
+| <br><br>Single-cell |
+| --- | :-: | :-: | :-: | :-: | :-: |
+| <br><br>Networks |
+| --- | :-: | :-: | :-: | :-: | :-: |
+| <br><br>Transcript Isoforms |
+| --- | :-: | :-: | :-: | :-: | :-: |
+| <br><br>Noncoding RNA |
 | --- | :-: | :-: | :-: | :-: | :-: |
 
 <br>

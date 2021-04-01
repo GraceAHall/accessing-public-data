@@ -351,24 +351,24 @@ jump to
 | Name | Data stored | Organisms | Ease<br>of<br>Access | Amount<br>of<br>data | Data<br>curation<br>/quality | 
 | --- | :-: | :-: | :-: | :-: | :-: |
 | <br><br>**Protein Sequences** | 
-| [UniProt](https://www.uniprot.org/help/about) | :-: | :-: | :-: | :-: | :-: |
-| [InterPro](https://www.ebi.ac.uk/interpro/about/interpro/) | :-: | :-: | :-: | :-: | :-: |
-| [NCBI Protein](https://www.ncbi.nlm.nih.gov/protein/) | :-: | :-: | :-: | :-: | :-: |
-| [Enzyme portal](https://www.ebi.ac.uk/enzymeportal/) | :-: | :-: | :-: | :-: | :-: |
-| <br><br>**Protein Domains** | 
-| [Pfam](http://pfam.xfam.org/) | :-: | :-: | :-: | :-: | :-: |
+| [UniProt](https://www.uniprot.org/help/about) | Protein sequences and annotations | All | 🟢 | 🟢 | 🟢 |
+| [Enzyme portal](https://www.ebi.ac.uk/enzymeportal/) | Concise summary of enzymes | All | 🟢 | 🟡 | 🟢 |
+| [NCBI Protein](https://www.ncbi.nlm.nih.gov/protein/) | Protein sequences and annotations | All | 🔴 | 🟢 | 🔴 |
+| <br><br>**Protein Domains & Families** | 
+| [InterPro](https://www.ebi.ac.uk/interpro/about/interpro/) | Protein domains & families | All | 🟢 | 🟢 | 🟡 |
+| [Pfam](http://pfam.xfam.org/) | Protein families | All | 🔴 | 🟢 | 🟡 |
 | <br><br>**Protein Structures** | 
-| [PDB](https://www.rcsb.org/) | :-: | :-: | :-: | :-: | :-: |
-| [PDBe](https://www.ebi.ac.uk/pdbe/node/1) | :-: | :-: | :-: | :-: | :-: |
-| [PDBJ](https://pdbj.org/) | :-: | :-: | :-: | :-: | :-: |
+| [PDB](https://www.rcsb.org/) | Protein structures & associated data | All | 🟢 | 🟢 | 🟢 |
+| [PDBe](https://www.ebi.ac.uk/pdbe/node/1) | Protein structures & associated data | All | 🟡 | 🟢 | 🟢 |
+| [PDBJ](https://pdbj.org/) | Protein structures & associated data | All | 🔴 | 🟢 | 🟢 |
 | <br><br>**Protein Expression** | 
-| [PRIDE](https://www.ebi.ac.uk/pride/) | :-: | :-: | :-: | :-: | :-: |
-| [The Human Protein Atlas](https://www.proteinatlas.org/) | :-: | :-: | :-: | :-: | :-: |
+| [The Human Protein Atlas](https://www.proteinatlas.org/) | Antibody-based imaging, mass spectrometry, transcriptomics data  | Human | 🟢 | 🟢 | 🟢 |
+| [PRIDE](https://www.ebi.ac.uk/pride/) | Mass spectrometry data | All | 🟡 | 🟢 | 🟢 |
 | <br><br>**EM, XRay, NMR Data** | 
-| [BMRB]() | :-: | :-: | :-: | :-: | :-: |
-| [EMDataResource ]() | :-: | :-: | :-: | :-: | :-: |
-| [EMDB]() | :-: | :-: | :-: | :-: | :-: |
-| [EMPIRE]() | :-: | :-: | :-: | :-: | :-: |
+| [EMDB](https://wwwdev.ebi.ac.uk/emdb/) | 3D EM density maps | All | 🟡 | 🟢 | 🟡 |
+| [EMPIRE](https://www.ebi.ac.uk/pdbe/emdb/empiar/) | Raw electron microscopy images | All | 🟡 | 🟡 | 🟡 |
+| [EMDataResource](https://www.emdataresource.org/index.html) | 3D EM density maps, models & metadata | All | 🔴 | 🟢 | 🟡 |
+| [BMRB](https://bmrb.io/) | NMR data | All | 🔴 | 🟢 | 🟡 |
 
 <br>
 

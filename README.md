@@ -166,7 +166,7 @@ Jump to
 Next Gen Sequencing (NGS) 
 
 | Name | Data stored | Organisms | Ease<br>of<br>Access | Amount<br>of<br>data | Data<br>curation<br>/quality | 
-| --- | --- | --- | --- | --- | --- |
+| --- | :-: | :-: | :-: | :-: | :-: |
 | Sequence read archive (SRA) | High-throughput sequence data - capillary, short & long NGS reads | All | 🟡 | 🟢 | 🔴 |
 
 <br>

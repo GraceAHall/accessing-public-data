@@ -382,12 +382,13 @@ Filters can be seen on the left side of the screen, and can be useful if you kno
 
 These sequences can then be downloaded by clicking 'Send to' in the top part of the results page. A number of options are available, and in this case I have selected FASTA to download the actual nucleotide sequences in FASTA format. 
 
-The same search can be performed with the following query on NCBI Nucleotide:
+The same search can be performed with the following query on [NCBI Nucleotide advanced search](https://www.ncbi.nlm.nih.gov/nuccore/advanced):
 
 <p align="center">
     <img src="media/nucleotide3.PNG" width="80%">
 </p>
 
+<br>
 
 **Data format**
 
@@ -395,7 +396,7 @@ The same search can be performed with the following query on NCBI Nucleotide:
 
 * FASTA files 
 
-<br>
+<br><br>
 
 ### Genome Assemblies
 
@@ -407,7 +408,7 @@ The same search can be performed with the following query on NCBI Nucleotide:
 
 **Data format**
 
-<br>
+<br><br>
 
 ### Taxonomy
 
@@ -419,7 +420,7 @@ The same search can be performed with the following query on NCBI Nucleotide:
 
 **Data format**
 
-<br>
+<br><br>
 
 ### Functional Elements
 

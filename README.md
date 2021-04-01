@@ -271,15 +271,24 @@ Jump to
 | Name | Data stored | Organisms | Ease<br>of<br>Access | Amount<br>of<br>data | Data<br>curation<br>/quality | 
 | --- | :-: | :-: | :-: | :-: | :-: |
 | <br><br>Bulk RNA | 
-| --- | :-: | :-: | :-: | :-: | :-: |
+| [Genotype-Tissue Expression (GTEx)](https://gtexportal.org/home/) | Tissue-specific gene expression and regulation | Human | 🟢 | 🟢 | 🟢 |
+| [Gene Expression Omnibus (GEO) datasets](https://www.ncbi.nlm.nih.gov/gds/?term=all%5Bfilter%5D) | Functional Genomics Data (from NGS, Arrays etc) | All | 🟡 | 🟢 | 🟡 |
+| [Gene Expression Omnibus (GEO) profiles](https://www.ncbi.nlm.nih.gov/geoprofiles/?term=all%5Bfilter%5D) | Functional Genomics Data (from NGS, Arrays etc)  | All | 🟡 | 🟢 | 🟡 |
+| [---]() | :-: | :-: | :-: | :-: | :-: |
+| [---]() | :-: | :-: | :-: | :-: | :-: |
+| [---]() | :-: | :-: | :-: | :-: | :-: |
+| [---]() | :-: | :-: | :-: | :-: | :-: |
 | <br><br>Single-cell |
-| --- | :-: | :-: | :-: | :-: | :-: |
+| [---]() | :-: | :-: | :-: | :-: | :-: |
+| [---]() | :-: | :-: | :-: | :-: | :-: |
+| [---]() | :-: | :-: | :-: | :-: | :-: |
+| [---]() | :-: | :-: | :-: | :-: | :-: |
 | <br><br>Networks |
-| --- | :-: | :-: | :-: | :-: | :-: |
+| [---]() | :-: | :-: | :-: | :-: | :-: |
 | <br><br>Transcript Isoforms |
-| --- | :-: | :-: | :-: | :-: | :-: |
+| [---]() | :-: | :-: | :-: | :-: | :-: |
 | <br><br>Noncoding RNA |
-| --- | :-: | :-: | :-: | :-: | :-: |
+| [---]() | :-: | :-: | :-: | :-: | :-: |
 
 <br>
 

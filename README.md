@@ -7,8 +7,10 @@ This document provides ***links*** to some of the commonly used ***open-access a
 
 # Contents
 
+
 * [Genomics](#Genomics)
-    * [Central Nucleotide Repositories](#Central-Nucleotide-Repositories)
+    * [NCBI, ENA, & DDBJ](#NCBI,-ENA,-&-DDBJ)
+    * [Organisation - BioProjects & BioSamples](#Organisation---BioProjects-&-BioSamples)
     * [Genome Assemblies](#Genome-Assemblies)
     * [Taxonomy](#Taxonomy)
     * [Functional Elements (Annotations)](#Functional-Elements)
@@ -36,6 +38,9 @@ This document provides ***links*** to some of the commonly used ***open-access a
 * [Imaging](#Imaging)
 * [Domain Specific](#Domain-Specific)
 
+
+
+
 <br><br>
 
 # Genomics
@@ -45,9 +50,6 @@ This document provides ***links*** to some of the commonly used ***open-access a
 * [Taxonomy](#Taxonomy)
 * [Functional Elements (Annotations)](#Functional-Elements)
 
-<br><br>
-
-### Central Nucleotide Repositories
 
 <br>
 
@@ -58,6 +60,8 @@ This document provides ***links*** to some of the commonly used ***open-access a
 | [DDBJ](https://www.ddbj.nig.ac.jp/index-e.html) | All nucleotide sequences | All | 🔴 | 🟢 | 🔴 |
 
 <br><br>
+
+### NCBI, ENA, & DDBJ
 
 **INSDC** &nbsp; &nbsp; &nbsp; <img src="media/insdc_logo.png" width=80 align="center">
 
@@ -89,6 +93,22 @@ In general, NCBI has an archive specific to your needs (ie NCBI Assembly for ass
 **DDBJ** &nbsp; &nbsp; &nbsp; <img src="media/ddbj_logo.png" width=80 align="center">
 
 [The DNA Data Bank of Japan (DDBJ)](https://www.ddbj.nig.ac.jp/ddbj/index-e.html) is also a member of the INSDC and so contains virtually the same nucleotide data as the archives above. The DDBJs UI and web page is harder to use than NCBI Nucleotide or ENA, and feels a little dated. Given that the DDBJ collects and shares data for INSDC members, similar results will appear using ENA or NCBI Nucleotide searches. 
+
+<br><br>
+
+### Organisation - BioProjects & BioSamples
+
+The three Understanding the hierarchy between archives is one of the most tricky aspects when navigating public data. Anyone who has worked with databases will know that the relationships between data are often hard to express in a standard way.   The 3 main organisations (NCBI, EMBL-EBI and DDBJ) arrange information into **BioProjects**, **BioSamples**, and Data, which is a good solution given the challenge. 
+
+**BioProjects** are containers which store links.  They are like folders which hold links to all the data and metadata associated with some project. The links can be directly to data, or can be to descriptions of the data (metadata). 
+
+Side note: EMBL-EBI call these ‘BioStudies’ instead of **BioProjects** for some unknown reason. We will use the term BioProject from here.  
+
+**BioSamples** are actually just descriptions of biological material. They do not relate to the data which was generated, but they can link to data which was derived from the particular biological sample / material.  For example, if you isolated a colony of bacteria for whole genome sequencing (WGS), a BioSample entry would be created to describe the bacterial isolate. The BioSample would then have a link to the WGS data, specifying “the WGS dataset was generated from this biological material!”.
+
+<p align="center">
+    <img src="media/project_organisation.png" width="90%">
+</p>
 
 
 <br><br>
@@ -162,8 +182,6 @@ In general, NCBI has an archive specific to your needs (ie NCBI Assembly for ass
 <br><br>
 
 # Transcriptomics
-
-
 
 <br><br>
 

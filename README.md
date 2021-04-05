@@ -94,7 +94,7 @@ In general, NCBI has an archive specific to your needs (ie NCBI Assembly for ass
 
 **DDBJ** &nbsp; &nbsp; &nbsp; <img src="media/ddbj_logo.png" width=80 align="center">
 
-[The DNA Data Bank of Japan (DDBJ)](https://www.ddbj.nig.ac.jp/ddbj/index-e.html) is also a member of the INSDC and so contains virtually the same nucleotide data as the archives above. The DDBJs UI and web page is harder to use than NCBI Nucleotide or ENA, and feels a little dated. Given that the DDBJ collects and shares data for INSDC members, similar results will appear using ENA or NCBI Nucleotide searches. 
+[The DNA Data Bank of Japan (DDBJ)](https://www.ddbj.nig.ac.jp/ddbj/index-e.html) is also a member of the INSDC and so contains virtually the same nucleotide data as the archives above. The DDBJs UI and web page is harder to use than NCBI Nucleotide or ENA, and feels a little dated. Given that the DDBJ collects and shares data for INSDC members, similar results will appear using ENA or NCBI Nucleotide searches. The search tool for DDBJ is called ARSA.  
 
 <br><br>
 
@@ -165,8 +165,7 @@ Once you have selected an assembly, the sequence and annotations can be download
 
 **DDBJ** &nbsp; &nbsp; &nbsp; <img src="media/ddbj_logo.png" width=80 align="center">
 
-[The DNA Data Bank of Japan (DDBJ)](https://www.ddbj.nig.ac.jp/ddbj/index-e.html) is also a member of the INSDC and so contains virtually the same nucleotide data as the archives above. The DDBJs UI and web page is harder to use than NCBI Nucleotide or ENA, and feels a little dated. Given that the DDBJ collects and shares data for INSDC members, similar results will appear using ENA or NCBI Nucleotide searches.
-
+[The DNA Data Bank of Japan (DDBJ)](https://www.ddbj.nig.ac.jp/ddbj/index-e.html) is also a member of the INSDC and so contains virtually the same nucleotide data as the archives above. The DDBJs UI and web page is harder to use than NCBI Nucleotide or ENA, and feels a little dated. Assembly searches may be easier using NCBI Assembly or ENA. 
 
 
 <br><br>
@@ -178,6 +177,16 @@ Once you have selected an assembly, the sequence and annotations can be download
 | Name | Data stored | Organisms | Ease<br>of<br>Access | Amount<br>of<br>data | Data<br>curation<br>/quality | 
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | [NCBI Taxonomy](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1423) | The standard taxonomy system | All | 🟡 | 🟢 | 🔴 |
+
+<br>
+
+**NCBI Taxonomy** &nbsp; &nbsp; &nbsp; <img src="media/ncbi_logo.png" width=80 align="center">
+
+The INSDC (mentioned above) maintains a database of taxonomic classifications for each known organism. This taxonomic information is shared across NCBI, ENA, and DDBJ, but only NCBI has built a tool to browse and explore taxonomic clades. 
+
+The NCBI Taxonomy resources allows users to search for taxonomic groups, then provides information on the subgroups within. For a given taxa, you can view and link to the records in NCBI databases - including genome assemblies, protein sequences, read sets, genes & other functional element annotations etc.    
+
+The entire INSDC taxonomy can be accessed at the following: https://ftp.ncbi.nlm.nih.gov/pub/taxonomy/ 
 
 <br><br>
 

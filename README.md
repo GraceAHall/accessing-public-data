@@ -131,10 +131,159 @@ Side note: EMBL-EBI call these ‘BioStudies’ instead of **BioProjects** for s
 
 
 
-## Conclusion
+### Conclusion
 
 Many academic journals now insist on data being publically accessible. They may even specifically ask for your data to be housed in the above, and will request accession numbers to confirm this before publishing. #TODO confim this
 
+
+<br><br>
+
+# Genomics
+Jump to
+<br>[Assemblies](#Assemblies)
+<br>[Annotations](#Annotations)
+<br>[Genes](#Genes)
+<br>[Taxonomy](#Taxonomy)
+
+<br><br>
+
+🔴 Low 🟡 Med 🟢 High
+
+<br>
+
+| Name | Data stored | Organisms | Ease<br>of<br>Access | Amount<br>of<br>data | Data<br>curation<br>/quality | 
+| --- | :-: | :-: | :-: | :-: | :-: |
+|  <br><br>**All nucleotide sequences** |
+| [ENA](https://www.ebi.ac.uk/ena/browser/home) | All nucleotide sequences | All | 🟢 | 🟢 | 🔴 |
+| [NCBI Nucleotide](https://www.ncbi.nlm.nih.gov/nuccore/) | All nucleotide sequences | All | 🟡 | 🟢 | 🔴 |
+| [DDBJ](https://www.ddbj.nig.ac.jp/index-e.html) | All nucleotide sequences | All | 🔴 | 🟢 | 🔴 |
+|  <br><br>**Genome Assemblies** | 
+| [ENA](https://www.ebi.ac.uk/ena/browser/home) | All nucleotide sequences | All | 🟢 | 🟢 | 🔴 |
+| [NCBI Assembly](https://www.ncbi.nlm.nih.gov/assembly/) | Genome Assemblies | All | 🟡 | 🟢 | 🔴 |
+| [DDBJ](https://www.ddbj.nig.ac.jp/index-e.html) | All nucleotide sequences | All | 🔴 | 🟢 | 🔴 |
+| <br><br>**Taxonomy** | 
+| [NCBI Taxonomy](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1423) | The standard taxonomy system | All | 🟡 | 🟢 | 🔴 |
+| <br><br>**Functional Elements** | 
+| [ENCODE](https://www.encodeproject.org/) | Annotations for human functional DNA elements | Human + select model organisms | 🟢 | 🟢 | 🟢 |
+| [GENCODE](https://www.gencodegenes.org/) | Annotations for human (and mouse) genes | Human, Mouse | 🟢 | 🟢 | 🟢 |
+| [GeneCards](https://www.genecards.org/) | Aggregator for all gene-centric data. Each gene listed once. | Human | 🟢 | 🟢 | 🟡 |
+| [NCBI Gene](https://www.ncbi.nlm.nih.gov/gene/) | Genes and links to data/metadata | All | 🟡 | 🟢 | 🔴 |
+| [ENA](https://www.ebi.ac.uk/ena/browser/home) | All nucleotide information | All | 🟢 | 🟢 | 🔴 |
+| [NCBI Nucleotide](https://www.ncbi.nlm.nih.gov/nuccore/) | All nucleotide information | All | 🟡 | 🟢 | 🔴 |
+| [DDBJ](https://www.ddbj.nig.ac.jp/index-e.html) | All nucleotide information | All | 🔴 | 🟢 | 🔴 |
+
+<br><br>
+
+### All nucleotide sequences
+
+<br>
+
+**Overview**
+
+NCBI Nucleotide, ENA and DDBJ are locations where you can search for nucleotide data of any kind. These act as central repositories for data search and storage. Many other databases link to these repositories. 
+
+NCBI nucleotide is a search which pulls data from sources which actually store the data, such as GenBank, RefSeq, and the TPA (see below).  
+
+ENA and DDBJ are more straightforward, and appear as a single entity to the user.  
+
+The data in these repositories appear in more specific archives.  For example, [NCBI gene]() contains gene sequences deposited in GenBank and RefSeq, and contains additional information for each listed gene. 
+
+
+
+<br>
+
+<p align="center">
+    <img src="media/nucleotide_databases.png" width="70%">
+</p>
+
+<br>
+
+People doing a wide search may find these archives helpful:
+* If your biological question is narrow, you may just want to know what sequence data exists (if any)
+* Searching these large central archives will inform you on the entirety of the data you may find in any location
+
+
+<br>
+
+**How to access**
+
+    As these repositories are for *all nucleotide data*, they aren't always great at retreiving the data you want. The only archive I would suggest for beginners is ENA, as the filters are very straightforward and helpful. NCBI can be quite powerful, but requires some experience. 
+
+[NCBI Nucleotide advanced search](https://www.ncbi.nlm.nih.gov/nuccore/advanced) and [ENA advanced search](https://www.ebi.ac.uk/ena/browser/advanced-search) allow more specific queries and are the best option for finding data. 
+
+**Use the Filters**
+
+If advanced searches are hard to understand at first, simple filtering is a good alternative. Filtering will also teach you the fields which can be used to narrow your results. 
+
+In the example below, I am using NCBI Nucleotide to search for the AIRE gene. 2,228 results are given of varying types, including gene sequences, predicted gene sequences, genome assemblies, and read sets.  
+
+<p align="center">
+    <img src="media/nucleotide1.PNG" width="80%">
+</p>
+
+On the right we can select a specific taxonomic group to narrow our search, and below we can view the search details which NCBI nucleotide used. You can enter an advanced search here for more specific results (see this list of valid fields)
+
+Filters can be seen on the left side of the screen, and can be useful if you know how to use them. By setting the 'Sequence length' filter to 1700 - 2000 bp, we can narrow our search to only sequences which are orthologues of the AIRE gene. This narrows our results to 146 items. 
+
+<br>
+
+<p align="center">
+    <img src="media/nucleotide2.PNG" width="80%">
+</p>
+
+<br>
+
+These sequences can then be downloaded by clicking 'Send to' in the top part of the results page. A number of options are available, and in this case I have selected FASTA to download the actual nucleotide sequences in FASTA format. 
+
+The same search can be performed with the following query on [NCBI Nucleotide advanced search](https://www.ncbi.nlm.nih.gov/nuccore/advanced):
+
+<p align="center">
+    <img src="media/nucleotide3.PNG" width="80%">
+</p>
+
+<br>
+
+**Data format**
+
+* Depends on the data - keep in mind, these are collections of any nucleotide sequence, so the actual format may differ. Nucleotide sequences are generally stored in FASTA format. 
+
+* FASTA files 
+
+<br><br>
+
+## Genome Assemblies
+
+<br>
+
+**Who uses the data**
+
+**How to access**
+
+**Data format**
+
+<br><br>
+
+## Taxonomy
+
+<br>
+
+**Who uses the data**
+
+**How to access**
+
+**Data format**
+
+<br><br>
+
+## Functional Elements
+
+<br>
+
+**Who uses the data**
+
+**How to access**
+
+**Data format**
 
 <br><br>
 
@@ -273,154 +422,6 @@ Capillary Electrophoresis data has been migrated to NCBI SRA, ENA, and DRA, so c
 **Data format**
 
 FASTQ format as above. 
-
-
-<br><br>
-
-# Genomics
-Jump to
-<br>[Assemblies](#Assemblies)
-<br>[Annotations](#Annotations)
-<br>[Genes](#Genes)
-<br>[Taxonomy](#Taxonomy)
-
-<br><br>
-
-🔴 Low 🟡 Med 🟢 High
-
-<br>
-
-| Name | Data stored | Organisms | Ease<br>of<br>Access | Amount<br>of<br>data | Data<br>curation<br>/quality | 
-| --- | :-: | :-: | :-: | :-: | :-: |
-|  <br><br>**All nucleotide sequences** |
-| [ENA](https://www.ebi.ac.uk/ena/browser/home) | All nucleotide sequences | All | 🟢 | 🟢 | 🔴 |
-| [NCBI Nucleotide](https://www.ncbi.nlm.nih.gov/nuccore/) | All nucleotide sequences | All | 🟡 | 🟢 | 🔴 |
-| [DDBJ](https://www.ddbj.nig.ac.jp/index-e.html) | All nucleotide sequences | All | 🔴 | 🟢 | 🔴 |
-|  <br><br>**Genome Assemblies** | 
-| [ENA](https://www.ebi.ac.uk/ena/browser/home) | All nucleotide sequences | All | 🟢 | 🟢 | 🔴 |
-| [NCBI Assembly](https://www.ncbi.nlm.nih.gov/assembly/) | Genome Assemblies | All | 🟡 | 🟢 | 🔴 |
-| [DDBJ](https://www.ddbj.nig.ac.jp/index-e.html) | All nucleotide sequences | All | 🔴 | 🟢 | 🔴 |
-| <br><br>**Taxonomy** | 
-| [NCBI Taxonomy](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1423) | The standard taxonomy system | All | 🟡 | 🟢 | 🔴 |
-| <br><br>**Functional Elements** | 
-| [ENCODE](https://www.encodeproject.org/) | Annotations for human functional DNA elements | Human + select model organisms | 🟢 | 🟢 | 🟢 |
-| [GENCODE](https://www.gencodegenes.org/) | Annotations for human (and mouse) genes | Human, Mouse | 🟢 | 🟢 | 🟢 |
-| [GeneCards](https://www.genecards.org/) | Aggregator for all gene-centric data. Each gene listed once. | Human | 🟢 | 🟢 | 🟡 |
-| [NCBI Gene](https://www.ncbi.nlm.nih.gov/gene/) | Genes and links to data/metadata | All | 🟡 | 🟢 | 🔴 |
-| [ENA](https://www.ebi.ac.uk/ena/browser/home) | All nucleotide information | All | 🟢 | 🟢 | 🔴 |
-| [NCBI Nucleotide](https://www.ncbi.nlm.nih.gov/nuccore/) | All nucleotide information | All | 🟡 | 🟢 | 🔴 |
-| [DDBJ](https://www.ddbj.nig.ac.jp/index-e.html) | All nucleotide information | All | 🔴 | 🟢 | 🔴 |
-
-<br><br>
-
-## All nucleotide sequences
-
-<br>
-
-**Who uses these archives**
-
-NCBI Nucleotide, ENA and DDBJ are locations where you can search for nucleotide data of any kind. These act as central repositories for data search and storage. Many other databases link to these repositories. 
-
-NCBI nucleotide is a search which pulls data from sources which actually store the data, such as GenBank, RefSeq, and the TPA (see below).  
-
-ENA and DDBJ are more straightforward, and appear as a single entity to the user.  
-
-The data in these repositories appear in more specific archives.  For example, [NCBI gene]() contains gene sequences deposited in GenBank and RefSeq, and contains additional information for each listed gene. 
-
-
-
-<br>
-
-<p align="center">
-    <img src="media/nucleotide_databases.png" width="70%">
-</p>
-
-<br>
-
-People doing a wide search may find these archives helpful:
-* If your biological question is narrow, you may just want to know what sequence data exists (if any)
-* Searching these large central archives will inform you on the entirety of the data you may find in any location
-
-
-<br>
-
-**How to access**
-
-As these repositories are for *all nucleotide data*, they aren't always great at retreiving the data you want. The only archive I would suggest for beginners is ENA, as the filters are very straightforward and helpful. NCBI can be quite powerful, but requires some experience. 
-
-[NCBI Nucleotide advanced search](https://www.ncbi.nlm.nih.gov/nuccore/advanced) and [ENA advanced search](https://www.ebi.ac.uk/ena/browser/advanced-search) allow more specific queries and are the best option for finding data. 
-
-If advanced searches are hard to understand at first, simple filtering is a good alternative. Filtering will also teach you the fields which can be used to narrow your results. 
-
-In the example below, I am using NCBI Nucleotide to search for the AIRE gene. 2,228 results are given of varying types, including gene sequences, predicted gene sequences, genome assemblies, and read sets.  
-
-<p align="center">
-    <img src="media/nucleotide1.PNG" width="80%">
-</p>
-
-On the right we can select a specific taxonomic group to narrow our search, and below we can view the search details which NCBI nucleotide used. You can enter an advanced search here for more specific results (see this list of valid fields)
-
-Filters can be seen on the left side of the screen, and can be useful if you know how to use them. By setting the 'Sequence length' filter to 1700 - 2000 bp, we can narrow our search to only sequences which are orthologues of the AIRE gene. This narrows our results to 146 items. 
-
-<br>
-
-<p align="center">
-    <img src="media/nucleotide2.PNG" width="80%">
-</p>
-
-<br>
-
-These sequences can then be downloaded by clicking 'Send to' in the top part of the results page. A number of options are available, and in this case I have selected FASTA to download the actual nucleotide sequences in FASTA format. 
-
-The same search can be performed with the following query on [NCBI Nucleotide advanced search](https://www.ncbi.nlm.nih.gov/nuccore/advanced):
-
-<p align="center">
-    <img src="media/nucleotide3.PNG" width="80%">
-</p>
-
-<br>
-
-**Data format**
-
-* Depends on the data - keep in mind, these are collections of any nucleotide sequence, so the actual format may differ. Nucleotide sequences are generally stored in FASTA format. 
-
-* FASTA files 
-
-<br><br>
-
-## Genome Assemblies
-
-<br>
-
-**Who uses the data**
-
-**How to access**
-
-**Data format**
-
-<br><br>
-
-## Taxonomy
-
-<br>
-
-**Who uses the data**
-
-**How to access**
-
-**Data format**
-
-<br><br>
-
-## Functional Elements
-
-<br>
-
-**Who uses the data**
-
-**How to access**
-
-**Data format**
 
 
 <br><br>

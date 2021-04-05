@@ -186,7 +186,7 @@ The INSDC (mentioned above) maintains a database of taxonomic classifications fo
 
 The NCBI Taxonomy resources allows users to search for taxonomic groups, then provides information on the subgroups within. For a given taxa, you can view and link to the records in NCBI databases - including genome assemblies, protein sequences, read sets, genes & other functional element annotations etc.    
 
-The entire INSDC taxonomy can be accessed at the following: https://ftp.ncbi.nlm.nih.gov/pub/taxonomy/ 
+The entire INSDC taxonomy can be downloaded here: https://ftp.ncbi.nlm.nih.gov/pub/taxonomy/ 
 
 <br><br>
 
@@ -207,7 +207,6 @@ The entire INSDC taxonomy can be accessed at the following: https://ftp.ncbi.nlm
 <br><br>
 
 # Reads
-
 
 
 <br><br>

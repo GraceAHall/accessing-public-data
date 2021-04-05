@@ -123,15 +123,22 @@ Side note: EMBL-EBI call these ‘BioStudies’ instead of **BioProjects** for s
 
 | Name | Data stored | Organisms | Ease<br>of<br>Access | Amount<br>of<br>data | Data<br>curation<br>/quality | 
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| [ENA](https://www.ebi.ac.uk/ena/browser/home) | All nucleotide sequences | All | 🟢 | 🟢 | 🔴 |
-| [NCBI Assembly](https://www.ncbi.nlm.nih.gov/assembly/) | Genome Assemblies | All | 🟡 | 🟢 | 🔴 |
+| [NCBI Assembly](https://www.ncbi.nlm.nih.gov/assembly/) | Genome Assemblies | All | 🟢 | 🟢 | 🔴 |
+| [ENA](https://www.ebi.ac.uk/ena/browser/home) | All nucleotide sequences | All | 🟡 | 🟢 | 🔴 |
 | [DDBJ](https://www.ddbj.nig.ac.jp/index-e.html) | All nucleotide sequences | All | 🔴 | 🟢 | 🔴 |
 
 <br><br>
 
-**NCBI Assembly**
 
-NCBI Assembly specifically displays genome assemblies and associated data. In terms of metadata, each assembly has an organism name, the submitter name and submission date, accession numbers, and the actual genome sequence data.  Other useful information, including the assembly level - ‘complete genome’, ‘chromosome’, ‘Scaffold’ or ‘Contig’ - is available. The following is usually downloadable:
+**NCBI Assembly** &nbsp; &nbsp; &nbsp; <img src="media/ncbi_logo.png" width=60 align="center">
+
+NCBI Assembly specifically displays genome assemblies and associated data. Is offers the best filtering options when searching, as searches can be narrowed by attributes such as assembly level (complete, scaffold etc), organism group, ploidy, contig N50, and annotation level.
+
+In terms of metadata, each assembly has an organism name, the submitter name and submission date, accession numbers, and the actual genome sequence data.  Other useful information, including the assembly level - ‘complete genome’, ‘chromosome’, ‘Scaffold’ or ‘Contig’ - is available. 
+
+<img src='media/ncbi_assembly_download.PNG' width=200>
+
+<br>The following is usually downloadable:
 * DNA/RNA genome sequence
 * Genomic features (annotations)
 * Coding sequences (gene products)
@@ -139,7 +146,27 @@ NCBI Assembly specifically displays genome assemblies and associated data. In te
 * RepeatMasker output
 * & others
 
-Most assemblies are annotated, but the quality of the annotation is variable.  In modern times, genomic features are usually guessed using software first, then may be validated experimentally at a later date. Automatic annotation quality often depends on how similar the particular organism is to other, well studied organisms. 
+Most assemblies are annotated, but the quality of the annotation is variable.  Genomic features are usually inferred using software first, then may be validated experimentally at a later date. The quality of software annotation often depends on how similar the particular organism is to other, well studied organisms. 
+
+<br>
+
+**ENA (European Nucleotide Archive)** &nbsp; &nbsp; &nbsp; <img src="media/ENA_logo.png" width=80 align="center">
+
+[The European Nucleotide Archive (ENA)](https://www.ebi.ac.uk/ena/browser/home) contains all publicly available EMBL-EBI nucleotide sequences, *including genome assemblies*.  When searching, select **'Assembly'** from the filters on the left side of the page to restrict results to genome assemblies. 
+
+Unfortunately, assembly searches using ENA cannot be easily filtered like NCBI Assembly. If searching for a bacterial organism, eg *Bacillus subtilis*, hundreds of assemblies for strains are returned. The only way to do a more specific search is using [ENA advanced search](https://www.ebi.ac.uk/ena/browser/advanced-search), which is actually a fantastic tool in any case.  
+
+Once you have selected an assembly, the sequence and annotations can be downloaded. 
+
+<img src='media/ENA_assembly_download.PNG' width=90%>
+
+
+<br>
+
+**DDBJ** &nbsp; &nbsp; &nbsp; <img src="media/ddbj_logo.png" width=80 align="center">
+
+[The DNA Data Bank of Japan (DDBJ)](https://www.ddbj.nig.ac.jp/ddbj/index-e.html) is also a member of the INSDC and so contains virtually the same nucleotide data as the archives above. The DDBJs UI and web page is harder to use than NCBI Nucleotide or ENA, and feels a little dated. Given that the DDBJ collects and shares data for INSDC members, similar results will appear using ENA or NCBI Nucleotide searches.
+
 
 
 <br><br>

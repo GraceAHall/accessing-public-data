@@ -25,7 +25,7 @@ This document is a ***beginners guide*** for how to access this data.
 <br>
 
 | Name | Data stored | Organisms | Ease<br>of<br>Access | Amount<br>of<br>data | Data<br>curation<br>/quality | 
-| --- | :-: | :-: | :-: | :-: | :-: |
+| :-: | :-: | :-: | :-: | :-: | :-: |
 |  <br><br>**All nucleotide sequences** |
 | [ENA](https://www.ebi.ac.uk/ena/browser/home) | All nucleotide sequences | All | 🟢 | 🟢 | 🔴 |
 | [NCBI Nucleotide](https://www.ncbi.nlm.nih.gov/nuccore/) | All nucleotide sequences | All | 🟡 | 🟢 | 🔴 |
@@ -78,7 +78,7 @@ This document is a ***beginners guide*** for how to access this data.
 <br>
 
 | Name | Data stored | Organisms | Ease<br>of<br>Access | Amount<br>of<br>data | Data<br>curation<br>/quality | 
-| --- | :-: | :-: | :-: | :-: | :-: |
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | <br><br>**Bulk RNA** | 
 | [GTEx](https://gtexportal.org/home/) | Tissue-specific gene expression and regulation | Human | 🟢 | 🟢 | 🟢 |
 | [AOE](https://aoe.dbcls.jp/en) | Aggregates publicly available gene expression data | All | 🟢 | 🟢 | 🟡 |
@@ -111,7 +111,7 @@ This document is a ***beginners guide*** for how to access this data.
 <br>
 
 | Name | Data stored | Organisms | Ease<br>of<br>Access | Amount<br>of<br>data | Data<br>curation<br>/quality | 
-| --- | :-: | :-: | :-: | :-: | :-: |
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | <br><br>**Sequence Variation (SNPs, Indels etc)** | 
 | [EVA](https://www.ebi.ac.uk/eva/) | All variant data | All | 🟡 | 🟢 | 🔴 |
 | [NCBI dbSNP](https://www.ncbi.nlm.nih.gov/snp/) | All sequence variant data | Human | 🔴 | 🟢 | 🔴 |
@@ -133,7 +133,7 @@ This document is a ***beginners guide*** for how to access this data.
 <br>
 
 | Name | Data stored | Organisms | Ease<br>of<br>Access | Amount<br>of<br>data | Data<br>curation<br>/quality | 
-| --- | :-: | :-: | :-: | :-: | :-: |
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | <br><br>**Protein Sequences** | 
 | [UniProt](https://www.uniprot.org/help/about) | Protein sequences and annotations | All | 🟢 | 🟢 | 🟢 |
 | [Enzyme portal](https://www.ebi.ac.uk/enzymeportal/) | Concise summary of enzymes | All | 🟢 | 🟡 | 🟢 |
@@ -186,7 +186,7 @@ This document is a ***beginners guide*** for how to access this data.
 <br>
 
 | Name | Data stored | Organisms | Ease<br>of<br>Access | Amount<br>of<br>data | Data<br>curation<br>/quality | 
-| --- | :-: | :-: | :-: | :-: | :-: |
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | [Reactome](https://reactome.org/) | Biological pathways | All | 🟢 | 🟢 | 🟢 |
 | [Rhea](https://www.rhea-db.org/) | Reactions of biological interest | All | 🟡 | 🟢 | 🟢 |
 | [KEGG](https://www.genome.jp/kegg/kegg2.html) | Biological systems | All | 🔴 | 🟢 | 🟢 |
@@ -204,7 +204,7 @@ This document is a ***beginners guide*** for how to access this data.
 <br>
 
 | Name | Data stored | Organisms | Ease<br>of<br>Access | Amount<br>of<br>data | Data<br>curation<br>/quality | 
-| --- | :-: | :-: | :-: | :-: | :-: |
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | [SILVA](https://www.arb-silva.de/) | ribosomal RNA sequences | All | 🟡 | 🟢 | 🟢 |
 | [Ribosomal database project (RDP)](https://rdp.cme.msu.edu/index.jsp) | ribosomal RNA sequences | Bacteria, Archaea, Fungi | 🟡 | 🟢 | 🟡 |
 | [MGnify](https://www.ebi.ac.uk/metagenomics/) | Microbiome experiments & data | All | 🟢 | 🟢 | 🔴 |

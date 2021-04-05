@@ -157,7 +157,7 @@ Most assemblies are annotated, but the quality of the annotation is variable.  G
 Unfortunately, assembly searches using ENA cannot be easily filtered like NCBI Assembly. If searching for a bacterial organism, eg *Bacillus subtilis*, hundreds of assemblies for strains are returned. The only way to do a more specific search is using [ENA advanced search](https://www.ebi.ac.uk/ena/browser/advanced-search), which is actually a fantastic tool in any case.  
 
 Once you have selected an assembly, the sequence and annotations can be downloaded. 
-
+ 
 <img src='media/ENA_assembly_download.PNG' width=90%>
 
 

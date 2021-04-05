@@ -274,27 +274,6 @@ This document is a ***beginners guide*** for how to access this data.
 | [EMPIRE](https://www.ebi.ac.uk/pdbe/emdb/empiar/) | Raw electron microscopy images | All | 🟡 | 🟡 | 🟡 |
 | [BMRB](https://bmrb.io/) | NMR data | All | 🔴 | 🟢 | 🟡 |
 
-<br>
-
-## Protein structures
-* PDB 
-* PDBe 
-<br>
-
-## Protein interactions
-* STRING
-* BRENDA
-
-<br>
-
-## Protein expression
-* PRIDE (mass spec data)
-* Human Protein Atlas
-<br>
-
-## Protein domains and functions
-* InterPro
-
 <br><br>
 
 # Pathways & Reactions

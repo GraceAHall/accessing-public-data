@@ -136,7 +136,7 @@ NCBI Assembly specifically displays genome assemblies and associated data. Is of
 
 In terms of metadata, each assembly has an organism name, the submitter name and submission date, accession numbers, and the actual genome sequence data.  Other useful information, including the assembly level - ‘complete genome’, ‘chromosome’, ‘Scaffold’ or ‘Contig’ - is available. 
 
-<img src='media/ncbi_assembly_download.png' width=200>
+<img src='media/ncbi_assembly_download.PNG' width=200>
 
 The following is usually downloadable:
 * DNA/RNA genome sequence
@@ -158,7 +158,7 @@ Unfortunately, assembly searches using ENA cannot be easily filtered like NCBI A
 
 Once you have selected an assembly, the sequence and annotations can be downloaded. 
  
-<img src='media/ENA_assembly_download.png' width=90%>
+<img src='media/ENA_assembly_download.PNG' width=90%>
 
 
 <br>

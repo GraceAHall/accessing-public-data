@@ -1,7 +1,7 @@
 # Introduction
 Thanks to research becoming more open in the last decade, there is now a ***huge amount*** of freely available data online.  The push towards repeatable analysis and open access to data has had enormous impact on medical science, and will continue to do so in the future. Clearly, there is too much data to properly cite in a single document, but hopefully the main sections have been covered here. 
 
-This document is a ***beginners guide*** for how to access this data. 
+This document is an ***introduction*** to some of the commonly used open-access archives. 
 
 <br><br>
 
@@ -33,8 +33,8 @@ This document is a ***beginners guide*** for how to access this data.
 * [Pathways & Reactions](#Pathways-&-Reactions)
 * [Metagenomics / Microbiomics](#Metagenomics-/-Microbiomics)
 * [Metabolomics](#Metabolomics)
+* [Imaging](#Imaging)
 * [Domain Specific](#Domain-Specific)
-    * 
 
 <br><br>
 
@@ -335,13 +335,22 @@ This document is a ***beginners guide*** for how to access this data.
 | [ChEMBL](https://www.ebi.ac.uk/chembl/)  | Bioactive molecules | All | 🟢 | 🟢 | 🟢 |
 | [MetaboLights](https://www.ebi.ac.uk/metabolights)  | Studies of Metabolites | All | 🟡 | 🟢 | 🟡 |
 
+<br><br>
+
+
+# Imaging
+
 <br>
+
+| Name | Data stored | Organisms | Ease<br>of<br>Access | Amount<br>of<br>data | Data<br>curation<br>/quality | 
+| --- | :-: | :-: | :-: | :-: | :-: |
+| [BioImage archive](https://www.ebi.ac.uk/biostudies/BioImages/studies) | All biological image data  | All | 🟢 | 🟢 | 🟢 |
+| [Image Data Resource (IDR)](https://idr.openmicroscopy.org/about/) | Image datasets from published studies | All | 🟢 | 🟡 | 🟢 |   
+| [Cell Image Library ](http://www.cellimagelibrary.org/home) | Images, videos, and animations of cells | All | 🟢 | 🟢 | 🟡 |
 
 <br><br>
 
 # Domain Specific
-
-
 
 <br>
 
@@ -349,10 +358,6 @@ This document is a ***beginners guide*** for how to access this data.
 | --- | :-: | :-: | :-: | :-: | :-: |
 | <br><br>**Cancer** |   
 | [COSMIC](https://cancer.sanger.ac.uk/cosmic) | Somatic mutations in human cancer | Human | 🟢 | 🟢 | 🟢 |  
-| <br><br>**Biological Images** | 
-| [BioImage archive](https://www.ebi.ac.uk/biostudies/BioImages/studies) | All biological image data  | All | 🟢 | 🟢 | 🟢 |
-| [Image Data Resource (IDR)](https://idr.openmicroscopy.org/about/) | Image datasets from published studies | All | 🟢 | 🟡 | 🟢 |   
-| [Cell Image Library ](http://www.cellimagelibrary.org/home) | Images, videos, and animations of cells | All | 🟢 | 🟢 | 🟡 |
 | <br><br>**Neuroscience** |   
 | [Allen Brain Map](https://portal.brain-map.org/) | Data and analysis related to the brain | Human, Mouse | 🟢 | 🟢 | 🟢 |  
 | <br><br>**Immunology** |   

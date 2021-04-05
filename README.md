@@ -57,7 +57,7 @@ This document provides ***links*** to some of the commonly used ***open-access a
 | [NCBI Nucleotide](https://www.ncbi.nlm.nih.gov/nuccore/) | All nucleotide sequences | All | 🟡 | 🟢 | 🔴 |
 | [DDBJ](https://www.ddbj.nig.ac.jp/index-e.html) | All nucleotide sequences | All | 🔴 | 🟢 | 🔴 |
 
-<br>
+<br><br>
 
 **INSDC** &nbsp; &nbsp; &nbsp; <img src="media/insdc_logo.png" width=80 align="center">
 

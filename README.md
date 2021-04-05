@@ -61,6 +61,11 @@ This document provides ***links*** to some of the commonly used ***open-access a
 
 **ENA (European Nucleotide Archive)** &nbsp; &nbsp; &nbsp; <img src="media/ENA_logo.png" width=80 align="center">
 
+The European Nucleotide Archive (ENA) contains all publicly available EMBL-EBI nucleotide sequences.  This includes coding sequences (genes), Non-coding DNA elements, genome assemblies, DNA/RNA sequence readsets and much more.  The data itself, as well as metadata (information about the data - what it is, how it was derived, what techniques were used etc) are stored.
+
+When searching ENA, all types of genomic data will be returned. You can then choose the specific kind of nucleotide sequence you want using filters (ie only genome assemblies, only coding sequence etc)   
+
+
 <br>
 
 **NCBI Nucleotide** &nbsp; &nbsp; &nbsp; <img src="media/ncbi_logo.png" width=60 align="center">

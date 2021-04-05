@@ -61,7 +61,15 @@ This document provides ***links*** to some of the commonly used ***open-access a
 
 **ENA (European Nucleotide Archive)** &nbsp; &nbsp; &nbsp; <img src="media/ENA_logo.png" width=80 align="center">
 
+<br>
 
+**NCBI Nucleotide** &nbsp; &nbsp; &nbsp; <img src="media/ncbi_logo.png" width=60 align="center">
+
+<br>
+
+**NAME** &nbsp; &nbsp; &nbsp; <img src="media/ddbj_logo.png" width=80 align="center">
+
+<br>
 
 ### Genome Assemblies
 

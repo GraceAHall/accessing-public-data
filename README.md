@@ -61,18 +61,26 @@ This document provides ***links*** to some of the commonly used ***open-access a
 
 **ENA (European Nucleotide Archive)** &nbsp; &nbsp; &nbsp; <img src="media/ENA_logo.png" width=80 align="center">
 
-The European Nucleotide Archive (ENA) contains all publicly available EMBL-EBI nucleotide sequences.  This includes coding sequences (genes), Non-coding DNA elements, genome assemblies, DNA/RNA sequence readsets and much more.  The data itself, as well as metadata (information about the data - what it is, how it was derived, what techniques were used etc) are stored.
+[The European Nucleotide Archive (ENA)](https://www.ebi.ac.uk/ena/browser/home) contains all publicly available EMBL-EBI nucleotide sequences.  This includes *coding sequences (genes), Non-coding DNA elements, genome assemblies, DNA/RNA sequence readsets* and much more.  The data itself, as well as metadata (information about the data - what it is, how it was derived, what techniques were used etc) are stored.
 
-When searching ENA, all types of genomic data will be returned. You can then choose the specific kind of nucleotide sequence you want using filters (ie only genome assemblies, only coding sequence etc)   
+When searching ENA, all types of genomic data will be returned. You can then choose the specific kind of nucleotide sequence you want using filters (ie only genome assemblies, only coding sequence etc). [ENA advanced search](https://www.ebi.ac.uk/ena/browser/advanced-search) allows you to create a more specific search for your needs. 
 
+ENA has the cleanest UI amongst ENA, NCBI Nucleotide, and DDBJ.
+  
 
 <br>
 
 **NCBI Nucleotide** &nbsp; &nbsp; &nbsp; <img src="media/ncbi_logo.png" width=60 align="center">
 
+[The National Centre for Biotechnology Information (NCBI) Nucleotide](https://www.ncbi.nlm.nih.gov/nuccore/) is a search tool which pulls results from GenBank, RefSeq, the TPA and other repositories.  Searching NCBI Nucleotide is akin to searching all of NCBIs sequence data, so is comparable to ENA.   Similar to ENA, all kinds of genomic data is available, rather than one type only.  
+
+In general, NCBI has an archive specific to your needs (ie NCBI Assembly for assemblies, NCBI Gene for gene sequences etc), but searching NCBI Nucleotide can indicate the total data of all types given your search.  [NCBI advanced search](https://www.ncbi.nlm.nih.gov/nuccore/advanced) is a powerful tool for searching, given you know the syntax. 
+
 <br>
 
 **NAME** &nbsp; &nbsp; &nbsp; <img src="media/ddbj_logo.png" width=80 align="center">
+
+[The DNA Data Bank of Japan (DDBJ)](https://www.ddbj.nig.ac.jp/ddbj/index-e.html)
 
 <br>
 

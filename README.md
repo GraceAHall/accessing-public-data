@@ -138,7 +138,7 @@ In terms of metadata, each assembly has an organism name, the submitter name and
 
 <img src='media/ncbi_assembly_download.PNG' width=200>
 
-<br>The following is usually downloadable:
+The following is usually downloadable:
 * DNA/RNA genome sequence
 * Genomic features (annotations)
 * Coding sequences (gene products)

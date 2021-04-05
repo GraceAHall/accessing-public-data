@@ -59,6 +59,14 @@ This document provides ***links*** to some of the commonly used ***open-access a
 
 <br>
 
+**INSDC** &nbsp; &nbsp; &nbsp; <img src="media/insdc_logo.png" width=80 align="center">
+
+NCBI, EMBL-EBI and DDBJ share data on a daily basis as members of the [International Nucleotide Sequence Database Collaboration (INSDC)](http://www.insdc.org/)
+For this reason, NCBI Nucleotide, ENA, and DDBJ will have essentially the same nucleotide data at any given time.  
+
+
+<br>
+
 **ENA (European Nucleotide Archive)** &nbsp; &nbsp; &nbsp; <img src="media/ENA_logo.png" width=80 align="center">
 
 [The European Nucleotide Archive (ENA)](https://www.ebi.ac.uk/ena/browser/home) contains all publicly available EMBL-EBI nucleotide sequences.  This includes *coding sequences (genes), Non-coding DNA elements, genome assemblies, DNA/RNA sequence readsets* and much more.  The data itself, as well as metadata (information about the data - what it is, how it was derived, what techniques were used etc) are stored.
@@ -78,9 +86,10 @@ In general, NCBI has an archive specific to your needs (ie NCBI Assembly for ass
 
 <br>
 
-**NAME** &nbsp; &nbsp; &nbsp; <img src="media/ddbj_logo.png" width=80 align="center">
+**DDBJ** &nbsp; &nbsp; &nbsp; <img src="media/ddbj_logo.png" width=80 align="center">
 
-[The DNA Data Bank of Japan (DDBJ)](https://www.ddbj.nig.ac.jp/ddbj/index-e.html)
+[The DNA Data Bank of Japan (DDBJ)](https://www.ddbj.nig.ac.jp/ddbj/index-e.html) is also a member of the INSDC and so contains virtually the same nucleotide data as the archives above. The DDBJs UI and web page is harder to use than NCBI Nucleotide or ENA, and feels a little dated. Given that the DDBJ collects and shares data for INSDC members, similar results will appear using ENA or NCBI Nucleotide searches. 
+
 
 <br>
 

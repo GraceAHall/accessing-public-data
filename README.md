@@ -40,11 +40,12 @@ This document is a ***beginners guide*** for how to access this data.
 
 # Genomics
 
-<br>
+* [Central Nucleotide Repositories](#Central-Nucleotide-Repositories)
+* [Genome Assemblies](#Genome-Assemblies)
+* [Taxonomy](#Taxonomy)
+* [Functional Elements (Annotations)](#Functional-Elements)
 
-🔴 Low 🟡 Med 🟢 High
-
-<br>
+<br><br>
 
 ### Central Nucleotide Repositories
 
@@ -98,9 +99,7 @@ This document is a ***beginners guide*** for how to access this data.
 
 # Reads
 
-<br>
 
-🔴 Low 🟡 Med 🟢 High
 
 <br>
 
@@ -130,9 +129,7 @@ This document is a ***beginners guide*** for how to access this data.
 
 # Transcriptomics
 
-<br>
 
-🔴 Low 🟡 Med 🟢 High
 
 <br>
 
@@ -198,9 +195,7 @@ This document is a ***beginners guide*** for how to access this data.
 
 # Variation
 
-<br>
 
-🔴 Low 🟡 Med 🟢 High
 
 <br>
 
@@ -231,9 +226,7 @@ This document is a ***beginners guide*** for how to access this data.
 
 # Proteomics
 
-<br>
 
-🔴 Low 🟡 Med 🟢 High
 
 <br>
 
@@ -300,9 +293,7 @@ This document is a ***beginners guide*** for how to access this data.
 
 # Pathways & Reactions
 
-<br>
 
-🔴 Low 🟡 Med 🟢 High
 
 <br>
 
@@ -318,9 +309,7 @@ This document is a ***beginners guide*** for how to access this data.
 
 # Metagenomics / Microbiomics
 
-<br>
 
-🔴 Low 🟡 Med 🟢 High
 
 <br>
 
@@ -337,9 +326,7 @@ This document is a ***beginners guide*** for how to access this data.
 
 # Metabolomics
 
-<br>
 
-🔴 Low 🟡 Med 🟢 High
 
 <br>
 
@@ -354,9 +341,7 @@ This document is a ***beginners guide*** for how to access this data.
 
 # Domain Specific
 
-<br>
 
-🔴 Low 🟡 Med 🟢 High
 
 <br>
 
@@ -394,3 +379,8 @@ Data has been divided into sections as best as possible. <br>In each section, th
 * Who uses the data? (what type of analysis / field)
 * How to access (download or use)
 * Format of the data 
+
+
+<br>
+
+🔴 Low 🟡 Med 🟢 High

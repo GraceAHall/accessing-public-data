@@ -132,12 +132,12 @@ Side note: EMBL-EBI call these ‘BioStudies’ instead of **BioProjects** for s
 **NCBI Assembly**
 
 NCBI Assembly specifically displays genome assemblies and associated data. In terms of metadata, each assembly has an organism name, the submitter name and submission date, accession numbers, and the actual genome sequence data.  Other useful information, including the assembly level - ‘complete genome’, ‘chromosome’, ‘Scaffold’ or ‘Contig’ - is available. The following is usually downloadable:
-DNA/RNA genome sequence
-Genomic features (annotations)
-Coding sequences (gene products)
-RNA data
-RepeatMasker output
-& others
+* DNA/RNA genome sequence
+* Genomic features (annotations)
+* Coding sequences (gene products)
+* RNA data
+* RepeatMasker output
+* & others
 
 Most assemblies are annotated, but the quality of the annotation is variable.  In modern times, genomic features are usually guessed using software first, then may be validated experimentally at a later date. Automatic annotation quality often depends on how similar the particular organism is to other, well studied organisms. 
 

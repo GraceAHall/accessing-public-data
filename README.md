@@ -1,19 +1,11 @@
-
-
-
-# Accessing public data
-
-<br><br>
-
-
-## Introduction
+# Introduction
 Thanks to research becoming more open in the last decade, there is now a ***huge amount*** of freely available data online.  The push towards repeatable analysis and open access to data has had enormous impact on medical science, and will continue to do so in the future. Clearly, there is too much data to properly cite in a single document, but hopefully the main sections have been covered here. 
 
 This document is a ***beginners guide*** for how to access this data. 
 
-<br>
+<br><br>
 
-## Contents
+# Contents
 * [Summary of common data repositories](#Common-data-Repositories)
     * [NCBI](#NCBI)
     * [EMBL-EBI](#EMBL-EBI)
@@ -47,7 +39,7 @@ This document is a ***beginners guide*** for how to access this data.
 
 <br><br>
 
-## Common data Repositories 
+# Common data Repositories 
 Jump to
 * [Overview](#Overview)
 * [Data sharing between organisations](#Shared-Data)
@@ -56,7 +48,7 @@ Jump to
 
 <br>
 
-### Overview
+## Overview
 There are 3 major organisations which house publically available data. While other independent resources exist, the bulk of open-access data is stored within these 3 groups:
 
 * The National Center for Biotechnology Information (NCBI)
@@ -65,7 +57,7 @@ There are 3 major organisations which house publically available data. While oth
 
 <br>
 
-### Data Sharing
+## Data Sharing
 
 <br>NCBI, EMBL-EBI, and DDBJ are all part of the International Nucleotide Sequence Database Collaboration (INSDC). The INSDC is an initiative which *encourages the sharing of nucleotide sequence data between organisations*. As a result, data submitted to the archives below will be shared across relevant NCBI, EMBL-EBI, and DDBJ databases.  A large amount of information - from raw read data, to alignments, assemblies, functional annotations, and sample information - are shared. 
 
@@ -87,7 +79,7 @@ Similar databases are available at each of these organisations, and they mirror 
 
 <br>
 
-### Projects, Samples, and data
+## Projects, Samples, and data
 
 Understanding the hierarchy between archives is one of the most tricky aspects when navigating public data. Anyone who has worked with databases will know that the relationships between data are often hard to express in a standard way.   The 3 main organisations (NCBI, EMBL-EBI and DDBJ) arrange information into **BioProjects**, **BioSamples**, and Data, which is a good solution given the challenge. 
 
@@ -103,7 +95,7 @@ Side note: EMBL-EBI call these ‘BioStudies’ instead of **BioProjects** for s
 
 <br>
 
-### NCBI
+## NCBI
 American 
 
 You can also build complex queries using fields and logial operators. For example to search for horse dopamine receptor D2:
@@ -120,7 +112,7 @@ https://www.ncbi.nlm.nih.gov/home/documentation/
 
 <br>
 
-### EMBL-EBI
+## EMBL-EBI
 ELIXIR data archives:<br>
 https://elixir-europe.org/services/list?field_scientific_domain_tid=All&field_elixir_badge_tid=All&field_type_of_service_tid=1134&field_elixir_node_target_id=All&combine=
 
@@ -128,20 +120,20 @@ https://www.ebi.ac.uk/ena/browser/about/content
 
 <br>
 
-### DDBJ
+## DDBJ
 
 Is bad
 
 <br>
 
-### Conclusion
+## Conclusion
 
 Many academic journals now insist on data being publically accessible. They may even specifically ask for your data to be housed in the above, and will request accession numbers to confirm this before publishing. #TODO confim this
 
 
 <br><br>
 
-## Reads
+# Reads
 
 Jump to:
 <br>[Next Gen Sequencing](#Next-Gen-Sequencing)
@@ -167,7 +159,7 @@ Jump to:
 
 <br><br>
 
-### Next Gen Sequencing
+## Next Gen Sequencing
 
 <br>
 
@@ -261,7 +253,7 @@ The actual sequence of the read is line 2, and the base-accuracy quality score a
 
 <br><br>
 
-### Capillary Electrophoresis 
+## Capillary Electrophoresis 
 
 <br>
 
@@ -280,7 +272,7 @@ FASTQ format as above.
 
 <br><br>
 
-## Genomics
+# Genomics
 Jump to
 <br>[Assemblies](#Assemblies)
 <br>[Annotations](#Annotations)
@@ -316,7 +308,7 @@ Jump to
 
 <br><br>
 
-### All nucleotide sequences
+## All nucleotide sequences
 
 <br>
 
@@ -391,7 +383,7 @@ The same search can be performed with the following query on [NCBI Nucleotide ad
 
 <br><br>
 
-### Genome Assemblies
+## Genome Assemblies
 
 <br>
 
@@ -403,7 +395,7 @@ The same search can be performed with the following query on [NCBI Nucleotide ad
 
 <br><br>
 
-### Taxonomy
+## Taxonomy
 
 <br>
 
@@ -415,7 +407,7 @@ The same search can be performed with the following query on [NCBI Nucleotide ad
 
 <br><br>
 
-### Functional Elements
+## Functional Elements
 
 <br>
 
@@ -428,7 +420,7 @@ The same search can be performed with the following query on [NCBI Nucleotide ad
 
 <br><br>
 
-## Transcriptomics
+# Transcriptomics
 Jump to
 * [Expression data](#Expression-data)
 * [Transcript isoforms](#Transcript-isoforms)
@@ -467,7 +459,7 @@ Jump to
 
 <br><br>
 
-## Variation
+# Variation
 Jump to
 * [Sequence variation (SNVs/SNPs, Indels)](#Sequence-variation-(SNVs/SNPs,-Indels))
 * [Structural variation](#Structural-variation)
@@ -492,18 +484,18 @@ Jump to
 
 <br>
 
-### Sequence variation (SNP/SNV, Indel etc)
+## Sequence variation (SNP/SNV, Indel etc)
 
 <p align="center">
     <img src="media/variants.png" width="90%">
 </p>
 
-### Structural variation
+## Structural variation
 
 
 <br><br>
 
-## Proteomics
+# Proteomics
 jump to
 * [Protein structures](#Protein-structures)
 * [Protein interactions](#Protein-interactions)
@@ -540,28 +532,28 @@ jump to
 
 <br>
 
-### Protein structures
+## Protein structures
 * PDB 
 * PDBe 
 <br>
 
-### Protein interactions
+## Protein interactions
 * STRING
 * BRENDA
 
 <br>
 
-### Protein expression
+## Protein expression
 * PRIDE (mass spec data)
 * Human Protein Atlas
 <br>
 
-### Protein domains and functions
+## Protein domains and functions
 * InterPro
 
 <br><br>
 
-## Pathways & Reactions
+# Pathways & Reactions
 
 <br>
 
@@ -579,7 +571,7 @@ jump to
 
 <br><br>
 
-## Metagenomics / Microbiome
+# Metagenomics / Microbiome
 
 <br>
 
@@ -598,7 +590,7 @@ jump to
 
 <br><br>
 
-## Metabolomics
+# Metabolomics
 
 <br>
 
@@ -615,7 +607,7 @@ jump to
 
 <br><br>
 
-## Domain Specific
+# Domain Specific
 
 <br>
 
@@ -649,7 +641,7 @@ jump to
 <br><br>
 
 
-## Graveyard
+# Graveyard
 
 
 

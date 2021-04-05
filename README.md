@@ -91,7 +91,7 @@ In general, NCBI has an archive specific to your needs (ie NCBI Assembly for ass
 [The DNA Data Bank of Japan (DDBJ)](https://www.ddbj.nig.ac.jp/ddbj/index-e.html) is also a member of the INSDC and so contains virtually the same nucleotide data as the archives above. The DDBJs UI and web page is harder to use than NCBI Nucleotide or ENA, and feels a little dated. Given that the DDBJ collects and shares data for INSDC members, similar results will appear using ENA or NCBI Nucleotide searches. 
 
 
-<br>
+<br><br>
 
 ### Genome Assemblies
 
@@ -103,7 +103,7 @@ In general, NCBI has an archive specific to your needs (ie NCBI Assembly for ass
 | [NCBI Assembly](https://www.ncbi.nlm.nih.gov/assembly/) | Genome Assemblies | All | 🟡 | 🟢 | 🔴 |
 | [DDBJ](https://www.ddbj.nig.ac.jp/index-e.html) | All nucleotide sequences | All | 🔴 | 🟢 | 🔴 |
 
-<br>
+<br><br>
 
 ### Taxonomy 
 
@@ -113,7 +113,7 @@ In general, NCBI has an archive specific to your needs (ie NCBI Assembly for ass
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | [NCBI Taxonomy](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1423) | The standard taxonomy system | All | 🟡 | 🟢 | 🔴 |
 
-<br>
+<br><br>
 
 ### Functional Elements 
 
@@ -135,7 +135,7 @@ In general, NCBI has an archive specific to your needs (ie NCBI Assembly for ass
 
 
 
-<br>
+<br><br>
 
 ### Next Gen Sequencing
 
@@ -147,7 +147,7 @@ In general, NCBI has an archive specific to your needs (ie NCBI Assembly for ass
 | [SRA](https://www.ncbi.nlm.nih.gov/sra) | High-throughput sequence data | All | 🟡 | 🟢 | 🔴 |
 | [DRA](https://www.ddbj.nig.ac.jp/dra/index-e.html) | High-throughput sequence data | All | 🔴 | 🟢 | 🔴 |
 
-<br>
+<br><br>
 
 ### Capillary Electrophoresis
 
@@ -165,7 +165,7 @@ In general, NCBI has an archive specific to your needs (ie NCBI Assembly for ass
 
 
 
-<br>
+<br><br>
 
 ### Bulk Tissue
 

@@ -1,7 +1,7 @@
 # Introduction
 Thanks to research becoming more open in the last decade, there is now a ***huge amount*** of freely available data online.  The push towards repeatable analysis and open access to data has had enormous impact on medical science, and will continue to do so in the future. Clearly, there is too much data to properly cite in a single document, but hopefully the main sections have been covered here. 
 
-This document is an ***introduction*** to some of the commonly used open-access archives. 
+This document provides ***links*** to some of the commonly used ***open-access archives.*** 
 
 <br><br>
 
@@ -58,6 +58,10 @@ This document is an ***introduction*** to some of the commonly used open-access 
 | [DDBJ](https://www.ddbj.nig.ac.jp/index-e.html) | All nucleotide sequences | All | 🔴 | 🟢 | 🔴 |
 
 <br>
+
+**ENA (European Nucleotide Archive)** <img src="media/ENA_logo.png" width=80 align="center">
+
+
 
 ### Genome Assemblies
 

@@ -45,11 +45,11 @@ This document provides ***links*** to some of the commonly used ***open-access a
 
 # Genomics
 
-* [Central Nucleotide Repositories](#Central-Nucleotide-Repositories)
+* [NCBI, ENA, & DDBJ](#NCBI,-ENA,-&-DDBJ)
+* [Organisation - BioProjects & BioSamples](#Organisation---BioProjects-&-BioSamples)
 * [Genome Assemblies](#Genome-Assemblies)
 * [Taxonomy](#Taxonomy)
 * [Functional Elements (Annotations)](#Functional-Elements)
-
 
 <br>
 
@@ -62,6 +62,8 @@ This document provides ***links*** to some of the commonly used ***open-access a
 <br><br>
 
 ### NCBI, ENA, & DDBJ
+
+<br>
 
 **INSDC** &nbsp; &nbsp; &nbsp; <img src="media/insdc_logo.png" width=80 align="center">
 
@@ -97,6 +99,8 @@ In general, NCBI has an archive specific to your needs (ie NCBI Assembly for ass
 <br><br>
 
 ### Organisation - BioProjects & BioSamples
+
+<br>
 
 The three Understanding the hierarchy between archives is one of the most tricky aspects when navigating public data. Anyone who has worked with databases will know that the relationships between data are often hard to express in a standard way.   The 3 main organisations (NCBI, EMBL-EBI and DDBJ) arrange information into **BioProjects**, **BioSamples**, and Data, which is a good solution given the challenge. 
 

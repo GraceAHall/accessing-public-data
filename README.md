@@ -48,16 +48,52 @@ Jump to
 
 <br>
 
-## Overview
+### NCBI, EMBL-EBI and DDBJ
 There are 3 major organisations which house publically available data. While other independent resources exist, the bulk of open-access data is stored within these 3 groups:
 
 * The National Center for Biotechnology Information (NCBI)
 * The European Bioinformatics Institute (EMBL-EBI)
 * The DNA Data Bank of Japan (DDBJ)
 
+
 <br>
 
-## Data Sharing
+**NCBI**
+
+American 
+
+You can also build complex queries using fields and logial operators. For example to search for horse dopamine receptor D2:
+
+("Equus caballus"[Organism] OR horse[All Fields]) AND (dopamine 
+receptor D2[Protein Name] OR (dopamine[All Fields] AND receptor[All Fields] AND D2[All Fields]))
+
+Here is a list of all the fields which you can search:
+https://www.ncbi.nlm.nih.gov/books/NBK49540/
+
+Read more here:<br>
+https://www.ncbi.nlm.nih.gov/home/documentation/
+
+
+<br>
+
+**EMBL-EBI** 
+
+ELIXIR data archives:<br>
+https://elixir-europe.org/services/list?field_scientific_domain_tid=All&field_elixir_badge_tid=All&field_type_of_service_tid=1134&field_elixir_node_target_id=All&combine=
+
+https://www.ebi.ac.uk/ena/browser/about/content
+
+<br>
+
+**DDBJ**
+
+DDBJ Is bad
+
+<br>
+
+<br>
+
+### Data Sharing
 
 <br>NCBI, EMBL-EBI, and DDBJ are all part of the International Nucleotide Sequence Database Collaboration (INSDC). The INSDC is an initiative which *encourages the sharing of nucleotide sequence data between organisations*. As a result, data submitted to the archives below will be shared across relevant NCBI, EMBL-EBI, and DDBJ databases.  A large amount of information - from raw read data, to alignments, assemblies, functional annotations, and sample information - are shared. 
 
@@ -79,7 +115,7 @@ Similar databases are available at each of these organisations, and they mirror 
 
 <br>
 
-## Projects, Samples, and data
+### Projects, Samples, and data
 
 Understanding the hierarchy between archives is one of the most tricky aspects when navigating public data. Anyone who has worked with databases will know that the relationships between data are often hard to express in a standard way.   The 3 main organisations (NCBI, EMBL-EBI and DDBJ) arrange information into **BioProjects**, **BioSamples**, and Data, which is a good solution given the challenge. 
 
@@ -93,38 +129,7 @@ Side note: EMBL-EBI call these ‘BioStudies’ instead of **BioProjects** for s
     <img src="media/project_organisation.png" width="90%">
 </p>
 
-<br>
 
-## NCBI
-American 
-
-You can also build complex queries using fields and logial operators. For example to search for horse dopamine receptor D2:
-
-("Equus caballus"[Organism] OR horse[All Fields]) AND (dopamine 
-receptor D2[Protein Name] OR (dopamine[All Fields] AND receptor[All Fields] AND D2[All Fields]))
-
-Here is a list of all the fields which you can search:
-https://www.ncbi.nlm.nih.gov/books/NBK49540/
-
-Read more here:<br>
-https://www.ncbi.nlm.nih.gov/home/documentation/
-
-
-<br>
-
-## EMBL-EBI
-ELIXIR data archives:<br>
-https://elixir-europe.org/services/list?field_scientific_domain_tid=All&field_elixir_badge_tid=All&field_type_of_service_tid=1134&field_elixir_node_target_id=All&combine=
-
-https://www.ebi.ac.uk/ena/browser/about/content
-
-<br>
-
-## DDBJ
-
-Is bad
-
-<br>
 
 ## Conclusion
 
@@ -159,7 +164,7 @@ Jump to:
 
 <br><br>
 
-## Next Gen Sequencing
+### Next Gen Sequencing
 
 <br>
 

@@ -51,6 +51,10 @@ This document provides ***links*** to some of the commonly used ***open-access a
 * [Taxonomy](#Taxonomy)
 * [Functional Elements (Annotations)](#Functional-Elements)
 
+<br><br>
+
+### NCBI, ENA, & DDBJ
+
 <br>
 
 | Name | Data stored | Organisms | Ease<br>of<br>Access | Amount<br>of<br>data | Data<br>curation<br>/quality | 
@@ -60,10 +64,6 @@ This document provides ***links*** to some of the commonly used ***open-access a
 | [DDBJ](https://www.ddbj.nig.ac.jp/index-e.html) | All nucleotide sequences | All | 🔴 | 🟢 | 🔴 |
 
 <br><br>
-
-### NCBI, ENA, & DDBJ
-
-<br>
 
 **INSDC** &nbsp; &nbsp; &nbsp; <img src="media/insdc_logo.png" width=80 align="center">
 
@@ -100,7 +100,7 @@ In general, NCBI has an archive specific to your needs (ie NCBI Assembly for ass
 
 ### Organisation - BioProjects & BioSamples
 
-<br>
+<br>    
 
 The three Understanding the hierarchy between archives is one of the most tricky aspects when navigating public data. Anyone who has worked with databases will know that the relationships between data are often hard to express in a standard way.   The 3 main organisations (NCBI, EMBL-EBI and DDBJ) arrange information into **BioProjects**, **BioSamples**, and Data, which is a good solution given the challenge. 
 
@@ -126,6 +126,21 @@ Side note: EMBL-EBI call these ‘BioStudies’ instead of **BioProjects** for s
 | [ENA](https://www.ebi.ac.uk/ena/browser/home) | All nucleotide sequences | All | 🟢 | 🟢 | 🔴 |
 | [NCBI Assembly](https://www.ncbi.nlm.nih.gov/assembly/) | Genome Assemblies | All | 🟡 | 🟢 | 🔴 |
 | [DDBJ](https://www.ddbj.nig.ac.jp/index-e.html) | All nucleotide sequences | All | 🔴 | 🟢 | 🔴 |
+
+<br><br>
+
+**NCBI Assembly**
+
+NCBI Assembly specifically displays genome assemblies and associated data. In terms of metadata, each assembly has an organism name, the submitter name and submission date, accession numbers, and the actual genome sequence data.  Other useful information, including the assembly level - ‘complete genome’, ‘chromosome’, ‘Scaffold’ or ‘Contig’ - is available. The following is usually downloadable:
+DNA/RNA genome sequence
+Genomic features (annotations)
+Coding sequences (gene products)
+RNA data
+RepeatMasker output
+& others
+
+Most assemblies are annotated, but the quality of the annotation is variable.  In modern times, genomic features are usually guessed using software first, then may be validated experimentally at a later date. Automatic annotation quality often depends on how similar the particular organism is to other, well studied organisms. 
+
 
 <br><br>
 

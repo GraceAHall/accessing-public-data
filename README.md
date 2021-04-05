@@ -59,7 +59,7 @@ This document provides ***links*** to some of the commonly used ***open-access a
 
 <br>
 
-**ENA (European Nucleotide Archive)** <img src="media/ENA_logo.png" width=80 align="center">
+**ENA (European Nucleotide Archive)** &nbsp; &nbsp; &nbsp; <img src="media/ENA_logo.png" width=80 align="center">
 
 
 

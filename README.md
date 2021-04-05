@@ -11,13 +11,6 @@ Thanks to research becoming more open in the last decade, there is now a ***huge
 
 This document is a ***beginners guide*** for how to access this data. 
 
-
-
-Data has been divided into sections as best as possible. <br>In each section, the following is covered:
-* Who uses the data? (what type of analysis / field)
-* How to access (download or use)
-* Format of the data 
-
 <br>
 
 ## Contents
@@ -162,7 +155,7 @@ Jump to:
 
 
 | Name | Data stored | Organisms | Ease<br>of<br>Access | Amount<br>of<br>data | Data<br>curation<br>/quality | 
-| --- | :-: | :-: | :-: | :-: | :-: |
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | <br><br>**Next Gen Sequencing** |
 | [ENA](https://www.ebi.ac.uk/ena/browser/home) | All nucleotide data | All | 🟢 | 🟢 | 🔴 |
 | [SRA](https://www.ncbi.nlm.nih.gov/sra) | High-throughput sequence data - capillary, short & long NGS reads | All | 🟡 | 🟢 | 🔴 |
@@ -654,3 +647,13 @@ jump to
 <br>
 
 <br><br>
+
+
+## Graveyard
+
+
+
+Data has been divided into sections as best as possible. <br>In each section, the following is covered:
+* Who uses the data? (what type of analysis / field)
+* How to access (download or use)
+* Format of the data 

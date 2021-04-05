@@ -7,12 +7,34 @@ This document is a ***beginners guide*** for how to access this data.
 
 # Contents
 
-* [Sequence Reads](#Reads)
 * [Genomics](#Genomics)
+    * [Central Nucleotide Repositories](#Central-Nucleotide-Repositories)
+    * [Genome Assemblies](#Genome-Assemblies)
+    * [Taxonomy](#Taxonomy)
+    * [Functional Elements (Annotations)](#Functional-Elements)
+* [Sequence Reads](#Reads)
+    * [Next Gen Sequencing](#Next-Gen-Sequencing)
+    * [Capillary Electrophoresis](#Capillary-Electrophoresis)
 * [Transcriptomics](#Transcriptomics)
+    * [Bulk Tissue](#Bulk-Tissue)
+    * [Single Cell](#Single-Cell)
+    * [Networks](#Networks)
+    * [Transcript Isoforms](#Transcript-Isoforms)
+    * [Noncoding RNA](#Noncoding-RNA)
 * [Variation](#Variation)
+    * [Sequence Variation (SNVs/SNPs, Indels etc)](#Sequence-Variation)
+    * [Structural Variation (SVs)](#Structural-Variation)
 * [Proteomics](#Proteomics)
-   
+    * [Protein Sequences](#Protein-Sequences)
+    * [Protein Structures](#Protein-Structures)
+    * [Protein Domains & Families](#Protein-Domains-&-Families)
+    * [Protein Expression](#Protein-Expression)
+    * [EM, XRay, & NMR](#EM,-XRay,-&-NMR)
+* [Pathways & Reactions](#Pathways-&-Reactions)
+* [Metagenomics / Microbiomics](#Metagenomics-/-Microbiomics)
+* [Metabolomics](#Metabolomics)
+* [Domain Specific](#Domain-Specific)
+    * 
 
 <br><br>
 
@@ -24,7 +46,7 @@ This document is a ***beginners guide*** for how to access this data.
 
 <br>
 
-### Nucleotide Sequences (All)
+### Central Nucleotide Repositories
 
 <br>
 
@@ -114,7 +136,7 @@ This document is a ***beginners guide*** for how to access this data.
 
 <br>
 
-### Bulk RNA
+### Bulk Tissue
 
 <br>
 
@@ -182,7 +204,7 @@ This document is a ***beginners guide*** for how to access this data.
 
 <br>
 
-### Sequence Variation (SNPs, Indels etc)
+### Sequence Variation
 
 <br>
 
@@ -195,7 +217,7 @@ This document is a ***beginners guide*** for how to access this data.
 
 <br>
 
-### Structural Variation (SVs)
+### Structural Variation
 
 <br>
 
@@ -227,7 +249,7 @@ This document is a ***beginners guide*** for how to access this data.
 
 <br>
 
-### Protein Families 
+### Protein Domains & Families
 
 <br>
 
@@ -294,7 +316,7 @@ This document is a ***beginners guide*** for how to access this data.
 
 <br><br>
 
-# Metagenomics / Microbiome
+# Metagenomics / Microbiomics
 
 <br>
 

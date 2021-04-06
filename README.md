@@ -73,7 +73,7 @@ For this reason, NCBI Nucleotide, ENA, and DDBJ will have essentially the same n
 
 <br>
 
-**ENA (European Nucleotide Archive)** &nbsp; &nbsp; &nbsp; <img src="media/ENA_logo.png" width=80 align="center">
+**ENA (European Nucleotide Archive)** &nbsp; &nbsp; &nbsp; <img src="media/ENA_logo.png" width=90 align="center">
 
 [The European Nucleotide Archive (ENA)](https://www.ebi.ac.uk/ena/browser/home) contains all publicly available EMBL-EBI nucleotide sequences.  This includes *coding sequences (genes), Non-coding DNA elements, genome assemblies, DNA/RNA sequence readsets* and much more.  The data itself, as well as metadata (information about the data - what it is, how it was derived, what techniques were used etc) are stored.
 
@@ -150,7 +150,7 @@ Most assemblies are annotated, but the quality of the annotation is variable.  G
 
 <br>
 
-**ENA (European Nucleotide Archive)** &nbsp; &nbsp; &nbsp; <img src="media/ENA_logo.png" width=80 align="center">
+**ENA (European Nucleotide Archive)** &nbsp; &nbsp; &nbsp; <img src="media/ENA_logo.png" width=90 align="center">
 
 [The European Nucleotide Archive (ENA)](https://www.ebi.ac.uk/ena/browser/home) contains all publicly available EMBL-EBI nucleotide sequences, *including genome assemblies*.  When searching, select **'Assembly'** from the filters on the left side of the page to restrict results to genome assemblies. 
 
@@ -209,6 +209,43 @@ The entire INSDC taxonomy can be downloaded here: https://ftp.ncbi.nlm.nih.gov/p
 **ENCODE** &nbsp; &nbsp; &nbsp; <img src="media/encode_logo.png" width=70 align="center">
 
 The Encyclopedia of DNA Elements (ENCODE) is a high-quality and extensive catalogue of all known functional elements in the human genome.  In addition to genes, ENCODE includes any region with functional impact - such as noncoding RNA, and promoter / enhancer regulatory regions.  ENCODE data has a high level of quality, and uses multiple sources of evidence when annotating new functional elements.  A variety of methods including bioinformatics analysis of current data, sequencing, DNA hypersensitivity assays, DNA methylation and binding assays etc are routinely used to identify and confirm new elements.  
+
+<br>
+
+**GENCODE** &nbsp; &nbsp; &nbsp; <img src="media/gencode_logo.png" width=70 align="center">
+
+The Encyclopedia of genes and gene variants (GENCODE) catalogues all the gene features in the human and mouse genomes. Gene classifications are detailed and high-quality, as they are supported by biological evidence. GENCODE can be seen as a subset of ENCODE, which attempts to catalogue all function elements in the human genome. 
+
+<br>
+
+**GeneCards** &nbsp; &nbsp; &nbsp; <img src="media/genecards_logo.png" width=110 align="center">
+
+GeneCards provides a summary for each human gene. It integrates information from more than 150 web sources, and presents it to the user in one location.  A huge amount of data for each gene is presented, including summaries, regulatory elements of the gene, proteomics information, detailed annotations, and noteworthy genetic variants to name a few (if available). If you want to improve your knowledge of a particular gene, GeneCards is a great option.   
+
+<br>
+
+**NCBI Gene** &nbsp; &nbsp; &nbsp; <img src="media/ncbi_logo.png" width=70 align="center">
+
+While the archives above only catalogue human & mouse genes, NCBI gene **spans all organisms.** Searches usually need to be narrowed using filters or advanced search to be useful, but the amount of information given per gene is high. Sometimes the data is good quality and verified, other times it is only software predictions.  Links to all NCBI data, as well as academic publications are provided when browsing a particular gene. 
+
+<br>
+
+**ENA (European Nucleotide Archive)** &nbsp; &nbsp; &nbsp; <img src="media/ENA_logo.png" width=90 align="center">
+
+
+
+<br>
+
+**NCBI Nucleotide** &nbsp; &nbsp; &nbsp; <img src="media/ncbi_logo.png" width=60 align="center">
+
+
+<br>
+
+**DDBJ** &nbsp; &nbsp; &nbsp; <img src="media/ddbj_logo.png" width=80 align="center">
+
+
+
+
 
 <br><br>
 

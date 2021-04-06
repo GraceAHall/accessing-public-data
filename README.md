@@ -200,11 +200,9 @@ The entire INSDC taxonomy can be downloaded here: https://ftp.ncbi.nlm.nih.gov/p
 | [GENCODE](https://www.gencodegenes.org/) | Annotations for human (and mouse) genes | Human, Mouse | 🟢 | 🟢 | 🟢 |
 | [GeneCards](https://www.genecards.org/) | Aggregator for all gene-centric data. Each gene listed once. | Human | 🟢 | 🟢 | 🟡 |
 | [NCBI Gene](https://www.ncbi.nlm.nih.gov/gene/) | Genes and links to data/metadata | All | 🟡 | 🟢 | 🔴 |
-| [ENA](https://www.ebi.ac.uk/ena/browser/home) | All nucleotide information | All | 🟢 | 🟢 | 🔴 |
-| [NCBI Nucleotide](https://www.ncbi.nlm.nih.gov/nuccore/) | All nucleotide information | All | 🟡 | 🟢 | 🔴 |
-| [DDBJ](https://www.ddbj.nig.ac.jp/index-e.html) | All nucleotide information | All | 🔴 | 🟢 | 🔴 |
 
-<br>
+
+<br><br>
 
 **ENCODE** &nbsp; &nbsp; &nbsp; <img src="media/encode_logo.png" width=70 align="center">
 
@@ -228,24 +226,6 @@ GeneCards provides a summary for each human gene. It integrates information from
 
 While the archives above only catalogue human & mouse genes, NCBI gene **spans all organisms.** Searches usually need to be narrowed using filters or advanced search to be useful, but the amount of information given per gene is high. Sometimes the data is good quality and verified, other times it is only software predictions.  Links to all NCBI data, as well as academic publications are provided when browsing a particular gene. 
 
-<br>
-
-**ENA (European Nucleotide Archive)** &nbsp; &nbsp; &nbsp; <img src="media/ENA_logo.png" width=90 align="center">
-
-
-
-<br>
-
-**NCBI Nucleotide** &nbsp; &nbsp; &nbsp; <img src="media/ncbi_logo.png" width=60 align="center">
-
-
-<br>
-
-**DDBJ** &nbsp; &nbsp; &nbsp; <img src="media/ddbj_logo.png" width=80 align="center">
-
-
-
-
 
 <br><br>
 
@@ -263,6 +243,25 @@ While the archives above only catalogue human & mouse genes, NCBI gene **spans a
 | [ENA](https://www.ebi.ac.uk/ena/browser/home) | All nucleotide data | All | 🟢 | 🟢 | 🔴 |
 | [SRA](https://www.ncbi.nlm.nih.gov/sra) | High-throughput sequence data | All | 🟡 | 🟢 | 🔴 |
 | [DRA](https://www.ddbj.nig.ac.jp/dra/index-e.html) | High-throughput sequence data | All | 🔴 | 🟢 | 🔴 |
+
+<br><br>
+
+**ENA** &nbsp; &nbsp; &nbsp; <img src="media/ena_logo.png" width=90 align="center">
+
+[The European Nucleotide Archive (ENA)](https://www.ebi.ac.uk/ena/browser/home) will display read sets in their default search. In the filter menu under 'Reads', both 'Runs' and 'Experiments' contain read sets with download links to the raw FASTQ files. For a specific sequencing experiment or run, there is a 'Show Column Selection' bar above the read files section - clicking this allows a huge amount of metadata to be displayed for each read set, which can be handy if you have certain demands. The [ENA advanced search](https://www.ebi.ac.uk/ena/browser/advanced-search) facilitates searching only for read sets, and allows us to restrict the results based on numerous conditions such as taxonomic group, instrument platform, geographical location, and read length to name a few.     
+
+<br>
+
+**SRA** &nbsp; &nbsp; &nbsp; <img src="media/ncbi_logo.png" width=80 align="center">
+
+
+
+<br>
+
+**DRA** &nbsp; &nbsp; &nbsp; <img src="media/ddbj_logo.png" width=80 align="center">
+
+
+
 
 <br><br>
 

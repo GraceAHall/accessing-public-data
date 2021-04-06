@@ -204,6 +204,12 @@ The entire INSDC taxonomy can be downloaded here: https://ftp.ncbi.nlm.nih.gov/p
 | [NCBI Nucleotide](https://www.ncbi.nlm.nih.gov/nuccore/) | All nucleotide information | All | 🟡 | 🟢 | 🔴 |
 | [DDBJ](https://www.ddbj.nig.ac.jp/index-e.html) | All nucleotide information | All | 🔴 | 🟢 | 🔴 |
 
+<br>
+
+**ENCODE** &nbsp; &nbsp; &nbsp; <img src="media/encode_logo.png" width=70 align="center">
+
+The Encyclopedia of DNA Elements (ENCODE) is a high-quality and extensive catalogue of all known functional elements in the human genome.  In addition to genes, ENCODE includes any region with functional impact - such as noncoding RNA, and promoter / enhancer regulatory regions.  ENCODE data has a high level of quality, and uses multiple sources of evidence when annotating new functional elements.  A variety of methods including bioinformatics analysis of current data, sequencing, DNA hypersensitivity assays, DNA methylation and binding assays etc are routinely used to identify and confirm new elements.  
+
 <br><br>
 
 # Reads

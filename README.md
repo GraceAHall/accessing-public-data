@@ -45,11 +45,13 @@ This document provides ***links*** to some of the commonly used ***open-access a
 
 # Genomics
 
+Contents
 * [NCBI, ENA, & DDBJ](#NCBI,-ENA,-&-DDBJ)
 * [Organisation - BioProjects & BioSamples](#Organisation---BioProjects-&-BioSamples)
 * [Genome Assemblies](#Genome-Assemblies)
 * [Taxonomy](#Taxonomy)
 * [Functional Elements (Annotations)](#Functional-Elements)
+
 
 <br><br>
 
@@ -65,11 +67,11 @@ This document provides ***links*** to some of the commonly used ***open-access a
 
 <br><br>
 
-**INSDC** &nbsp; &nbsp; &nbsp; <img src="media/insdc_logo.png" width=80 align="center">
+**Data Sharing - INSDC** &nbsp; &nbsp; &nbsp; <img src="media/insdc_logo.png" width=80 align="center">
 
-NCBI, EMBL-EBI and DDBJ share data on a daily basis as members of the [International Nucleotide Sequence Database Collaboration (INSDC)](http://www.insdc.org/)
-For this reason, NCBI Nucleotide, ENA, and DDBJ will have essentially the same nucleotide data at any given time.  
+NCBI, EMBL-EBI and DDBJ share data on a daily basis as members of the [International Nucleotide Sequence Database Collaboration (INSDC)](http://www.insdc.org/). 
 
+All nucleotide data submitted to the following organisations are automatically shared between them - the choice of archive therefore mainly depends on familiarity - which one you personally find is easiest to use. 
 
 <br>
 
@@ -229,8 +231,11 @@ While the archives above only catalogue human & mouse genes, NCBI gene **spans a
 
 <br><br>
 
-# Reads
+# Sequence Reads
 
+Contents
+* [Next Gen Sequencing](#Next-Gen-Sequencing)
+* [Capillary Electrophoresis](#Capillary-Electrophoresis)
 
 <br><br>
 
@@ -246,6 +251,14 @@ While the archives above only catalogue human & mouse genes, NCBI gene **spans a
 
 <br><br>
 
+**Data Sharing - INSDC** &nbsp; &nbsp; &nbsp; <img src="media/insdc_logo.png" width=80 align="center">
+
+NCBI, EMBL-EBI and DDBJ share data on a daily basis as members of the [International Nucleotide Sequence Database Collaboration (INSDC)](http://www.insdc.org/). 
+
+All read sets submitted to the following organisations are automatically shared between them - the choice of archive therefore mainly depends on familiarity - which one you personally find is easiest to use. 
+
+<br>
+
 **ENA** &nbsp; &nbsp; &nbsp; <img src="media/ENA_logo.png" width=90 align="center">
 
 [The European Nucleotide Archive (ENA)](https://www.ebi.ac.uk/ena/browser/home) will display read sets in their default search. In the filter menu under 'Reads', both 'Runs' and 'Experiments' contain read sets with download links to the raw FASTQ files. For a specific sequencing experiment or run, there is a 'Show Column Selection' bar above the read files section - clicking this allows a huge amount of metadata to be displayed for each read set, which can be handy if you have certain demands. The [ENA advanced search](https://www.ebi.ac.uk/ena/browser/advanced-search) facilitates searching only for read sets, and allows us to restrict the results based on numerous conditions such as taxonomic group, instrument platform, geographical location, and read length to name a few.     
@@ -254,13 +267,13 @@ While the archives above only catalogue human & mouse genes, NCBI gene **spans a
 
 **SRA** &nbsp; &nbsp; &nbsp; <img src="media/ncbi_logo.png" width=80 align="center">
 
-
+[The NCBI Sequence Read Archive (SRA)](https://www.ncbi.nlm.nih.gov/sra) is another portal for read set access. Unlike ENA and DDBJ, it is limited to read sets only. After doing a basic search, there are a number of useful filters on the left side of the screen (taxon filters are on the right) to help narrow your results, without the need for an advanced search. This said, advanced searches are always better if you know how to use them. Accessing the actual raw read files is trickier with SRA compared to ENA, as a few links need to be followed. After selecting a read experiment, click on a sequence run accession (starts with **SRR**) in the 'Runs' section at the bottom, then on the following page select the 'Data Access' tab to access the raw data.    
 
 <br>
 
 **DRA** &nbsp; &nbsp; &nbsp; <img src="media/ddbj_logo.png" width=80 align="center">
 
-
+[The DDBJ Sequence Read Archive (DRA)](https://www.ddbj.nig.ac.jp/dra/index-e.html) contains virtually the same data as NCBI SRA and ENA. The search is similar to a simple advanced search, but has far fewer options than an advanced search using NCBI SRA or ENA. The format of the results displays all the important information, but again is lacking compared to the other portals. 
 
 
 <br><br>
@@ -273,6 +286,13 @@ While the archives above only catalogue human & mouse genes, NCBI gene **spans a
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | [NCBI Trace Archive](https://trace.ncbi.nlm.nih.gov/Traces/trace.cgi) | Capillary sequencing only | All | 🔴 | 🟢 | 🔴 |
 | [DDBJ Trace Archive (DTA)](https://www.ddbj.nig.ac.jp/dta/index-e.html) | Capillary sequencing only  | All | 🔴 | 🟢 | 🔴 |
+
+<br><br>
+
+**Overview**
+
+Capillary electrophoresis specific data is included in the NGS archives. The repositories above are permanent stores of DNA sequence chromotograms (traces), alongside the actual base calls and quality scores. The FASTQ data now feeds into modern archives (SRA, ENA, DRA), and can be specifically searched for using the advanced search tools (instrument platform = 'capillary').
+
 
 
 <br><br>

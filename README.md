@@ -1,7 +1,7 @@
 # Introduction
 Thanks to research becoming more open in the last decade, there is now a ***huge amount*** of freely available data online.  The push towards repeatable analysis and open access to data has had enormous impact on medical science, and will continue to do so in the future. Clearly, there is too much data to properly cite in a single document, but hopefully the main sections have been covered here. 
 
-This document provides ***links*** to some of the commonly used ***open-access archives.*** 
+This document provides ***an overview*** of some of the commonly used ***open-access archives.*** 
 
 <br><br>
 
@@ -134,7 +134,7 @@ Side note: EMBL-EBI call these ‘BioStudies’ instead of **BioProjects** for s
 
 **NCBI Assembly** &nbsp; &nbsp; &nbsp; <img src="media/ncbi_logo.png" width=60 align="center">
 
-NCBI Assembly specifically displays genome assemblies and associated data. Is offers the best filtering options when searching, as searches can be narrowed by attributes such as assembly level (complete, scaffold etc), organism group, ploidy, contig N50, and annotation level.
+[NCBI Assembly](https://www.ncbi.nlm.nih.gov/assembly/) specifically displays genome assemblies and associated data. Is offers the best filtering options when searching, as searches can be narrowed by attributes such as assembly level (complete, scaffold etc), organism group, ploidy, contig N50, and annotation level.
 
 In terms of metadata, each assembly has an organism name, the submitter name and submission date, accession numbers, and the actual genome sequence data.  Other useful information, including the assembly level - ‘complete genome’, ‘chromosome’, ‘Scaffold’ or ‘Contig’ - is available. 
 
@@ -184,9 +184,9 @@ Once you have selected an assembly, the sequence and annotations can be download
 
 **NCBI Taxonomy** &nbsp; &nbsp; &nbsp; <img src="media/ncbi_logo.png" width=80 align="center">
 
-The INSDC (mentioned above) maintains a database of taxonomic classifications for each known organism. This taxonomic information is shared across NCBI, ENA, and DDBJ, but only NCBI has built a tool to browse and explore taxonomic clades. 
+[The INSDC](http://www.insdc.org/) (mentioned above) maintains a database of taxonomic classifications for each known organism. This taxonomic information is shared across NCBI, ENA, and DDBJ, but only NCBI has built a specific tool to browse and explore taxonomic clades in a web browser. 
 
-The NCBI Taxonomy resources allows users to search for taxonomic groups, then provides information on the subgroups within. For a given taxa, you can view and link to the records in NCBI databases - including genome assemblies, protein sequences, read sets, genes & other functional element annotations etc.    
+The [NCBI Taxonomy](https://www.ncbi.nlm.nih.gov/taxonomy) resources allows users to search for taxonomic groups, then provides information on the subgroups within. For a given taxa, you can view and link to the records in NCBI databases - including genome assemblies, protein sequences, read sets, genes & other functional element annotations etc.    
 
 The entire INSDC taxonomy can be downloaded here: https://ftp.ncbi.nlm.nih.gov/pub/taxonomy/ 
 
@@ -208,25 +208,25 @@ The entire INSDC taxonomy can be downloaded here: https://ftp.ncbi.nlm.nih.gov/p
 
 **ENCODE** &nbsp; &nbsp; &nbsp; <img src="media/encode_logo.png" width=70 align="center">
 
-The Encyclopedia of DNA Elements (ENCODE) is a high-quality and extensive catalogue of all known functional elements in the human genome.  In addition to genes, ENCODE includes any region with functional impact - such as noncoding RNA, and promoter / enhancer regulatory regions.  ENCODE data has a high level of quality, and uses multiple sources of evidence when annotating new functional elements.  A variety of methods including bioinformatics analysis of current data, sequencing, DNA hypersensitivity assays, DNA methylation and binding assays etc are routinely used to identify and confirm new elements.  
+[The Encyclopedia of DNA Elements (ENCODE)](https://www.encodeproject.org/) is a high-quality and extensive catalogue of all known functional elements in the human genome.  In addition to genes, ENCODE includes any region with functional impact - such as noncoding RNA, and promoter / enhancer regulatory regions.  ENCODE data has a high level of quality, and uses multiple sources of evidence when annotating new functional elements.  A variety of methods including bioinformatics analysis of current data, sequencing, DNA hypersensitivity assays, DNA methylation and binding assays etc are routinely used to identify and confirm new elements.  
 
 <br>
 
 **GENCODE** &nbsp; &nbsp; &nbsp; <img src="media/gencode_logo.png" width=70 align="center">
 
-The Encyclopedia of genes and gene variants (GENCODE) catalogues all the gene features in the human and mouse genomes. Gene classifications are detailed and high-quality, as they are supported by biological evidence. GENCODE can be seen as a subset of ENCODE, which attempts to catalogue all function elements in the human genome. 
+[The Encyclopedia of genes and gene variants (GENCODE)](https://www.gencodegenes.org/) catalogues all the gene features in the human and mouse genomes. Gene classifications are detailed and high-quality, as they are supported by biological evidence. GENCODE can be seen as a subset of ENCODE, which attempts to catalogue all function elements in the human genome. 
 
 <br>
 
 **GeneCards** &nbsp; &nbsp; &nbsp; <img src="media/genecards_logo.png" width=110 align="center">
 
-GeneCards provides a summary for each human gene. It integrates information from more than 150 web sources, and presents it to the user in one location.  A huge amount of data for each gene is presented, including summaries, regulatory elements of the gene, proteomics information, detailed annotations, and noteworthy genetic variants to name a few (if available). If you want to improve your knowledge of a particular gene, GeneCards is a great option.   
+[GeneCards](https://www.genecards.org/) provides a summary for each human gene. It integrates information from more than 150 web sources, and presents it to the user in one location.  A huge amount of data for each gene is presented, including summaries, regulatory elements of the gene, proteomics information, detailed annotations, and noteworthy genetic variants to name a few (if available). If you want to improve your knowledge of a particular gene, GeneCards is a great option.   
 
 <br>
 
 **NCBI Gene** &nbsp; &nbsp; &nbsp; <img src="media/ncbi_logo.png" width=70 align="center">
 
-While the archives above only catalogue human & mouse genes, NCBI gene **spans all organisms.** Searches usually need to be narrowed using filters or advanced search to be useful, but the amount of information given per gene is high. Sometimes the data is good quality and verified, other times it is only software predictions.  Links to all NCBI data, as well as academic publications are provided when browsing a particular gene. 
+While the archives above only catalogue human & mouse genes, [NCBI gene](https://www.ncbi.nlm.nih.gov/gene/) **spans all organisms.** Searches usually need to be narrowed using filters or advanced search to be useful, but the amount of information given per gene is high. Sometimes the data is good quality and verified, other times it is only software predictions.  Links to all NCBI data, as well as academic publications are provided when browsing a particular gene. 
 
 
 <br><br>
@@ -267,7 +267,7 @@ All read sets submitted to the following organisations are automatically shared 
 
 **SRA** &nbsp; &nbsp; &nbsp; <img src="media/ncbi_logo.png" width=80 align="center">
 
-[The NCBI Sequence Read Archive (SRA)](https://www.ncbi.nlm.nih.gov/sra) is another portal for read set access. Unlike ENA and DDBJ, it is limited to read sets only. After doing a basic search, there are a number of useful filters on the left side of the screen (taxon filters are on the right) to help narrow your results, without the need for an advanced search. This said, advanced searches are always better if you know how to use them. Accessing the actual raw read files is trickier with SRA compared to ENA, as a few links need to be followed. After selecting a read experiment, click on a sequence run accession (starts with **SRR**) in the 'Runs' section at the bottom, then on the following page select the 'Data Access' tab to access the raw data.    
+[The NCBI Sequence Read Archive (SRA)](https://www.ncbi.nlm.nih.gov/sra) is another portal for read set access. Unlike ENA and DDBJ, it is limited to read sets only. After doing a basic search, there are a number of useful filters on the left side of the screen (taxon filters are on the right) to help narrow your results, without the need for a [SRA advanced search](https://www.ncbi.nlm.nih.gov/sra/advanced). This said, advanced searches are always better if you know how to use them. Accessing the actual raw read files is trickier with SRA compared to ENA, as a few links need to be followed. After selecting a read experiment, click on a sequence run accession (starts with **SRR**) in the 'Runs' section at the bottom, then on the following page select the 'Data Access' tab to access the raw data.    
 
 <br>
 

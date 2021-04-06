@@ -246,7 +246,7 @@ While the archives above only catalogue human & mouse genes, NCBI gene **spans a
 
 <br><br>
 
-**ENA** &nbsp; &nbsp; &nbsp; <img src="media/ena_logo.png" width=90 align="center">
+**ENA** &nbsp; &nbsp; &nbsp; <img src="media/ENA_logo.png" width=90 align="center">
 
 [The European Nucleotide Archive (ENA)](https://www.ebi.ac.uk/ena/browser/home) will display read sets in their default search. In the filter menu under 'Reads', both 'Runs' and 'Experiments' contain read sets with download links to the raw FASTQ files. For a specific sequencing experiment or run, there is a 'Show Column Selection' bar above the read files section - clicking this allows a huge amount of metadata to be displayed for each read set, which can be handy if you have certain demands. The [ENA advanced search](https://www.ebi.ac.uk/ena/browser/advanced-search) facilitates searching only for read sets, and allows us to restrict the results based on numerous conditions such as taxonomic group, instrument platform, geographical location, and read length to name a few.     
 

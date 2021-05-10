@@ -5,8 +5,158 @@ This document provides ***an overview*** of some of the commonly used ***open-ac
 
 <br><br>
 
-# Contents
+# Databases
 
+Jump to
+* [Genomics & Functional Elements](#Genomics-&-Functional-Elements)
+* [Transcriptomics](#Transcriptomics)
+* [Networks, pathways & reactions](#Networks,-pathways-&-reactions)
+* [Variation](#Variation)
+* [Proteomics](#Proteomics)
+* [Microbiomics / Metagenomics](#Microbiomics-/-Metagenomics)
+* [Imaging](#Imaging)
+* [Domain Specific](#Domain-Specific)
+
+<br><br>
+
+## Genomics & Functional Elements
+
+| Name | Data stored | Organisms | Ease<br>of<br>Access | Amount<br>of<br>data | Data<br>curation<br>/quality | 
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| <br><br>**Nucleotide Databases** |
+| [ENA](https://www.ebi.ac.uk/ena/browser/home) | All nucleotide sequences | All | 🟢 | 🟢 | 🔴 |
+| [NCBI Nucleotide](https://www.ncbi.nlm.nih.gov/nuccore/) | All nucleotide sequences | All | 🟡 | 🟢 | 🔴 |
+| [DDBJ](https://www.ddbj.nig.ac.jp/index-e.html) | All nucleotide sequences | All | 🔴 | 🟢 | 🔴 |
+| <br><br>**Functional Elements** |
+| [ENCODE](https://www.encodeproject.org/) | Annotations for human functional DNA elements | Human + select model organisms | 🟢 | 🟢 | 🟢 |
+| [GENCODE](https://www.gencodegenes.org/) | Annotations for human (and mouse) genes | Human, Mouse | 🟢 | 🟢 | 🟢 |
+| [GeneCards](https://www.genecards.org/) | Aggregator for all gene-centric data. Each gene listed once. | Human | 🟢 | 🟢 | 🟡 |
+| [NCBI Gene](https://www.ncbi.nlm.nih.gov/gene/) | Genes and links to data/metadata | All | 🟡 | 🟢 | 🔴 |
+| <br><br>**Sequence Reads** |
+| [ENA](https://www.ebi.ac.uk/ena/browser/home) | All nucleotide data | All | 🟢 | 🟢 | 🔴 |
+| [SRA](https://www.ncbi.nlm.nih.gov/sra) | High-throughput sequence data | All | 🟡 | 🟢 | 🔴 |
+| [DRA](https://www.ddbj.nig.ac.jp/dra/index-e.html) | High-throughput sequence data | All | 🔴 | 🟢 | 🔴 |
+| <br><br>**Genome Assemblies** |
+| [NCBI Assembly](https://www.ncbi.nlm.nih.gov/assembly/) | Genome Assemblies | All | 🟢 | 🟢 | 🔴 |
+| [ENA](https://www.ebi.ac.uk/ena/browser/home) | All nucleotide sequences | All | 🟡 | 🟢 | 🔴 |
+| [DDBJ](https://www.ddbj.nig.ac.jp/index-e.html) | All nucleotide sequences | All | 🔴 | 🟢 | 🔴 |
+| <br><br>**Taxonomy** |
+| [NCBI Taxonomy](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1423) | The standard taxonomy system | All | 🟡 | 🟢 | 🔴 |
+
+<br><br>
+
+## Transcriptomics
+
+| Name | Data stored | Organisms | Ease<br>of<br>Access | Amount<br>of<br>data | Data<br>curation<br>/quality | 
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| <br><br>**Bulk Tissue Gene Expression** |
+| [GTEx](https://gtexportal.org/home/) | Tissue-specific gene expression and regulation | Human | 🟢 | 🟢 | 🟢 |
+| [AOE](https://aoe.dbcls.jp/en) | Aggregates publicly available gene expression data | All | 🟢 | 🟢 | 🟡 |
+| [Expression Atlas](https://www.ebi.ac.uk/gxa/home) | Abundance and localisation of RNA | All | 🟢 | 🟡 | 🟢 |
+| [GEO datasets](https://www.ncbi.nlm.nih.gov/gds/?term=all%5Bfilter%5D) | Functional Genomics Data (from NGS, Arrays etc) | All | 🟡 | 🟢 | 🟡 |
+| [GEO profiles](https://www.ncbi.nlm.nih.gov/geoprofiles/?term=all%5Bfilter%5D) | Expression profiles for a specific condition | All | 🟡 | 🟢 | 🟡 |
+| [ArrayExpress](https://www.ebi.ac.uk/arrayexpress/) | Functional Genomics Data (NGS, Arrays etc) | All | 🟡 | 🟢 | 🟡 |
+| <br><br>**Single Cell Gene Expression** |
+| [The Human Cell Atlas](https://www.humancellatlas.org/learn-more/human-cell-atlas/) | Single cell studies | Human | 🟢 | 🟢 | 🟡 |
+| [Single Cell Expression Atlas](https://www.ebi.ac.uk/gxa/sc/home) | Single cell studies | All | 🟢 | 🟡 | 🟢 |
+| [Single Cell Portal](https://singlecell.broadinstitute.org/single_cell) | Single cell studies | All | 🟡 | 🟢 | 🟡 |
+| [Tabula Muris](https://tabula-muris.ds.czbiohub.org/) | Single-cell transcriptome data | Mouse | 🟡 | 🔴 | 🟢 |
+| [Human cell landscape](https://db.cngb.org/HCL/) | Cell types and localisations | Human | 🔴 | 🔴 | 🟢 |
+| <br><br>**Gene Regulation** |
+| - | - | - | - | - | - |
+| <br><br>**Transcript Isoforms** |
+| [GTEx](https://gtexportal.org/home/) | Tissue-specific gene expression and regulation | Human | 🟢 | 🟢 | 🟢 |
+| <br><br>**Noncoding RNA** |
+| [RNAcentral ](https://rnacentral.org/) | All RNA information | All | 🟢 | 🟢 | 🟡 |
+
+<br><br>
+
+## Networks, pathways & Reactions
+
+| Name | Data stored | Organisms | Ease<br>of<br>Access | Amount<br>of<br>data | Data<br>curation<br>/quality | 
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| <br><br>**Networks** |
+| - | - | - | - | - | - |
+| <br><br>**Pathways** |
+| - | - | - | - | - | - |
+| <br><br>**Reactions** |
+| - | - | - | - | - | - |
+| <br><br>**Metabolites** |
+| - | - | - | - | - | - |
+
+<br><br>
+
+## Variation
+
+| Name | Data stored | Organisms | Ease<br>of<br>Access | Amount<br>of<br>data | Data<br>curation<br>/quality | 
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| <br><br>**Sequence variants (SNVs/SNPs, small indels etc)** |
+| - | - | - | - | - | - |
+| <br><br>**Structural Variants** |
+| - | - | - | - | - | - |
+| <br><br>**Cancer** |
+| - | - | - | - | - | - |
+
+<br><br>
+
+## Proteomics
+
+| Name | Data stored | Organisms | Ease<br>of<br>Access | Amount<br>of<br>data | Data<br>curation<br>/quality | 
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| <br><br>**Protein Sequences** |
+| - | - | - | - | - | - |
+| <br><br>**Protein Domains & Families** |
+| - | - | - | - | - | - |
+| <br><br>**Protein Expression** |
+| - | - | - | - | - | - |
+| <br><br>**Tertiary Structures** |
+| - | - | - | - | - | - |
+| <br><br>**EM, XRay, & NMR** |
+| - | - | - | - | - | - |
+
+<br><br>
+
+## Microbiomics / Metagenomics
+
+| Name | Data stored | Organisms | Ease<br>of<br>Access | Amount<br>of<br>data | Data<br>curation<br>/quality | 
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| <br><br>**Metagenomics** |
+| - | - | - | - | - | - |
+| <br><br>**Microbiomics** |
+| - | - | - | - | - | - |
+
+<br><br>
+
+## Imaging
+
+| Name | Data stored | Organisms | Ease<br>of<br>Access | Amount<br>of<br>data | Data<br>curation<br>/quality | 
+| :-: | :-: | :-: | :-: | :-: | :-: |
+
+<br><br>
+
+## Domain Specific
+
+| Name | Data stored | Organisms | Ease<br>of<br>Access | Amount<br>of<br>data | Data<br>curation<br>/quality | 
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| <br><br>**Neuroscience** |
+| - | - | - | - | - | - |
+| <br><br>**Immunology** |
+| - | - | - | - | - | - |
+| <br><br>**Fruit Flies** |
+| - | - | - | - | - | - |
+| <br><br>**Mouse** |
+| - | - | - | - | - | - |
+| <br><br>**Epigenomics** |
+| - | - | - | - | - | - |
+| <br><br>**Biodiversity** |
+| - | - | - | - | - | - |
+| <br><br>**Disease Biomarkers** |
+| - | - | - | - | - | - |
+
+<br><br>
+
+# Database Summaries
+Jump to
 
 * [Genomics](#Genomics)
     * [NCBI, ENA, & DDBJ](#NCBI,-ENA,-&-DDBJ)
@@ -14,31 +164,31 @@ This document provides ***an overview*** of some of the commonly used ***open-ac
     * [Genome Assemblies](#Genome-Assemblies)
     * [Taxonomy](#Taxonomy)
     * [Functional Elements (Annotations)](#Functional-Elements)
-* [Sequence Reads](#Reads)
     * [Next Gen Sequencing](#Next-Gen-Sequencing)
     * [Capillary Electrophoresis](#Capillary-Electrophoresis)
 * [Transcriptomics](#Transcriptomics)
     * [Bulk Tissue](#Bulk-Tissue)
     * [Single Cell](#Single-Cell)
-    * [Networks](#Networks)
+    * [Gene Regulation](#Gene-Regulation)
     * [Transcript Isoforms](#Transcript-Isoforms)
     * [Noncoding RNA](#Noncoding-RNA)
+* [Networks, pathways & Reactions](#Networks,-Pathways-&-Reactions)
+    * [Networks](#Networks)
+    * [Pathways](#Pathways)
+    * [Reactions](#Reactions)
 * [Variation](#Variation)
     * [Sequence Variation (SNVs/SNPs, Indels etc)](#Sequence-Variation)
     * [Structural Variation (SVs)](#Structural-Variation)
 * [Proteomics](#Proteomics)
     * [Protein Sequences](#Protein-Sequences)
-    * [Protein Structures](#Protein-Structures)
     * [Protein Domains & Families](#Protein-Domains-&-Families)
+    * [Protein Structures](#Protein-Structures)
     * [Protein Expression](#Protein-Expression)
     * [EM, XRay, & NMR](#EM,-XRay,-&-NMR)
-* [Pathways & Reactions](#Pathways-&-Reactions)
 * [Metagenomics / Microbiomics](#Metagenomics-/-Microbiomics)
 * [Metabolomics](#Metabolomics)
 * [Imaging](#Imaging)
 * [Domain Specific](#Domain-Specific)
-
-
 
 
 <br><br>
@@ -174,6 +324,10 @@ Once you have selected an assembly, the sequence and annotations can be download
 
 ### Taxonomy 
 
+
+
+* https://asia.ensembl.org/info/about/speciestree.html
+
 <br>
 
 | Name | Data stored | Organisms | Ease<br>of<br>Access | Amount<br>of<br>data | Data<br>curation<br>/quality | 
@@ -294,14 +448,15 @@ All read sets submitted to the following organisations are automatically shared 
 Capillary electrophoresis specific data is included in the NGS archives. The repositories above are permanent stores of DNA sequence chromotograms (traces), alongside the actual base calls and quality scores. The FASTQ data now feeds into modern archives (SRA, ENA, DRA), and can be specifically searched for using the advanced search tools (instrument platform = 'capillary').
 
 
-
 <br><br>
 
 # Transcriptomics
 
+ENCODE & GeneCards for transcriptomics - regulation of gene expression, promoters etc. 
+
 <br><br>
 
-### Bulk Tissue
+### Bulk Tissue Gene Expression
 
 <br>
 
@@ -316,7 +471,7 @@ Capillary electrophoresis specific data is included in the NGS archives. The rep
 
 <br>
 
-### Single Cell
+### Single Cell Gene Expression
 
 <br>
 
@@ -328,17 +483,15 @@ Capillary electrophoresis specific data is included in the NGS archives. The rep
 | [Tabula Muris](https://tabula-muris.ds.czbiohub.org/) | Single-cell transcriptome data | Mouse | 🟡 | 🔴 | 🟢 |
 | [Human cell landscape](https://db.cngb.org/HCL/) | Cell types and localisations | Human | 🔴 | 🔴 | 🟢 |
 
-<br>
 
-### Networks
+### Gene Regulation
 
 <br>
 
 | Name | Data stored | Organisms | Ease<br>of<br>Access | Amount<br>of<br>data | Data<br>curation<br>/quality | 
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| [Connectivity Map (CMap)](https://clue.io/data) | Transcriptional responses to chemical, genetic, and disease perturbation | Human | 🔴 | 🟢 | 🟡 |
+| [ENCODE](https://www.encodeproject.org/) | Annotations for human functional DNA elements | Human + select model organisms | 🟢 | 🟢 | 🟢 |
 
-<br>
 
 ### Transcript Isoforms
 
@@ -359,10 +512,41 @@ Capillary electrophoresis specific data is included in the NGS archives. The rep
 | [RNAcentral ](https://rnacentral.org/) | All RNA information | All | 🟢 | 🟢 | 🟡 |
 
 
+<br>
+
+## Networks, pathways & reactions
+
+<br>
+
+| Name | Data stored | Organisms | Ease<br>of<br>Access | Amount<br>of<br>data | Data<br>curation<br>/quality | 
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| [Connectivity Map (CMap)](https://clue.io/data) | Transcriptional responses to chemical, genetic, and disease perturbation | Human | 🔴 | 🟢 | 🟡 |
+https://www.imexconsortium.org/
+
+<br>
+
+<br>
+
+
 <br><br>
 
 # Variation
 
+HGMD (Human Gene Mutation Database)
+
+100k genomes project
+https://www.genomicsengland.co.uk/about-genomics-england/the-100000-genomes-project/
+
+European Genome Phenome Archive (EGA)
+https://ega-archive.org/
+
+GnomAD
+haplotypes (phased genotypes    ): International HapMap Project
+ - confused: are individuals with mental health conditions included?
+ - what about late-onset conditions? these individuals may have disease waiting to occur
+
+The Cancer Genome Atlas TCGA
+COSMIC
 
 
 <br>
@@ -377,6 +561,8 @@ Capillary electrophoresis specific data is included in the NGS archives. The rep
 | [NCBI dbSNP](https://www.ncbi.nlm.nih.gov/snp/) | All sequence variant data | Human | 🔴 | 🟢 | 🔴 |
 | [ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/) | Variant-phenotype relationship (health) | Human | 🔴 | 🟢 | 🟡 |
 | [OMIM](https://www.omim.org/) | Gene-phenotype relationship | Human | 🔴 | 🟡 | 🟢 |
+| [COSMIC](https://cancer.sanger.ac.uk/cosmic) | Somatic mutations in human cancer | Human | 🟢 | 🟢 | 🟢 |  
+| <br><br>**Neuroscience** |   
 
 <br>
 
@@ -481,6 +667,16 @@ Capillary electrophoresis specific data is included in the NGS archives. The rep
 
 <br>
 
+* enterobase https://enterobase.warwick.ac.uk/
+* VIPR virus pathogen resource
+* PlasmoDB
+* Mouse: http://www.informatics.jax.org/
+* Rat: https://www.rgd.mcw.edu/
+* Yeast: https://www.yeastgenome.org/
+* C.elegans: https://wormbase.org/#012-34-5
+* Zebrafish: http://zfin.org/
+
+
 | Name | Data stored | Organisms | Ease<br>of<br>Access | Amount<br>of<br>data | Data<br>curation<br>/quality | 
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | [SILVA](https://www.arb-silva.de/) | ribosomal RNA sequences | All | 🟡 | 🟢 | 🟢 |
@@ -520,12 +716,12 @@ Capillary electrophoresis specific data is included in the NGS archives. The rep
 
 # Domain Specific
 
+GISAID - viral stuff
+
 <br>
 
 | Name | Data stored | Organisms | Ease<br>of<br>Access | Amount<br>of<br>data | Data<br>curation<br>/quality | 
 | --- | :-: | :-: | :-: | :-: | :-: |
-| <br><br>**Cancer** |   
-| [COSMIC](https://cancer.sanger.ac.uk/cosmic) | Somatic mutations in human cancer | Human | 🟢 | 🟢 | 🟢 |  
 | <br><br>**Neuroscience** |   
 | [Allen Brain Map](https://portal.brain-map.org/) | Data and analysis related to the brain | Human, Mouse | 🟢 | 🟢 | 🟢 |  
 | <br><br>**Immunology** |   
@@ -538,6 +734,10 @@ Capillary electrophoresis specific data is included in the NGS archives. The rep
 | [FlyBase](https://flybase.org/) | All data types | Fruit flies | 🔴 | 🟢 | 🔴 |  
 | <br><br>**Epigenomics** |   
 | [MethBase](http://smithlabresearch.org/software/methbase/) | Reference methylomes (bisulfide-seq) | Selected model organisms | 🔴 | 🟡 | 🟡 | 
+
+
+* http://www.interferome.org/interferome/home.jspx
+
 
 <br>
 

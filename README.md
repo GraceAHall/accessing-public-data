@@ -45,6 +45,8 @@ Jump to
 | [DDBJ](https://www.ddbj.nig.ac.jp/index-e.html) | All nucleotide sequences | All | 🔴 | 🟢 | 🔴 |
 | <br><br>**Taxonomy** |
 | [NCBI Taxonomy](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1423) | The standard taxonomy system | All | 🟡 | 🟢 | 🔴 |
+| <br><br>**Ontologies** |
+| - | - | - | - | - | - |
 
 <br><br>
 
@@ -80,12 +82,32 @@ Jump to
 | Name | Data stored | Organisms | Ease<br>of<br>Access | Amount<br>of<br>data | Data<br>curation<br>/quality | 
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | <br><br>**Networks** |
+| [NetworkAnalyst](http://www.networkanalyst.ca/NetworkAnalyst/) | Networks relevant to a set of input genes (PPI, TF-gene networks etc) | Many Model Organisms | 🟡 | 🟢 | 🟢 |
+| [PINA](https://omics.bjcancer.org/pina/) | Visualisation of protein-protein interactions & expression in cancer subtypes | Many Model Organisms | 🟡 | 🟢 | 🟡 |
 | [Connectivity Map (CMap)](https://clue.io/data) | Transcriptional responses to chemical, genetic, and disease perturbation | Human | 🔴 | 🟢 | 🟡 |
+| [JASPAR](http://jaspar.genereg.net/)  | Transcription factor bind sites (DNA-binding preferences) | Many Model Organisms | 🟢 | 🟢 | 🟢 |
+| [TRANSFAC](http://gene-regulation.com/pub/databases.html) | Transcription factor bind sites & regulated genes. Has paywall. | Select Eukaryotes | 🔴 | 🟢 | 🟢 |
+| [KEGG](http://www.genome.jp/kegg/) | 15 databases related to the function of biological systems | All | 🟢 | 🟡 | 🟢 |
 | <br><br>**Pathways** |
 | [Reactome](https://reactome.org/) | Biological pathways | All | 🟢 | 🟢 | 🟢 |
-| [KEGG](https://www.genome.jp/kegg/kegg2.html) | Biological systems | All | 🔴 | 🟢 | 🟢 |
+| [KEGG Pathway](https://www.genome.jp/kegg/pathway.html) | Biological systems | All | 🔴 | 🟢 | 🟢 |
+| <br><br>**Interactions** |
+| [STRING](http://string-db.org/) | Known and predicted protein-protein interactions | All | 🟢 | 🟢 | 🟡 |
+| [MINT](https://mint.bio.uniroma2.it/) | Molecular interactions - primarily protein-protein interactions (feeds to IMEx) | Many Model Organisms | 🟢 | 🔴 | 🟢 |
+| [IMEx](https://www.imexconsortium.org/) | Molecular interactions (primarily PPI) curated to internationally agreed standard | Many Model Organisms | 🔴 | 🟡 | 🟢 |
+| [IntAct](https://www.ebi.ac.uk/intact/) | Aggregates molecular interactions from multiple databases (feeds to IMEx) | Many Model Organisms | 🔴 | 🟢 | 🟡 |
+
+<br><br>
+
+## Reactions & Metabolites
+
+<br><br>
+
+| Name | Data stored | Organisms | Ease<br>of<br>Access | Amount<br>of<br>data | Data<br>curation<br>/quality | 
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | <br><br>**Reactions** |
 | [Rhea](https://www.rhea-db.org/) | Reactions of biological interest | All | 🟡 | 🟢 | 🟢 |
+| [KEGG Reaction](https://www.genome.jp/kegg/reaction/) | Details of all reactions found in KEGG Pathway | All | 🟡 | 🟢 | 🟢 |
 | <br><br>**Metabolites** |
 | [ChEMBL](https://www.ebi.ac.uk/chembl/)  | Bioactive molecules | All | 🟢 | 🟢 | 🟢 |
 | [MetaboLights](https://www.ebi.ac.uk/metabolights)  | Studies of Metabolites | All | 🟡 | 🟢 | 🟡 |
@@ -107,8 +129,6 @@ Jump to
 | [EVA](https://www.ebi.ac.uk/eva/) | All variant data | All | 🟡 | 🟢 | 🔴 |
 | [NCBI dbVar](https://www.ncbi.nlm.nih.gov/dbvar/) | All structural variant data | Human | 🔴 | 🟢 | 🔴 |
 | [DGV](http://dgv.tcag.ca/dgv/app/home) | Structural variation in healthy control samples (archived) | Human | 🔴 | 🟡 | 🟡 |
-| <br><br>**Cancer** |
-| - | - | - | - | - | - |
 
 <br><br>
 
@@ -158,25 +178,24 @@ Jump to
 | Name | Data stored | Organisms | Ease<br>of<br>Access | Amount<br>of<br>data | Data<br>curation<br>/quality | 
 | --- | :-: | :-: | :-: | :-: | :-: |
 | <br><br>**Viruses** |  
-| - | - | - | - | - | - |
-| - | - | - | - | - | - | 
-| - | - | - | - | - | - |  
+| [VIPR](https://www.viprbrc.org/brc/home.spg?decorator=vipr) | Pathogenic viral genomes incl. functional annotations | Viruses | - | - | - | 
+| [GISAID](https://www.gisaid.org/) | Influenza & COVID-19 coronavirus sequences & analysis | Viruses | - | - | - |
 | <br><br>**Enterobacteria** |
-| - | - | - | - | - | - |
-| <br><br>**Malaria** |
-| - | - | - | - | - | - |
+| [Enterobase](https://enterobase.warwick.ac.uk/) | Databases for multiple enteric bacteria | Enteric Bacteria | - | - | - |
+| <br><br>**Eukaryotic Pathogens (incl Malaria)** |
+| [VEuPathDB](https://veupathdb.org/veupathdb/app/) | Databases for multiple eukaryotic pathogens incl plasmodium, giardia etc | Many Eukaryotic Pathogens | - | - | - |
 | <br><br>**Fruit flies** |   
-| [FlyBase](https://flybase.org/) | All data types | Fruit flies | 🔴 | 🟢 | 🔴 |  
+| [FlyBase](https://flybase.org/) | All | Fruit flies | 🔴 | 🟢 | 🔴 |  
 | <br><br>**Mouse** |
-| - | - | - | - | - | - |
+| [MGI](http://www.informatics.jax.org/) | All | Mus Musculus (house mouse) | - | - | - |
 | <br><br>**Rat** |
-| - | - | - | - | - | - |
+| [RGD](https://www.rgd.mcw.edu/) | All | Rattus norvegicus (common rat) | - | - | - |
 | <br><br>**Zebrafish** |
-| - | - | - | - | - | - |
+| [ZFIN](http://zfin.org/) | All | Danio rerio (zebrafish) | - | - | - |
 | <br><br>**Worms** |
-| - | - | - | - | - | - |
+| [WormBase](https://wormbase.org/#012-34-5) | All | C. elegans (roundworm) | - | - | - |
 | <br><br>**Yeast** |
-| - | - | - | - | - | - |
+| [SGD](https://www.yeastgenome.org/) | All | S. cerevisiae (Brewer's Yeast) | - | - | - |
 
 <br><br>
 
@@ -198,6 +217,7 @@ Jump to
 | [Allen Brain Map](https://portal.brain-map.org/) | Data and analysis related to the brain | Human, Mouse | 🟢 | 🟢 | 🟢 |  
 | <br><br>**Immunology** |   
 | [ImmGen](https://www.immgen.org/) | Microarray gene expression & regulation | Mouse | 🟢 | 🟢 | 🟢 |  
+| Interferome | - | - | - | - | - |  
 | <br><br>**Epigenomics** |   
 | [MethBase](http://smithlabresearch.org/software/methbase/) | Reference methylomes (bisulfide-seq) | Selected model organisms | 🔴 | 🟡 | 🟡 | 
 | <br><br>**Biodiversity** |   
@@ -208,6 +228,9 @@ Jump to
 <br><br>
 
 # Summaries
+
+This section is designed to provide a quick summary of each resource mentioned above. It is currently being generated over time. 
+
 Jump to
 
 * [Genomics](#Genomics)
@@ -462,8 +485,6 @@ br>
 <br>
 
 
-
-
 ### Gene Regulation
 
 
@@ -473,7 +494,52 @@ br>
 ### Noncoding RNA
 
 
-## Networks, pathways & reactions
+# Networks, pathways & reactions
+
+## Networks
+
+<br>
+
+**NetworkAnalyist** &nbsp; &nbsp; &nbsp; <img src="media/networkanalyst_logo.png" width=40 align="center">
+
+Text
+
+<br>
+
+**PINA** &nbsp; &nbsp; &nbsp; <img src="media/pina_logo.png" width=90 align="center">
+
+[The Protein Interaction Network Analysis (PINA)](https://omics.bjcancer.org/pina/)
+
+<br>
+
+
+
+## Pathways
+
+<br>
+
+**Reactome** &nbsp; &nbsp; &nbsp; <img src="media/Reactome_logo.png" width=35 align="center">
+
+[Reactome](https://reactome.org/) allows the user to interactively explore cellular pathways for multiple model organisms (incl human). Reactome consists of metabolic and  signalling molecules placed into the biological pathways and processes they are associated with. For example, the human apoptosis pathway can be explored to find which molecules take part in this pathway, and which reactions occur. User data can be uploaded to perform pathway enrichment analysis. The data is curated by domain experts and is backed by primary literature.  
+
+
+<br>
+
+## Interactions
+
+<br>
+
+**STRING** &nbsp; &nbsp; &nbsp; <img src="media/string_logo.png" width=90 align="center">
+
+[STRING](http://string-db.org/) contains known and predicted protein-protein interactions. Both direct (physical) and indirect (functional) interactions are shown. More than 24 million proteins are documented spanning over 5,000 organisms.  Searching for a protein and organism returns a small PPI network which users can follow and interact with to understand the nature of these interactions.  STRING uses various methods to support the interactions it presents, including co-expression experiments, genomic context (nearby regulatory elements), text-mining, and data pulled from other databases. 
+
+<br>
+
+**IMEx** &nbsp; &nbsp; &nbsp; <img src="media/IMEx_logo.png" width=65 align="center">
+
+The [IMEx Consortium](https://www.imexconsortium.org/) catalogues experimentally demonstrated molecular interactions. It focuses on protein-protein interactions within model organisms such as homo sapiens and mus musculus. Biochemical evidence (Y2H, coimmunoprecipitation assays etc) is provided for each interaction in the catalogue.  To properly search for interactions, the [Molecular Interaction Query Language](https://www.ebi.ac.uk/intact/imex/help.xhtml) should be used. These are key-value tags (ie species:human) which allow search narrowing.  
+
+<br>
 
 
 # Variation
@@ -495,30 +561,7 @@ The Cancer Genome Atlas TCGA
 COSMIC
 
 
-<br>
-
-### Sequence Variation
-
-
-
-### Structural Variation
-
-
-# Proteomics
-
-
-
-<br>
-
-### Protein Sequences 
-
-### Protein Domains & Families
-
-### Protein Structures 
-
-### Protein Expression 
-
-### EM, XRay, & NMR  
+# Proteomics 
 
 # Pathways & Reactions
 
